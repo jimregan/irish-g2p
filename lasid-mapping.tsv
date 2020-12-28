@@ -1,3 +1,8 @@
+a	a
+a:	aː
+a.	aˑ
+I	ɪ
+I:	ɪː
 b\xef	b′
 b\xf0	b″
 d\xf0	d″
@@ -18,6 +23,7 @@ t\xf0	t″
 \x8b	ï
 \x94	ö
 \x9b	ø
+\x97:	ɑ̜ː
 \x97	ɑ̜
 \x99	t̠
 \x9a	r̠
@@ -30,7 +36,8 @@ t\xf0	t″
 \xe2	ẹ
 \xef	′
 \xf2	ö̃
-\xfc	χ
 \xf9	ʃ
+\xfc	χ
+\xfe	ŋ
 \x17	^ʃ
 \x1f	ᵊ
