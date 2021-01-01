@@ -98,7 +98,7 @@ f′iəstαlαχ	fiastalach
 f′αdαli:	feadalaigh	feadaíl
 f′αdαlαχ	feadalach	feadaíl
 f′ɛk′αlαχ	feiceálach
-fαdαlαχ	fadálacht
+fαdαlαχ	fadálach
 ɔr̥αlαχə	othrálacha	ofrálacha
 ɔr̥æl	othráil	ofráil
 u:hαs	uathás	uafás
@@ -107,3 +107,16 @@ rα:mαs	rámas	ramás	raiméis
 d′r′əuwlαs	dreabhlas	drabhlás
 d′r′əuwlαsαχ	dreabhlasach	drabhlásach
 o̤rLαr	urlár
+ti:dɔr′	tuíodóir
+ti:dαrαχt	tuíodóracht	tuíodóireacht
+spwæʃt′αrαχt	spaisteoireacht
+N′ɛəLtαrαχt	néalladóireacht	néaladóireacht
+ʃαnəmαNti:	seanmóntaí	seanmóirí
+ʃαnəmɔr′	seanmóir
+fwiN′ɔg	fuinneog
+fwiN′αg	fuinneog
+fwi:l′αg	faoileog	faoileán
+kyN′αg	cuinneog
+m′iəLtɔgy:	míoltógaí	míoltóga
+αsɔgy:	easógaí	easóga
+b′αχɔgy:	beachógaí	beacha
