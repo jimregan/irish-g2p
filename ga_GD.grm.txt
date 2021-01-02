@@ -3,13 +3,13 @@ LLB = ("omh" : "oo") |
       ("agha" : "ee") |
       ("ua" : "u@") |
       ("uá" : "uu aa") |
-      ("uó" : "uu oo") |
+      ("uó" : "uu oo");
 
 LCB = ("adhai" : "ee") |
       ("aghai" : "ee") |
       ("uai" : "u@") |
       ("uái" : "uu aa") |
-      ("uói" : "uu oo") |
+      ("uói" : "uu oo");
 
 CCB = ("eadhai" : "ee") |
       ("aighai" : "ee") | # ??
@@ -229,7 +229,7 @@ CONSC = ("b" : "bj") |
         ("gh" : "gfj") |
         ("mh" : "vj") |
         ("ph" : "fj") |
-        ("sh" : "h") |
+#        ("sh" : "h") |
 # RULE: h > xj || L($) _<eái|eá|eo|eoi|iú|iúi>
 
 
@@ -237,6 +237,7 @@ CONSB = ("v" : "vj") |
         ("w" : "v") |
         ("x" : "k s") |
         ("fh" : "") |
+        ("th" : "h") |
         
 
 CONSCSTARTM = ("r" : "r") |
