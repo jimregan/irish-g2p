@@ -197,6 +197,13 @@ CONSL = ("b" : "b") |
         ("rr" : "r") |
         ("s" : "s") |
         ("t" : "t") |
+        ("bh" : "v") |
+        ("ch" : "h") |
+        ("dh" : "gf") |
+        ("gh" : "gf") |
+        ("mh" : "v") |
+        ("ph" : "f") |
+        ("sh" : "h") |
 
 CONSC = ("b" : "bj") |
         ("c" : "kj") |
@@ -216,11 +223,28 @@ CONSC = ("b" : "bj") |
         ("rr" : "rj") |
         ("s" : "sj") |
         ("t" : "tj") |
+        ("bh" : "vj") |
+        ("ch" : "xj") |
+        ("dh" : "gfj") |
+        ("gh" : "gfj") |
+        ("mh" : "vj") |
+        ("ph" : "fj") |
+        ("sh" : "h") |
+# RULE: h > xj || L($) _<eái|eá|eo|eoi|iú|iúi>
+
+
+CONSB = ("v" : "vj") |
+        ("w" : "v") |
+        ("x" : "k s") |
+        ("fh" : "") |
+        
 
 CONSCSTARTM = ("r" : "r") |
               ("n" : "nnj") |
               ("l" : "llj") |
               ("nd" : "nnj") |
+
+CONSLSTARTM = ("ch" : "h") |
 
 CONSLSTARTONLY = ("t'" : "t") |
                  ("t’" : "t") |
