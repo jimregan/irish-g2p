@@ -44,6 +44,7 @@ alignable { input: "df" output: "t" }
 alignable { input: "df" output: "t′" }
 alignable { input: "dh" output: "ɣ" }
 alignable { input: "dh" output: "ɣ′" }
+alignable { input: "dr" output: "d ə r" }
 alignable { input: "dth" output: "t" }
 alignable { input: "dth" output: "t′" }
 alignable { input: "e" output: "e" }
@@ -118,12 +119,18 @@ alignable { input: "iúi" output: "uː" }
 alignable { input: "l" output: "l′" }
 alignable { input: "l" output: "ʟ" }
 alignable { input: "l" output: "ʟ′" }
+alignable { input: "lb" output: "ʟ ə b" }
+alignable { input: "lbh" output: "l′ ə w′" }
+alignable { input: "lbhf" output: "l′ ə f′" }
+alignable { input: "lg" output: "ʟ ə g" }
 alignable { input: "ll" output: "ʟ" }
 alignable { input: "ll" output: "ʟ′" }
+alignable { input: "lm" output: "l′ ə m′" }
 alignable { input: "m" output: "m" }
 alignable { input: "m" output: "m′" }
 alignable { input: "mh" output: "w" }
 alignable { input: "mh" output: "w′" }
+alignable { input: "ml" output: "m′ ə l′" }
 alignable { input: "n" output: "n" }
 alignable { input: "n" output: "n′" }
 alignable { input: "n" output: "r" }
@@ -132,8 +139,11 @@ alignable { input: "n" output: "ŋ" }
 alignable { input: "n" output: "ŋ′" }
 alignable { input: "n" output: "ɴ" }
 alignable { input: "n" output: "ɴ′" }
+alignable { input: "nb" output: "ɴ ə b" }
+alignable { input: "nbh" output: "n′ ə w′" }
 alignable { input: "ng" output: "ŋ" }
 alignable { input: "ng" output: "ŋ′" }
+alignable { input: "nm" output: "n′ ə m′" }
 alignable { input: "nn" output: "ɴ" }
 alignable { input: "nn" output: "ɴ′" }
 alignable { input: "o" output: "o" }
@@ -156,6 +166,11 @@ alignable { input: "ph" output: "f" }
 alignable { input: "ph" output: "f′" }
 alignable { input: "r" output: "r" }
 alignable { input: "r" output: "r′" }
+alignable { input: "rb" output: "r′ ə b′" }
+alignable { input: "rbh" output: "r′ ə w′" }
+alignable { input: "rf" output: "r ə f" }
+alignable { input: "rg" output: "r ə g" }
+alignable { input: "rm" output: "r ə m" }
 alignable { input: "rr" output: "r" }
 alignable { input: "rr" output: "r′" }
 alignable { input: "s" output: "s" }
