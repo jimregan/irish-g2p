@@ -1,0 +1,256 @@
+import 'util.grm' as u;
+
+LLB = ("omh" : "oo") |
+      ("adha" : "ee") |
+      ("agha" : "ee") |
+      ("ua" : "u@") |
+      ("uá" : "uu aa") |
+      ("uó" : "uu oo");
+
+LCB = ("adhai" : "ee") |
+      ("aghai" : "ee") |
+      ("uai" : "u@") |
+      ("uái" : "uu aa") |
+      ("uói" : "uu oo");
+
+CCB = ("eadhai" : "ee") |
+      ("idh" : "ii") |
+      ("iuai" : "u@") |
+      ("iai" : "i@") |
+      ("iái" : "ii aa") |
+      ("iuái" : "uu aa") |
+      ("iói" : "ii oo");
+
+CLB = ("ia" : "i@") |
+      ("iá" : "ii aa") |
+      ("iuá" : "uu aa") |
+      ("ió" : "ii oo");
+
+LNSF = ("omh" : "uu");
+
+LLS = ("a" : "a") |
+      ("o" : "o") |
+      ("u" : "u") |
+      ("á" : "aa") |
+      ("ae" : "ee") |
+      ("ao" : "ii") |
+      ("uío" : "ii") |
+      ("aío" : "ii") |
+      ("ó" : "oo") |
+      ("ú" : "uu") |
+      ("adh" : "ee") |
+      ("agh" : "ee") |
+      ("abh" : "au") |
+      ("abha" : "au") |
+      ("amh" : "au") |
+      ("amha" : "au") |
+      ("ogh" : "au") |
+      ("ogha" : "au") |
+      ("odh" : "au") |
+      ("odha" : "au") |
+      ("obha" : "au");
+
+CLS = ("ea" : "a") |
+      ("io" : "i") |
+      ("iu" : "u") |
+      ("eá" : "aa") |
+      ("éa" : "ee") |
+      ("ío" : "ii") |
+      ("ió" : "oo") |
+      ("eó" : "oo") |
+      ("eo" : "oo") |
+      ("iú" : "uu") |
+      ("eadh" : "ee") |
+      ("eabh" : "au") |
+      ("eabha" : "au") |
+      ("eamh" : "au") |
+      ("eamha" : "au");
+
+LCS = ("ai" : "a") |
+      ("ue" : "e") |
+      ("ui" : "i") |
+      ("oi" : "o") |
+      ("ái" : "aa") |
+      ("aei" : "ee") |
+      ("aí" : "ii") |
+      ("uí" : "ii") |
+      ("oí" : "ii") |
+      ("aoi" : "ii") |
+      ("ói" : "oo") |
+      ("úi" : "uu") |
+      ("úai" : "uu") |
+      ("oidh" : "ai") |
+      ("oigh" : "ai") |
+      ("aidh" : "ee") |
+      ("aigh" : "ai") |
+      ("abhai" : "au") |
+      ("amhai" : "au") |
+      ("obhai" : "au");
+
+CCS = ("eai" : "a") |
+      ("ei" : "e") |
+      ("i" : "i") |
+      ("eái" : "aa") |
+      ("é" : "ee") |
+      ("éi" : "ee") |
+      ("í" : "ii") |
+      ("eoi" : "oo") |
+      ("iúi" : "uu") |
+      ("eidh" : "ee") |
+      ("igh" : "ai") |
+      ("eabhai" : "au") |
+      ("eamhai" : "au");
+
+LLNS = ("a" : "@") |
+       ("o" : "@") |
+       ("u" : "@") |
+       ("á" : "a") |
+       ("ae" : "e") |
+       ("ao" : "i") |
+       ("uío" : "i") |
+       ("uío" : "i@") |
+       ("aío" : "i") |
+       ("aío" : "i@") |
+       ("ó" : "o_o") |
+       ("ú" : "u") |
+       ("adh" : "uu") |
+       ("agh" : "@") |
+       ("abh" : "@") |
+       ("abha" : "@") |
+       ("amh" : "@") |
+       ("amha" : "@") |
+       ("ogh" : "@") |
+       ("ogha" : "@") |
+       ("odh" : "uu") |
+       ("odha" : "@") |
+       ("obha" : "@");
+
+CLNS = ("ea" : "@") |
+       ("io" : "@") |
+       ("iu" : "@") |
+       ("eá" : "a") |
+       ("éa" : "e") |
+       ("ío" : "i") |
+       ("ío" : "i@") |
+       ("ió" : "o_o") |
+       ("eó" : "o_o") |
+       ("eo" : "o_o") |
+       ("iú" : "u") |
+       ("eadh" : "uu") |
+       ("eabh" : "uu") |
+       ("eabha" : "@") |
+       ("eamh" : "uu") |
+       ("eamha" : "@");
+
+LCNS = ("ai" : "@") |
+       ("ue" : "@") |
+       ("ui" : "@") |
+       ("oi" : "@") |
+       ("ái" : "a") |
+       ("aei" : "e") |
+       ("aí" : "i") |
+       ("uí" : "i") |
+       ("oí" : "i") |
+       ("aoi" : "i") |
+       ("ói" : "o_o") |
+       ("úi" : "u") |
+       ("úai" : "u") |
+       ("oidh" : "@") |
+       ("oigh" : "@") |
+       ("aidh" : "ii") |
+       ("aigh" : "ii") |
+       ("abhai" : "@") |
+       ("amhai" : "@") |
+       ("obhai" : "@");
+
+CCNS = ("eai" : "@") |
+       ("ei" : "@") |
+       ("i" : "@") |
+       ("eái" : "a") |
+       ("é" : "e") |
+       ("éi" : "e") |
+       ("í" : "i") |
+       ("eoi" : "o_o") |
+       ("iúi" : "u") |
+       ("eidh" : "@") |
+       ("eighea" : "@") |
+       ("igh" : "@") |
+       ("eabhai" : "@") |
+       ("eamhai" : "@");
+
+CONSL = ("b" : "b") |
+        ("c" : "k") |
+        ("d" : "d") |
+        ("f" : "f") |
+        ("g" : "g") |
+        ("h" : "h") |
+        ("j" : "dj") |
+        ("k" : "k") |
+        ("l" : "ll") |
+        ("ll" : "ll") |
+        ("m" : "m") |
+        ("n" : "nn") |
+        ("p" : "p") |
+        ("q" : "k") |
+        ("r" : "r") |
+        ("rr" : "r") |
+        ("s" : "s") |
+        ("t" : "t") |
+        ("bh" : "v") |
+        ("ch" : "h") |
+        ("dh" : "gf") |
+        ("gh" : "gf") |
+        ("mh" : "v") |
+        ("ph" : "f") |
+        ("sh" : "h");
+
+CONSC = ("b" : "bj") |
+        ("c" : "kj") |
+        ("d" : "dj") |
+        ("f" : "fj") |
+        ("g" : "gj") |
+        ("h" : "h") |
+        ("j" : "dj") |
+        ("k" : "kj") |
+        ("l" : "lj") |
+        ("ll" : "llj") |
+        ("m" : "mj") |
+        ("n" : "nj") |
+        ("p" : "pj") |
+        ("q" : "kj") |
+        ("r" : "rj") |
+        ("rr" : "rj") |
+        ("s" : "sj") |
+        ("t" : "tj") |
+        ("bh" : "vj") |
+        ("ch" : "xj") |
+        ("dh" : "gfj") |
+        ("gh" : "gfj") |
+        ("mh" : "vj") |
+        ("ph" : "fj");
+
+
+CONSB = ("v" : "vj") |
+        ("w" : "v") |
+        ("x" : "k s") |
+        ("fh" : "") |
+        ("th" : "h");
+        
+
+CONSCSTARTM = ("r" : "r") |
+              ("n" : "nnj") |
+              ("l" : "llj") |
+              ("nd" : "nnj");
+
+CONSLSTARTM = ("ch" : "h");
+
+CONSLSTARTONLY = ("t'" : "t") |
+                 ("t’" : "t") |
+                 ("t-" : "t");
+
+Cstart = CONSL | CONSLSTARTONLY | CONSB;
+C = CONSL | CONSB;
+
+CVC = Cstart u.I[" "] LLS u.I[" "] C;
+export CVCVC = Cstart u.I[" "] LLS u.I[" "] C u.I[" "] LLNS u.I[" "] C;
+
