@@ -20,9 +20,12 @@ order="${3:-6}"
 theta="${4:-1e-2}"
 
 # Tools:
-runfiles="${0}.runfiles"
-festus="$runfiles/language_resources/festus"
-opengrm="$runfiles/opengrm_ngram"
+#runfiles="${0}.runfiles"
+runfiles=/home/jim/language-resources/
+#festus="$runfiles/language_resources/festus"
+festus=$runfiles/bazel-bin/festus
+#opengrm="$runfiles/opengrm_ngram"
+opengrm=/usr/bin
 
 "$opengrm/ngramcount" \
   --order="$order" \

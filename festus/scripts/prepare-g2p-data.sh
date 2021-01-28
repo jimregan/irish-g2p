@@ -21,9 +21,10 @@ train="$outdir/g2p_train.far"
 test="$outdir/g2p_test.tsv"
 
 # Tools:
-runfiles="${0}.runfiles"
-festus="$runfiles/language_resources/festus"
-openfst="$runfiles/openfst"
+#runfiles="${0}.runfiles"
+#festus="$runfiles/language_resources/festus"
+#openfst="$runfiles/openfst"
+festus=/home/jim/language-resources/bazel-bin/festus/
 
 export LC_ALL=C.UTF-8
 
@@ -45,7 +46,7 @@ comm -23 - "$test" |
   --filter |
 tee "$outdir/g2p_train.tsv" |
 cut -f 3 |
-"$openfst/farcompilestrings" \
+farcompilestrings \
   --symbols="$syms" \
   --keep_symbols \
   --generate_keys=6 \
