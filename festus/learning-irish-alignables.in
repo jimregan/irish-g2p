@@ -4,7 +4,9 @@ alignable { input: "a" output: "ɑː" }
 alignable { input: "a" output: "ə" }
 alignable { input: "abh" output: "au" }
 alignable { input: "abha" output: "au" }
+alignable { input: "abhai" output: "au" }
 alignable { input: "adh" output: "ai" }
+alignable { input: "adh" output: "ɑː" }
 alignable { input: "adh" output: "ə" }
 alignable { input: "adha" output: "ai" }
 alignable { input: "ae" output: "eː" }
@@ -19,7 +21,9 @@ alignable { input: "ai" output: "ə" }
 alignable { input: "aidh" output: "ai" }
 alignable { input: "aigh" output: "ai" }
 alignable { input: "aighe" output: "ai" }
+alignable { input: "aithe" output: "iː" }
 alignable { input: "amh" output: "au" }
+alignable { input: "amh" output: "oː" }
 alignable { input: "amha" output: "au" }
 alignable { input: "ao" output: "iː" }
 alignable { input: "aoi" output: "iː" }
@@ -58,6 +62,7 @@ alignable { input: "ea" output: "ɑː" }
 alignable { input: "ea" output: "ə" }
 alignable { input: "eabh" output: "au" }
 alignable { input: "eabha" output: "au" }
+alignable { input: "eabhai" output: "au" }
 alignable { input: "eadh" output: "ai" }
 alignable { input: "eadha" output: "ai" }
 alignable { input: "eai" output: "aː" }
@@ -183,6 +188,7 @@ alignable { input: "t" output: "t′" }
 alignable { input: "th" output: "h" }
 alignable { input: "th" output: "x′" }
 alignable { input: "u" output: "u" }
+alignable { input: "u" output: "ə" }
 alignable { input: "ua" output: "uː" }
 alignable { input: "ua" output: "uːə" }
 alignable { input: "uadhadh" output: "uːəuː" }
