@@ -196,7 +196,6 @@ alignable { input: "ng" output: "ŋ gʹ" }
 alignable { input: "ng" output: "ŋ" }
 alignable { input: "nn" output: "n" }
 alignable { input: "nn" output: "ŋʹ" }
-alignable { input: "nn" output: "ŋʹn" }
 alignable { input: "o" output: "'o" }
 alignable { input: "o" output: "'ou" }
 alignable { input: "o" output: "'u" }
