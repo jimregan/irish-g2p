@@ -1,0 +1,11 @@
+# prefer ith + f (crithfidh)
+forbidden {
+    alignable { input: "i" output: "ˈɪ" }
+    alignable { input: "thf" output: "hʲ" }
+}
+
+# prefer aith + f (chaithfeadh)
+forbidden {
+    alignable { input: "ai" output: "ˈa" }
+    alignable { input: "thf" output: "hˠ" }
+}
