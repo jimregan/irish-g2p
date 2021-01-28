@@ -1,3 +1,5 @@
+import 'util.grm' as u;
+
 LLB = ("omh" : "oo") |
       ("adha" : "ee") |
       ("agha" : "ee") |
@@ -12,23 +14,21 @@ LCB = ("adhai" : "ee") |
       ("uói" : "uu oo");
 
 CCB = ("eadhai" : "ee") |
-      ("aighai" : "ee") | # ??
       ("idh" : "ii") |
       ("iuai" : "u@") |
       ("iai" : "i@") |
       ("iái" : "ii aa") |
       ("iuái" : "uu aa") |
-      ("iói" : "ii oo") |
+      ("iói" : "ii oo");
 
 CLB = ("ia" : "i@") |
       ("iá" : "ii aa") |
       ("iuá" : "uu aa") |
-      ("ió" : "ii oo") |
+      ("ió" : "ii oo");
 
-LNSF = ("omh" : "uu") |
+LNSF = ("omh" : "uu");
 
 LLS = ("a" : "a") |
-# RULE: o > oo || L(1) _<r> R(C|#)
       ("o" : "o") |
       ("u" : "u") |
       ("á" : "aa") |
@@ -48,7 +48,7 @@ LLS = ("a" : "a") |
       ("ogha" : "au") |
       ("odh" : "au") |
       ("odha" : "au") |
-      ("obha" : "au") |
+      ("obha" : "au");
 
 CLS = ("ea" : "a") |
       ("io" : "i") |
@@ -64,7 +64,7 @@ CLS = ("ea" : "a") |
       ("eabh" : "au") |
       ("eabha" : "au") |
       ("eamh" : "au") |
-      ("eamha" : "au") |
+      ("eamha" : "au");
 
 LCS = ("ai" : "a") |
       ("ue" : "e") |
@@ -85,7 +85,7 @@ LCS = ("ai" : "a") |
       ("aigh" : "ai") |
       ("abhai" : "au") |
       ("amhai" : "au") |
-      ("obhai" : "au") |
+      ("obhai" : "au");
 
 CCS = ("eai" : "a") |
       ("ei" : "e") |
@@ -97,10 +97,9 @@ CCS = ("eai" : "a") |
       ("eoi" : "oo") |
       ("iúi" : "uu") |
       ("eidh" : "ee") |
-      ("eighea" : "ee") | #??
       ("igh" : "ai") |
       ("eabhai" : "au") |
-      ("eamhai" : "au") |
+      ("eamhai" : "au");
 
 LLNS = ("a" : "@") |
        ("o" : "@") |
@@ -124,7 +123,7 @@ LLNS = ("a" : "@") |
        ("ogha" : "@") |
        ("odh" : "uu") |
        ("odha" : "@") |
-       ("obha" : "@") |
+       ("obha" : "@");
 
 CLNS = ("ea" : "@") |
        ("io" : "@") |
@@ -141,7 +140,7 @@ CLNS = ("ea" : "@") |
        ("eabh" : "uu") |
        ("eabha" : "@") |
        ("eamh" : "uu") |
-       ("eamha" : "@") |
+       ("eamha" : "@");
 
 LCNS = ("ai" : "@") |
        ("ue" : "@") |
@@ -162,7 +161,7 @@ LCNS = ("ai" : "@") |
        ("aigh" : "ii") |
        ("abhai" : "@") |
        ("amhai" : "@") |
-       ("obhai" : "@") |
+       ("obhai" : "@");
 
 CCNS = ("eai" : "@") |
        ("ei" : "@") |
@@ -177,7 +176,7 @@ CCNS = ("eai" : "@") |
        ("eighea" : "@") |
        ("igh" : "@") |
        ("eabhai" : "@") |
-       ("eamhai" : "@") |
+       ("eamhai" : "@");
 
 CONSL = ("b" : "b") |
         ("c" : "k") |
@@ -203,7 +202,7 @@ CONSL = ("b" : "b") |
         ("gh" : "gf") |
         ("mh" : "v") |
         ("ph" : "f") |
-        ("sh" : "h") |
+        ("sh" : "h");
 
 CONSC = ("b" : "bj") |
         ("c" : "kj") |
@@ -228,25 +227,30 @@ CONSC = ("b" : "bj") |
         ("dh" : "gfj") |
         ("gh" : "gfj") |
         ("mh" : "vj") |
-        ("ph" : "fj") |
-#        ("sh" : "h") |
-# RULE: h > xj || L($) _<eái|eá|eo|eoi|iú|iúi>
+        ("ph" : "fj");
 
 
 CONSB = ("v" : "vj") |
         ("w" : "v") |
         ("x" : "k s") |
         ("fh" : "") |
-        ("th" : "h") |
+        ("th" : "h");
         
 
 CONSCSTARTM = ("r" : "r") |
               ("n" : "nnj") |
               ("l" : "llj") |
-              ("nd" : "nnj") |
+              ("nd" : "nnj");
 
-CONSLSTARTM = ("ch" : "h") |
+CONSLSTARTM = ("ch" : "h");
 
 CONSLSTARTONLY = ("t'" : "t") |
                  ("t’" : "t") |
-                 ("t-" : "t") |
+                 ("t-" : "t");
+
+Cstart = CONSL | CONSLSTARTONLY | CONSB;
+C = CONSL | CONSB;
+
+CVC = Cstart u.I[" "] LLS u.I[" "] C;
+export CVCVC = Cstart u.I[" "] LLS u.I[" "] C u.I[" "] LLNS u.I[" "] C;
+
