@@ -18,12 +18,14 @@ alignable { input: "ai" output: "u" }
 alignable { input: "ai" output: "æː" }
 alignable { input: "ai" output: "ɑː" }
 alignable { input: "ai" output: "ə" }
+alignable { input: "aibh" output: "iː" }
 alignable { input: "aidh" output: "ai" }
 alignable { input: "aigh" output: "ai" }
 alignable { input: "aighe" output: "ai" }
 alignable { input: "aithe" output: "iː" }
 alignable { input: "amh" output: "au" }
 alignable { input: "amh" output: "oː" }
+alignable { input: "amh" output: "ə" }
 alignable { input: "amha" output: "au" }
 alignable { input: "ao" output: "iː" }
 alignable { input: "aoi" output: "iː" }
@@ -175,7 +177,9 @@ alignable { input: "rb" output: "r′ ə b′" }
 alignable { input: "rbh" output: "r′ ə w′" }
 alignable { input: "rf" output: "r ə f" }
 alignable { input: "rg" output: "r ə g" }
+alignable { input: "rg" output: "r′ ə g′" }
 alignable { input: "rm" output: "r ə m" }
+alignable { input: "rm" output: "r′ ə m′" }
 alignable { input: "rr" output: "r" }
 alignable { input: "rr" output: "r′" }
 alignable { input: "s" output: "s" }
@@ -195,6 +199,7 @@ alignable { input: "uadhadh" output: "uːəuː" }
 alignable { input: "uai" output: "uː" }
 alignable { input: "uai" output: "uːə" }
 alignable { input: "uaiche" output: "uːəiː" }
+alignable { input: "uaidh" output: "uːə" }
 alignable { input: "uaithe" output: "uːəiː" }
 alignable { input: "ubh" output: "uː" }
 alignable { input: "ubha" output: "uː" }
