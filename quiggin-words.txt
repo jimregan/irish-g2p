@@ -1,3 +1,4 @@
+# p. 5, § 3
 αrəm, ‘army’, O.Ir. arm
 αt, ‘swelling’, O.Ir. att
 fαnαχt ‘to stay, remain’, O.Ir. anaim
@@ -7,6 +8,7 @@ mαLαχt, ‘curse’, O.Ir. maldacht
 tαχtuw, ‘to choke’, O.Ir. tachtad
 tαrt, ‘thirst’, O.Ir. tart
 tαruw, ‘bull’, M.Ir. tarb
+# p. 5-6, § 4
 αχ, ‘steed’, O.Ir. ech
 αlə, ‘swan’, M.Ir. ela
 αŋ, ‘splice, strip’
@@ -25,6 +27,7 @@ t′αχ, ‘house’, O.Ir. tech
 ə t′αspəl, ‘the apostle’, O.Ir. apstal
 ə t′αsrïgər, ‘a back-answer, sharp retort’ < ais-fhreagar
 mər ə N′αnəN, kũαnəN, ‘alike, level, equal’, O.Ir. inonn
+# p. 6, § 5
 kαhuw, ‘to spend, wear, throw’, O.Ir. caithem
 ə wα̃hə l′ɛ, ‘for the sake of’, Di. mar (ar) mhaithe le
 mα gə L′ɔ:r, ‘alright’ = maith go leor
@@ -32,24 +35,30 @@ mα gə L′ɔ:r, ‘alright’ = maith go leor
 αhəNtə, ‘acquainted’,  Di. aitheanta
 en̥′ə, O.Ir. aithgne, 
 dαhin′ m′ə, ‘I recognised’, Di. d’aithin
-αhəNtə, ‘commandments’, Di. aitheanta pl. of aithne, so O.Ir.; αhiN′ə, ‘brand’, M.Ir. aithinne
+αhəNtə, ‘commandments’, Di. aitheanta pl. of aithne, so O.Ir.
+αhiN′ə, ‘brand’, M.Ir. aithinne
 mαhũw, ‘to forgive’, O.Ir. mathem
 fαrəg′ə, ‘sea’, O.Ir. fairgge
 fαrsiN′, ‘ample’, O.Ir. fairsing
 mαrst′ən, infin. of mairim, ‘I remain, last’, Wi. maraim
 αm′ʃir′, ‘weather’, O.Ir. aimser
 tαvʃə, ‘ghost’, M.Ir. taidbsiu
+# p. 6, § 6
 αf′r′əN, ‘mass’, Wi. oifrend
+# p. 6-7, § 7
 sNαhəd, ‘needle’, O.Ir. snáthat
 sNαhəd, sNαhuw, ‘to wash down, spice’
 sNα:ihəm, pret. nα:iç, past part. sNα:t′ə, Di. snathadh
 αhəs, ‘joy’, M.Ir. áithes
 tαhər, ‘man ist’, M.Ir. atáthar
-N′i: αhαr < ní fhaghthar as in the proverb N′i: αhər sæL′ gən çαNαχt, ‘lard is not got without buying’
+N′i: αhαr < ní fhaghthar
+>proverb: N′i: αhər sæL′ gən çαNαχt, ‘lard is not got without buying’
 mαhær′, ‘mother’, O.Ir. máthir
 drαh ə Nαmə ʃɔ, ‘about this time’ = i dtráth an ama seo, cp. Craig, Iasg. s. dratha
 sə Nαm ə Lαhir′, ‘at the present time’
+# p. 7, § 8
 Nα̃:wid′, ‘enemy’, O.Ir. ace. pl. náimtea
+# p. 7, § 9
 αgəs, ‘and’, O.Ir. ocus
 αskəL, ‘arm-pit’, M.Ir. ochsal
 bαrəb, ‘rough’, M.Ir. borb
@@ -70,6 +79,7 @@ skαhuw, ‘to wean’, M.Ir. scothaim
 spαrαn but also spɔrαn, ‘purse’, M.Ir. sporán
 tαrəmαn, ‘noise’, Wi. Ir. T. iv 1 tormán
 fɔskluw, ‘to open’, fut. N′i: αsklαχi:.
+# p. 7-8, § 10
 g′αrαn, ‘horse’, lit. ‘gelding’, M.Ir. gerrán
 skαhαn, ‘mirror’, M.Ir. scathán
 glu:rəkαn, ‘numbness’
@@ -78,7 +88,8 @@ ruəkən, ‘cockle’ = Di. ruacán
 mαkαNtə, ‘civil, decent’, lit. ‘filial’ < O.Ir. maccán, ‘puerulus’
 spαdαNtə, ‘seedy, out of sorts’, Di. spadánta
 f′iαNtə, ‘wild’ (used of people), Di. fiadhanta
-α̃uwlaNtə, ‘foolishly prating’, formed from α̃uwlɔr′, Di. amhlóir, M.Ir. oblóir
+α̃uwlaNtə, ‘foolishly prating’
+:formed from α̃uwlɔr′, Di. amhlóir, M.Ir. oblóir
 f′iəstαlαχ, ‘rush’, Di. fiastalach
 f′αdαli:, ‘to whistle’, f′αdαlαχ, ‘whistling’, Di. feadálach
 f′ɛk′αlαχ, ‘conspicuous, remarkable, handsome’
@@ -89,6 +100,7 @@ prα:kαs, ‘small, deformed person’, Di. prácás
 rα:mαs, ‘idle talk’
 d’r’əuwlαs, ‘licentiousness’, d’r’əuwlαsαχ, ‘licentious’, cp. Di. dreabhlas, drobhlas
 o̤rLαr, ‘floor’, Di. urlár
+# p. 8, § 11
 ti:dɔr′, ‘thatcher’, Di. tuigheadoir
 ti:dαrαχt, ‘thatching’
 spwæʃt′αrαχt, ‘strolling about’, Di. spaisteoireacht
@@ -102,8 +114,9 @@ m′iəLtɔgy:, ‘nudges’
 b′αχɔgy:, ‘bees’
 er′ ə NyN′æg′, ‘on the window’
 gαh b′αχæg′ə, ‘the sting of a bee’
+# p. 8-9, § 12
 kï̃vαd, ‘to watch, look at’, Di. coimhéad, Wi. comét
-kï̃vαd də χɔsə, ‘mind your feet’
+>kï̃vαd də χɔsə, ‘mind your feet’
 k′ïn′αl, ‘sort, kind’, O.Ir. cinél, cenél, Di. cinéal
 k′ïn′αLtə, ‘kind’ (adj.)
 kïl′αn, ‘pup’, M.Ir. culén
@@ -112,6 +125,7 @@ kαir̥′αm′, ‘triumph’, M.Ir. caithréim
 dïvαn, ‘a scart’, Di. duibhéan (‘cormorant’)
 b′αrαd, ‘cap’, Di. bairéad
 b′αruw, M.Ir. berrad, ‘to shave, dress the hair’
+# p. 9, § 13
 αLαχ, ‘cattle’, O.Ir. ellach
 əmα:rαχ, ‘to-morrow’, M.Ir. i mbárach
 g′αrαχ, gen. sing. of g′er′, ‘tallow’
@@ -127,12 +141,14 @@ k′ɛαχt, ‘plough’ (not common), O.Ir. cécht
 p′r′ɛαχtə, ‘perished with cold’, Di. préachta
 uαχə, plur. of uw, ‘udder’, M.Ir. uth
 uαχt(ə), ‘pledge’, Di. udhacht.
+# p. 9, § 14
 fα, ‘about’, Di. fá (for the form v. § 314)
 α hein′, ‘himself, é fhéin
 α N′α:n̥iN′, dia dheánfhainn
 d′α ·hi:n′ə, ‘Friday’, dia haoine
 α, ‘descendant’ (in proper names) α bwi:L′, ‘O’Boyle’, the full form is ɔ:
 mα (mə), ‘my’, O.Ir. mo
+# p. 9, § 15
 d′α:n, ‘ferry’, gen. sing. d′α:n′
 grα:Nə, ‘ugly’, comp. grα:k′ə
 krα:n′, ‘sow’
