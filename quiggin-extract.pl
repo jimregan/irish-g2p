@@ -38,6 +38,9 @@ while(<>) {
 	chomp;
 	s/\r//;
 	s/  +/ /g;
+	s/ $//;
+	s/,$//;
+	s/\.$//;
 	# kï̃vαd, ‘to watch, look at’, Di. coimhéad, Wi. comét
 	if(/^# .*§ ([0-9]+)$/) {
 		$cur_sect = $1;

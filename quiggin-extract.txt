@@ -117,13 +117,15 @@
   english: "acquainted"
   headwords:
     dinneen: "aitheanta"
-# en̥′ə, O.Ir. aithgne, 
+"en̥′ə":
+  section: 5
+  old_irish: "aithgne"
 "dαhin′ m′ə":
   section: 5
   english: "I recognised"
   headwords:
     dinneen: "d’aithin"
-# αhəNtə, ‘commandments’, Di. aitheanta pl. of aithne, so O.Ir.
+# αhəNtə, ‘commandments’, Di. aitheanta pl. of aithne, so O.Ir
 "αhiN′ə":
   section: 5
   english: "brand"
@@ -376,7 +378,11 @@
 "ʃαnəmɔr′":
   section: 11
   english: "sermon"
-# fwiN′ɔg, ‑αg, ‘window’, M.Ir. fuindeóg
+"fwiN′ɔg":
+  section: 11
+  english: "window"
+  middle_irish: "fuindeóg"
+  alternative: "fwiN′αg"
 "fwi:l′αg":
   section: 11
   english: "sea-gull"
@@ -455,8 +461,15 @@
   section: 13
   english: "to depart"
   middle_irish: "imthecht"
-# rαplαχαn, ‘rough and ready going fellow’ 
-# >cp. rαpləhu:tə, ‘hubbub’, Di. rapla húta
+"rαplαχαn"
+  section: 13
+  english :"rough and ready going fellow"
+  compare: "rαpləhu:tə"
+"rαpləhu:tə":
+  section: 13
+  english: "hubbub"
+  headwords:
+    dinneen: "rapla húta"
 "ʃeʃr′αχ":
   section: 13
   english: "plough"
@@ -482,7 +495,11 @@
   english: "to try"
   headwords:
     irische_text: "féchaim"
-# k′ɛαχt, ‘plough’ (not common), O.Ir. cécht
+"k′ɛαχt":
+  section: 13
+  english: "plough"
+  old_irish: "cécht"
+  note: "not common"
 "p′r′ɛαχtə":
   section: 13
   english: "perished with cold"
@@ -583,7 +600,7 @@
   headwords:
     irische_text: "medón"
 # ʃL′α:n, ‘turf-spade’, Di. sleaghán, M.Ir. sleg
-# f′α:, ‘fathom’, Di. feadh, O.Ir. ed (for the pronunciations f′ïg and f′ə⅄` cp. §§ 170, 429).
+# f′α:, ‘fathom’, Di. feadh, O.Ir. ed (for the pronunciations f′ïg and f′ə⅄` cp. §§ 170, 429)
 "gα: α:":
   section: 18
   english: "2 fathoms"

@@ -132,7 +132,8 @@ N′ɛəLtαrαχt, ‘idling’, Di. néalladóireacht
 ʃαnəmαNti:, ‘preacher’, Di. seanmóntaidhe
 !:compare: "ʃαnəmɔr′"
 ʃαnəmɔr′, ‘sermon’
-fwiN′ɔg, ‑αg, ‘window’, M.Ir. fuindeóg
+fwiN′ɔg, ‘window’, M.Ir. fuindeóg
+!:alternative: "fwiN′αg"
 fwi:l′αg, ‘sea-gull’, cp. O.Ir. foilenn
 kyN′αg, ‘churn-dash’, M.Ir. cuindeóg
 m′iəLtɔgy:, ‘nudges’
@@ -158,8 +159,13 @@ b′αruw, ‘to shave, dress the hair’, M.Ir. berrad
 əmα:rαχ, ‘to-morrow’, M.Ir. i mbárach
 g′αrαχ, gen. sing. of g′er′, ‘tallow’
 ïm′αχt, ‘to depart’, M.Ir. imthecht
-rαplαχαn, ‘rough and ready going fellow’ 
->cp. rαpləhu:tə, ‘hubbub’, Di. rapla húta
+!"rαplαχαn"
+!:section: 13
+!:english :"rough and ready going fellow"
+!:compare: "rαpləhu:tə"
+rαpləhu:tə, ‘hubbub’
+!:headwords:
+!::dinneen: "rapla húta"
 ʃeʃr′αχ, ‘plough’, M.Ir. sessrech
 t′αLαχ, ‘hearthstone’, M.Ir. tenlach
 ũ:hαχə, ũ:kαχə, ‘caves’, plur. of ũi
