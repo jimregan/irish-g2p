@@ -25,18 +25,25 @@ p′αkuw, ‘sin’, O.Ir. peccad
 t′αχ, ‘house’, O.Ir. tech
 αsəl, M.Ir. assal
 ə t′αspəl, ‘the apostle’, O.Ir. apstal
-ə t′αsrïgər, ‘a back-answer, sharp retort’ < ais-fhreagar
-mər ə N′αnəN, kũαnəN, ‘alike, level, equal’, O.Ir. inonn
+ə t′αsrïgər, ‘a back-answer, sharp retort’
+!:from: "ais-fhreagar"
+mər ə N′αnəN, ‘alike, level, equal’, O.Ir. inonn
+kũαnəN, ‘alike, level, equal’, O.Ir. inonn
 # p. 6, § 5
 kαhuw, ‘to spend, wear, throw’, O.Ir. caithem
-ə wα̃hə l′ɛ, ‘for the sake of’, Di. mar (ar) mhaithe le
+ə wα̃hə l′ɛ, ‘for the sake of’
+!:headwords:
+!::dinneen: "mar (ar) mhaithe le"
 mα gə L′ɔ:r, ‘alright’
 !:irish: "maith go leor"
 αhəNtəs, ‘acquaintance’, Di. aitheantas
 αhəNtə, ‘acquainted’,  Di. aitheanta
-en̥′ə, O.Ir. aithgne, 
+en̥′ə, O.Ir. 
 dαhin′ m′ə, ‘I recognised’, Di. d’aithin
-αhəNtə, ‘commandments’, Di. aitheanta pl. of aithne, so O.Ir.
+αhəNtə, ‘commandments’, Di. aitheanta
+!:::plural_of: "aithne"
+!:derivation:
+!::old_irish: "aithgne"
 αhiN′ə, ‘brand’, M.Ir. aithinne
 mαhũw, ‘to forgive’, O.Ir. mathem
 fαrəg′ə, ‘sea’, O.Ir. fairgge
