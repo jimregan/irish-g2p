@@ -1,10 +1,16 @@
 # § 19
 rα:χ ʃN′αχtə, ‘a drift of snow’, Dinneen has ráithe, plur. ráthacha (Derry), according to J. H. the nom. sing. is masc. but the gen. rα:çə is fem., as is frequently the case with words not often used, nom. plur. rα:χəNỹ: (forms containing á before th may be quoted here as according to § 7 the long vowel would be shortened)
-sLα:χ, ‘slush on the sea-shore’, also sLαhαχ Di. sláthach
-b′α:χ, ‘beast, horse’, Meyer bethadach, plur. b′αhi:
+sLα:χ, ‘slush on the sea-shore’
+!:also: "sLαhαχ"
+sLαhαχ, Di. sláthach
+b′α:χ, ‘beast, horse’, Meyer bethadach
+!:plural: "b′αhi:"
 blα:χ, ‘buttermilk’, M.Ir. bláthach.
 
-§ 20. The α: in d′α:nuw, ‘to do’, O.Ir. dénum, is surprising and is probably to be attributed to the influence of the preterite form N′i: hα:rN, where the vowel development is regular. tα:rN′αχ, ‘thunder’, M.Ir. toirnech by the side of tɔ:rN′æʃ, ‘a great noise’, Di. tóirnéis, is peculiar but may be due to a different grade in the root.
+§ 20. The α: in d′α:nuw, ‘to do’, O.Ir. dénum, is surprising and is probably to be attributed to the influence of the preterite form N′i: hα:rN, where the vowel development is regular
+tα:rN′αχ, ‘thunder’, M.Ir. toirnech
+!:compare: "tɔ:rN′æʃ"
+tɔ:rN′æʃ, ‘a great noise’, Di. tóirnéis
 
 # § 21
 # α: arises regularly by lengthening before certain combinations of l, r, n with another consonant[A 2]. This occurs before
@@ -554,7 +560,18 @@ suən, ‘a doze, sleep’, M.Ir. súan; truə, ‘wretched’, O.Ir. trúag; tu
 
 # § 152
 buiL′t′αχəs, ‘summer grazing in the mountains’, Meyer búaltechas, buiL′t′ə, ‘a summer pasture’
-buiL′t′i:n′, ‘the striking wattle on a flail’, Di. buailtín; buir′uw, ‘trouble’, M.Ir. búadred, buaidred; bui, ‘obligation’, O.Ir. búaid; fuiʃk′n′uw, ‘shudder’ (?); gluiʃ, ‘move’, M.Ir. gluaisim; grui, ‘check’, Di. gruaidh < O.Ir. gruad; hui, ‘north’, M.Ir. thuaid; krui, ‘hard’, M.Ir. crúaid; Lui, ‘ashes’, M.Ir. luaith (acc.); Luiə, ‘lead’, M.Ir. luaide; skuid′, ‘cow-dung’; uiL′, ‘wild talk’, Di. uaill, M.Ir. uall. ui arises by contraction in klũiʃt′ə, ‘feathered, fledged’, < clúmhaiste; Luiαχt, ‘benefit’, M.Ir. logidecht. ui frequently becomes ɔə, o̤ə in χuəli:, ‘heard’; χuə, ‘went’.
+buiL′t′i:n′, ‘the striking wattle on a flail’, Di. buailtín
+buir′uw, ‘trouble’, M.Ir. búadred, buaidred
+bui, ‘obligation’, O.Ir. búaid
+fuiʃk′n′uw, ‘shudder’ (?)
+gluiʃ, ‘move’, M.Ir. gluaisim
+grui, ‘check’, Di. gruaidh < O.Ir. gruad
+hui, ‘north’, M.Ir. thuaid
+krui, ‘hard’, M.Ir. crúaid
+Lui, ‘ashes’, M.Ir. luaith (acc.)
+Luiə, ‘lead’, M.Ir. luaide
+skuid′, ‘cow-dung’
+uiL′, ‘wild talk’, Di. uaill, M.Ir. uall. ui arises by contraction in klũiʃt′ə, ‘feathered, fledged’, < clúmhaiste; Luiαχt, ‘benefit’, M.Ir. logidecht. ui frequently becomes ɔə, o̤ə in χuəli:, ‘heard’; χuə, ‘went’.
 
 The cases where u: occurs for ui have been enumerated in § 46. Forms like kũ:i:, ‘grief, sorrow’, do not belong here, as they are dissyllables.
 8. ɛi.
@@ -1510,17 +1527,21 @@ Similarly r + ʃ gives rs as in ə f′αr sən, ‘that man’.
 
 § 464. t′, d′ become t, d before t, d, e.g. gən bo̤Nt dɔ:, ‘without touching it’ (bwiN′t′); vi: ʃɛ α heʃαNt dŨw̥, ‘he was shewing it to me’ (t′eʃæN′t′); α:t tiə, ‘site for a house’ (α:t′); ær′ə ə hɔrt dŨw̥, ‘to take care of myself (to:rt′); hït tuw, ‘you fell’ (hit′), ko̤d de, ‘a part of it’ (kyd′); əs m′ihid did′, ‘it is high time for you’ (m′ihid′).
 
-iii.
-
 § 465. n becomes N before L, N, t and d, e.g. əN′ei N Lα: N′e:, ‘after yesterday’; d′er′uw N Le:, ‘the end of the day’; əN Lα: əwα̃:n′, ‘one day’, = aon lá; fα wo̤N Nə to̤ləχə, ‘around the bottom of the hill’ (bun); dαN tuw, ‘you remained’, = d’fhan tú; d′αN də jiçəL, ‘do your utmost’.
 
 § 466. r′ becomes r before L′, l′, N′, e.g. ər L′eç, ‘apart’; ər L′αr, ‘in a fix, astray’; k′ïN ə N′ïr l′ei, ‘the head of the grey man’; to:r l′αt, ‘take with you’; b′i: o̤bər l′ɔ:fə, ‘they require attention’ (obair); N′i:r l′ɛ:r l′ïm ə dUw̥, ‘the black was not clear to me’; αhər N′ï̃və, ‘serpent’.
 
-§ 467. l′ + l′ gives L′, e.g. ə f′αr ə çu:L′ L′iN′, ‘the man who walked with us’, = an fear a shiubhail linn; tα: ʃïn′ kɔsu:L′ L′ef, ‘that is like it’.
+# § 467. l′ + l′ gives L′
+ə f′αr ə çu:L′ L′iN′, ‘the man who walked with us’
+!:irish: "an fear a shiubhail linn"
+tα: ʃïn′ kɔsu:L′ L′eʃ, ‘that is like it’.
+ʃiN′ N′αhəNỹ:, ‘those are things...’.
 
-Similarly n′ + n′ gives N′, e.g. ʃiN′ N′αhəNỹ:, ‘those are things...’.
-
-§ 468. n′ + l′ gives N′L′, e.g. N′i: hα:N′ L′ïm, ‘I do not like’, = ní h‑áin liom, cp. G. J. 1896 p. 146 col. 2. For other examples see § 254.
+# § 468
+#rule: n′ + l′ gives N′L′
+N′i: hα:N′ L′ïm, ‘I do not like’
+!:irish: "ní h‑áin liom"
+!:compare: "G. J. 1896 p. 146 col. 2"
 
 § 469. l′, n′ + ʃ give L′ʃ, N′ʃ e.g. m′i: Nə su:L′ ʃiər, ‘the weeks from July 15 to August 15’, = mí na súil síar because the last year’s crop has come to an end (also called m′i: Nə su:l′ bwiə)[A 2].
 

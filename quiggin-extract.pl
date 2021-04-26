@@ -79,6 +79,13 @@ while(<>) {
 		$prev_phn = $phn;
 		print "  section: $cur_sect\n";
 		print "  english: \"$en\"\n  middle_irish: \"$mi\"\n";
+	} elsif (/^([^,]+), M\.Ir\. ([a-zA-ZÁÉÍÓÚáéíóú]+)$/) {
+		my $phn = $1;
+		my $mi = $2;
+		print "\"$phn\":\n";
+		$prev_phn = $phn;
+		print "  section: $cur_sect\n";
+		print "  middle_irish: \"$mi\"\n";
 	} elsif (/^([^,]+), ‘([^’]+)’, cp\. O\.Ir\. ([a-zA-ZÁÉÍÓÚáéíóú]+)$/) {
 		my $phn = $1;
 		my $en = $2;
@@ -95,6 +102,13 @@ while(<>) {
 		$prev_phn = $phn;
 		print "  section: $cur_sect\n";
 		print "  english: \"$en\"\n  old_irish: \"$oi\"\n";
+	} elsif (/^([^,]+), O\.Ir\. ([a-zA-ZÁÉÍÓÚáéíóú]+)$/) {
+		my $phn = $1;
+		my $oi = $2;
+		print "\"$phn\":\n";
+		$prev_phn = $phn;
+		print "  section: $cur_sect\n";
+		print "  old_irish: \"$oi\"\n";
 	} elsif (/^([^,]+), ‘([^’]+)’, ($citations)\.? ([^,]+), ($citations)\. ([a-zA-ZÁÉÍÓÚáéíóú]+)$/) {
 		my $phn = $1;
 		my $en = $2;
