@@ -96,13 +96,27 @@
   section: 4
   english: "the apostle"
   old_irish: "apstal"
-# ə t′αsrïgər, ‘a back-answer, sharp retort’ < ais-fhreagar
-# mər ə N′αnəN, kũαnəN, ‘alike, level, equal’, O.Ir. inonn
+"ə t′αsrïgər":
+  section: 4
+  english: "a back-answer, sharp retort"
+  from: "ais-fhreagar"
+"mər ə N′αnəN":
+  section: 4
+  english: "alike, level, equal"
+  old_irish: "inonn"
+"kũαnəN":
+  section: 4
+  english: "alike, level, equal"
+  old_irish: "inonn"
 "kαhuw":
   section: 5
   english: "to spend, wear, throw"
   old_irish: "caithem"
-# ə wα̃hə l′ɛ, ‘for the sake of’, Di. mar (ar) mhaithe le
+"ə wα̃hə l′ɛ":
+  section: 5
+  english: "for the sake of"
+  headwords:
+    dinneen: "mar (ar) mhaithe le"
 "mα gə L′ɔ:r":
   section: 5
   english: "alright"
@@ -125,7 +139,14 @@
   english: "I recognised"
   headwords:
     dinneen: "d’aithin"
-# αhəNtə, ‘commandments’, Di. aitheanta pl. of aithne, so O.Ir
+"αhəNtə":
+  section: 5
+  english: "commandments"
+  headwords:
+    dinneen: "aitheanta"
+      plural_of: "aithne"
+  derivation:
+    old_irish: "aithgne"
 "αhiN′ə":
   section: 5
   english: "brand"
