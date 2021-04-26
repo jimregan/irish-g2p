@@ -635,3 +635,104 @@
   english: "a great noise"
   headwords:
     dinneen: "tóirnéis"
+"α:Lt":
+  section: 21
+  english: "cliff"
+  middle_irish: "alt"
+"b′α:Ltin′ə":
+  section: 21
+  english: "May"
+  middle_irish: "beltene"
+# gα:Ltə, ‘Protestant’, Di. gallda < M.Ir. gall
+"α:nṟi":
+  section: 21
+  english: "broth"
+  middle_irish: "enbruthe"
+"α:nṟɔ:":
+  section: 21
+  english: "misery"
+  middle_irish: "andró"
+# bα:nṟi:n, ‘queen’, O.Ir. ban‑
+"krα:ṉrə":
+  section: 21
+  english: "knot in wood, corn on the foot"
+  headwords:
+    dinneen: "crannra"
+# skα:nṟi:, ‘scared, frightened’, cp. Di. scannruighim
+"k′α:rtə":
+  section: 21
+  english: "forge"
+  headwords:
+    irische_text: "cerdcha"
+  note: "there is no lengthening before rt"
+  compare: "k′αrt"
+"k′αrt":
+  section: 21
+  english: "right"
+  middle_irish: "cert"
+"kαrtuw":
+  section: 21
+  english: "to cleanse"
+  headwords:
+    meyer: "cartaim"
+"kαrtαn":
+  section: 21
+  english: "sheep-louse"
+  headwords:
+    meyer: "cart"
+"kα:rd′ə":
+  section: 21
+  english: "friends"
+  old_irish: "cairtea"
+"kα:rd′αχ":
+  section: 21
+  english: "friendly"
+"b′α:rN":
+  section: 21
+  english: "gap"
+  middle_irish: "bern"
+# d′α:rNəd, ‘flea’, Di. deargnait, M.Ir. dergnat
+"N′i: hα:rN":
+  section: 21
+  english: "did not do"
+  headwords:
+    irische_text: "derna"
+# kα:rN, ‘heap’, gen. sing. kα:rN′, M.Ir. carn
+# tα:rNαχtə, ‘bare, naked’, Wi. tarr‑
+# tα:rN′ə, ‘nail’, Wi. tairnge but not in tαrN′t′, ‘to pull’, Wi. tairrngim
+# pα:rL̥αn, proper name, M.Ir. Partholón
+", ‘a light shower’ beside bα:riəL":
+  section: 21
+  english: "short leather lace"
+"f′α:r":
+  section: 21
+  english: "better"
+  old_irish: "ferr"
+# gα:ri:, ‘garden’, Di. garraidhe, M.Ir. garrda
+"g′α:r":
+  section: 21
+  english: "short"
+  middle_irish: "gerr"
+"ə ɲα:r αmə":
+  section: 21
+  english: "in a short time"
+", g′αrwα̃iç":
+  section: 21
+  english: "pretty good"
+# In verbal roots ending in r < R, the long vowel alternates with the short. Thus
+", plur. of g′αruw":
+  section: 21
+  english: "cutting pains"
+# b′αruw, ‘to shear’, pret. vα:r m′ə, past part. b′α:r̥ə
+# From these forms it appears that lengthening is the rule before r̥ < rrth. For this compare
+# α:r̥uw, ‘change’ infin. to M.Ir. aitherraigim
+# pα:r̥u:s, ‘paradise’, Di. parrthas, O.Ir. pardus
+# tα:r̥æl′, ‘to assist, succour’, Di. tárrtháil, cp. M.Ir. tarraid, tarrthatar
+"Note that there is no lengthening before r̥ < thr in k′αr̥uw":
+  section: 21
+  english: "quarter"
+  headwords:
+    irische_text: "cethramad"
+"t′α(:)mpəL":
+  section: 21
+  english: "a Protestant church or chapel"

@@ -1,40 +1,3 @@
-
-# § 21
-# α: arises regularly by lengthening before certain combinations of l, r, n with another consonant[A 2]. This occurs before
-α:Lt, ‘cliff’, M.Ir. alt
-b′α:Ltin′ə, ‘May’, M.Ir. beltene
-gα:Ltə, ‘Protestant’, Di. gallda < M.Ir. gall
-α:nṟi, ‘broth’, M.Ir. enbruthe
-α:nṟɔ:, ‘misery’, M.Ir. andró
-bα:nṟi:n, ‘queen’, O.Ir. ban‑
-krα:ṉrə, ‘knot in wood, corn on the foot’, Di. crannra
-skα:nṟi:, ‘scared, frightened’, cp. Di. scannruighim
-k′α:rtə, ‘forge’, Wi. cerdcha
-!:note: "there is no lengthening before rt"
-!:compare: "k′αrt"
-k′αrt, ‘right’, M.Ir. cert
-kαrtuw, ‘to cleanse’, Meyer cartaim
-kαrtαn, ‘sheep-louse’, Meyer cart
-kα:rd′ə, ‘friends’, O.Ir. cairtea
-kα:rd′αχ, ‘friendly’
-b′α:rN, ‘gap’, M.Ir. bern
-d′α:rNəd, ‘flea’, Di. deargnait, M.Ir. dergnat
-N′i: hα:rN, ‘did not do’, Wi. derna
-kα:rN, ‘heap’, gen. sing. kα:rN′, M.Ir. carn
-tα:rNαχtə, ‘bare, naked’, Wi. tarr‑.
-tα:rN′ə, ‘nail’, Wi. tairnge but not in tαrN′t′, ‘to pull’, Wi. tairrngim.
-pα:rL̥αn, proper name, M.Ir. Partholón.
-bα:r, ‘top’ but bαrçiç, ‘a light shower’ beside bα:riəL, ‘short leather lace’
-f′α:r, ‘better’, O.Ir. ferr
-gα:ri:, ‘garden’, Di. garraidhe, M.Ir. garrda
-g′α:r, ‘short’, M.Ir. gerr, ə ɲα:r αmə, ‘in a short time’ but in the meaning of ‘moderate’ we find g′αr, as in g′αriə, ‘hare’, Di. gearrfhiadh, g′αrwα̃iç, ‘pretty good’. In verbal roots ending in r < R, the long vowel alternates with the short. Thus g′αruw, ‘to cut’, pret. jα:r m′ə, fut. g′α:r̥ə m′ə, past part. g′α:r̥ə, imperf. pass. jα:rti:, g′α:r̥αχə, plur. of g′αruw, ‘cutting pains’; similarly b′αruw, ‘to shear’, pret. vα:r m′ə, past part. b′α:r̥ə. From these forms it appears that lengthening is the rule before r̥ < rrth. For this compare α:r̥uw, ‘change’ infin. to M.Ir. aitherraigim ; pα:r̥u:s, ‘paradise’, Di. parrthas, O.Ir. pardus; tα:r̥æl′, ‘to assist, succour’, Di. tárrtháil, cp. M.Ir. tarraid, tarrthatar. Note that there is no lengthening before r̥ < thr in k′αr̥uw, ‘quarter’, Wi. cethramad.
-t′α(:)mpəL, ‘a Protestant church or chapel’
-# there is hesitation between α and α:.
-
-3. ɔ.
-
-§ 22. In this book ɔ is used to denote an unrounded form of the low-back-wide-round English vowel in ‘not’. This low-back ɔ is general in the English of the inhabitants of the north-west of Ireland and suggests to an English ear rather an a than an o-sound but α and ɔ are kept fairly distinct, though α, ɔ, o̤ are very close to one another in formation.
-
 # § 23
 fɔlə, gen. sing. of fwïl′, ‘blood’
 mɔluw, ‘to praise, recommend’, O.Ir. molad
@@ -50,8 +13,10 @@ kro̤k, ‘hill’, O.Ir. cnocc
 ɔkrəs, ‘hunger’, M.Ir. accorus, occorus.
 kɔtuw, ‘bashfulness’, Di. cotughadh
 krɔtəl, ‘a lichen which gives a yellow dye used in the manufacture of tweeds’, Meyer crottal
-pɔtə, ‘pot’, Di. pota. But sLo̤t ‘wick’ also used to mean ‘a weak person’, Manx slut (not in Cregeen) (?).
-
+pɔtə, ‘pot’, Di. pota
+sLo̤t, ‘wick’
+!:also: "a weak person"
+!:manx: "slut"
 bɔχt, ‘poor’, O.Ir. bocht
 kɔχəL, ‘scrotum’, Wi. cochull
 kɔχən, ‘straw’, Di. cochán (this may be formed from cáith, cáth, ‘chaff’, with the usual shortening before h < th, and h > χ, cp. § 178); krɔχuw, ‘to hang’, M.Ir. crochad; ɔχtər, ‘8 persons’, M.Ir. ochtar; spɔχαn, ‘poke’ (a disease of sheep = scrofula); spɔχuw, ‘to geld’, M.Ir. spochad; tɔχərtuw, ‘to wind up thread’, Di. tochardadh, M.Ir. tochras (Laws); tɔχəs, ‘itch’, Di. tochas; toχt fuil′, ‘gravel’, Di. tocht + fuail gen. sing. of fual (this term is not understood, the meaning of fual is entirely forgotten).
