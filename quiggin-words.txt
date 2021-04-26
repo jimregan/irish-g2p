@@ -1,7 +1,7 @@
 # p. 5, § 3
 αrəm, ‘army’, O.Ir. arm
 αt, ‘swelling’, O.Ir. att
-fαnαχt ‘to stay, remain’, O.Ir. anaim
+fαnαχt, ‘to stay, remain’, O.Ir. anaim
 kαpəL, ‘mare’, M.Ir. capall
 mαk, ‘son’, O.Ir. macc
 mαLαχt, ‘curse’, O.Ir. maldacht
@@ -12,7 +12,7 @@ tαruw, ‘bull’, M.Ir. tarb
 αχ, ‘steed’, O.Ir. ech
 αlə, ‘swan’, M.Ir. ela
 αŋ, ‘splice, strip’
-αŋαχ, ‘fisherman’s net’, M.Ir. eng
+αŋαχ, ‘fisherman's net’, M.Ir. eng
 d′r′αm, ‘crowd’, M.Ir. dremm
 d′αrəg, ‘red’, O.Ir. derg
 f′αr, ‘man’, O.Ir. fer
@@ -30,7 +30,8 @@ mər ə N′αnəN, kũαnəN, ‘alike, level, equal’, O.Ir. inonn
 # p. 6, § 5
 kαhuw, ‘to spend, wear, throw’, O.Ir. caithem
 ə wα̃hə l′ɛ, ‘for the sake of’, Di. mar (ar) mhaithe le
-mα gə L′ɔ:r, ‘alright’ = maith go leor
+mα gə L′ɔ:r, ‘alright’
+!:irish: "maith go leor"
 αhəNtəs, ‘acquaintance’, Di. aitheantas
 αhəNtə, ‘acquainted’,  Di. aitheanta
 en̥′ə, O.Ir. aithgne, 
@@ -40,18 +41,27 @@ dαhin′ m′ə, ‘I recognised’, Di. d’aithin
 mαhũw, ‘to forgive’, O.Ir. mathem
 fαrəg′ə, ‘sea’, O.Ir. fairgge
 fαrsiN′, ‘ample’, O.Ir. fairsing
-mαrst′ən, infin. of mairim, ‘I remain, last’, Wi. maraim
+!"mαrst′ən":
+!:infinitive_of:
+!::irish: "mairim"
+!::english: "I remain, last"
+!::headwords:
+!:::irische_text: "maraim"
 αm′ʃir′, ‘weather’, O.Ir. aimser
 tαvʃə, ‘ghost’, M.Ir. taidbsiu
 # p. 6, § 6
 αf′r′əN, ‘mass’, Wi. oifrend
 # p. 6-7, § 7
 sNαhəd, ‘needle’, O.Ir. snáthat
-sNαhəd, sNαhuw, ‘to wash down, spice’
+sNαhəd, ‘to wash down, spice’
+!:alternative: "sNαhuw"
 sNα:ihəm, pret. nα:iç, past part. sNα:t′ə, Di. snathadh
 αhəs, ‘joy’, M.Ir. áithes
-tαhər, ‘man ist’, M.Ir. atáthar
-N′i: αhαr < ní fhaghthar
+!"tαhər":
+!:middle_irish: "atáthar"
+!:german "man ist"
+!"N′i: αhαr"
+!:irish: "ní fhaghthar"
 >proverb: N′i: αhər sæL′ gən çαNαχt, ‘lard is not got without buying’
 mαhær′, ‘mother’, O.Ir. máthir
 drαh ə Nαmə ʃɔ, ‘about this time’ = i dtráth an ama seo, cp. Craig, Iasg. s. dratha
@@ -62,7 +72,9 @@ Nα̃:wid′, ‘enemy’, O.Ir. ace. pl. náimtea
 αgəs, ‘and’, O.Ir. ocus
 αskəL, ‘arm-pit’, M.Ir. ochsal
 bαrəb, ‘rough’, M.Ir. borb
-bαtæL′t′ə, ‘wap of hay’, Di. batailte < Engl., ‘bottle’
+bαtæL′t′ə, ‘wap of hay’, Di. batailte
+!:derivation:
+!::english: "bottle"
 blαgəd′, ‘bald patch’
 brαhαn, ‘porridge’, Di. Macbain brochán, Meyer brothchán
 brαLαχ, ‘breast’, Meyer brollach
@@ -73,21 +85,31 @@ fαskuw, ‘shelter’, O.Ir. foscad
 kαgnuw, ‘to chew’, M.Ir. cocnam
 kαL, ‘hazel’, O.Ir. coll
 kαskərt′, ‘to strike, thaw’, O.Ir. coscar
-mαguw, ‘to mock’ < Engl., cp. Louth mogadh
-sαp, ‘wisp’, M.Ir. sopp 
+mαguw, ‘to mock’
+!:derivation:
+!::english: "mock"
+!:compare:
+!::irish: "mogadh"
+!::location: "Louth"
+sαp, ‘wisp’, M.Ir. sopp
 skαhuw, ‘to wean’, M.Ir. scothaim
-spαrαn but also spɔrαn, ‘purse’, M.Ir. sporán
-tαrəmαn, ‘noise’, Wi. Ir. T. iv 1 tormán
-fɔskluw, ‘to open’, fut. N′i: αsklαχi:.
+spαrαn, ‘purse’, M.Ir. sporán
+!:alternative: "spɔrαn"
+tαrəmαn, ‘noise’, Wi. tormán
+!::reference: "iv 1"
+fɔskluw, ‘to open’
+!:future: "N′i: αsklαχi:"
 # p. 7-8, § 10
-g′αrαn, ‘horse’, lit. ‘gelding’, M.Ir. gerrán
+g′αrαn, ‘horse’, M.Ir. gerrán
+!:literally: "gelding"
 skαhαn, ‘mirror’, M.Ir. scathán
 glu:rəkαn, ‘numbness’
 g′aləwαn, g′αləwən, ‘sparrow’, Dinneen gealbhan, M.Ir. gelbund;
-ruəkən, ‘cockle’ = Di. ruacán
+ruəkən, ‘cockle’, Di. ruacán
 mαkαNtə, ‘civil, decent’, lit. ‘filial’ < O.Ir. maccán, ‘puerulus’
 spαdαNtə, ‘seedy, out of sorts’, Di. spadánta
-f′iαNtə, ‘wild’ (used of people), Di. fiadhanta
+f′iαNtə, ‘wild’, Di. fiadhanta
+!:note: "used of people"
 α̃uwlaNtə, ‘foolishly prating’
 :formed from α̃uwlɔr′, Di. amhlóir, M.Ir. oblóir
 f′iəstαlαχ, ‘rush’, Di. fiastalach
@@ -98,57 +120,96 @@ fαdαlαχ, ‘slow’, Di. fadálach
 u:hαs, ‘prodigy’, M.Ir. uathbás
 prα:kαs, ‘small, deformed person’, Di. prácás
 rα:mαs, ‘idle talk’
-d’r’əuwlαs, ‘licentiousness’, d’r’əuwlαsαχ, ‘licentious’, cp. Di. dreabhlas, drobhlas
+d′r′əuwlαs, ‘licentiousness’, d’r’əuwlαsαχ, ‘licentious’, cp. Di. dreabhlas, drobhlas
 o̤rLαr, ‘floor’, Di. urlár
 # p. 8, § 11
 ti:dɔr′, ‘thatcher’, Di. tuigheadoir
 ti:dαrαχt, ‘thatching’
 spwæʃt′αrαχt, ‘strolling about’, Di. spaisteoireacht
-N′ɛəLtαrαχt, ‘idling’, cp. Engl. ‘star-gazing’, Di. néalladóireacht
-ʃαnəmαNti:, ‘preacher’, Di. seanmóntaidhe, cp. ʃαnəmɔr′, ‘sermon’
+N′ɛəLtαrαχt, ‘idling’, Di. néalladóireacht
+!:compare:
+!::english: "star-gazing"
+ʃαnəmαNti:, ‘preacher’, Di. seanmóntaidhe
+!:compare: "ʃαnəmɔr′"
+ʃαnəmɔr′, ‘sermon’
 fwiN′ɔg, ‑αg, ‘window’, M.Ir. fuindeóg
 fwi:l′αg, ‘sea-gull’, cp. O.Ir. foilenn
 kyN′αg, ‘churn-dash’, M.Ir. cuindeóg
 m′iəLtɔgy:, ‘nudges’
 αsɔgy:, ‘weasels’
 b′αχɔgy:, ‘bees’
-er′ ə NyN′æg′, ‘on the window’
-gαh b′αχæg′ə, ‘the sting of a bee’
+>eg:er′ ə NyN′æg′, ‘on the window’
+>eg:gαh b′αχæg′ə, ‘the sting of a bee’
 # p. 8-9, § 12
 kï̃vαd, ‘to watch, look at’, Di. coimhéad, Wi. comét
->kï̃vαd də χɔsə, ‘mind your feet’
-k′ïn′αl, ‘sort, kind’, O.Ir. cinél, cenél, Di. cinéal
-k′ïn′αLtə, ‘kind’ (adj.)
+>eg:kï̃vαd də χɔsə, ‘mind your feet’
+k′ïn′αl, ‘sort, kind’, Di. cinéal
+!:old_irish: ['cinél', 'cenél']
+k′ïn′αLtə, ‘kind’
+!:part_of_speech: "adjective"
 kïl′αn, ‘pup’, M.Ir. culén
 kɔrN′αl, ‘corner’, Di. coirnéal
 kαir̥′αm′, ‘triumph’, M.Ir. caithréim
 dïvαn, ‘a scart’, Di. duibhéan (‘cormorant’)
 b′αrαd, ‘cap’, Di. bairéad
-b′αruw, M.Ir. berrad, ‘to shave, dress the hair’
+b′αruw, ‘to shave, dress the hair’, M.Ir. berrad
 # p. 9, § 13
 αLαχ, ‘cattle’, O.Ir. ellach
 əmα:rαχ, ‘to-morrow’, M.Ir. i mbárach
 g′αrαχ, gen. sing. of g′er′, ‘tallow’
 ïm′αχt, ‘to depart’, M.Ir. imthecht
-rαplαχαn, ‘rough and ready going fellow’, cp. rαpləhu:tə, ‘hubbub’, Di. rapla húta
+rαplαχαn, ‘rough and ready going fellow’ 
+>cp. rαpləhu:tə, ‘hubbub’, Di. rapla húta
 ʃeʃr′αχ, ‘plough’, M.Ir. sessrech
 t′αLαχ, ‘hearthstone’, M.Ir. tenlach
 ũ:hαχə, ũ:kαχə, ‘caves’, plur. of ũi
 f′iαχ, ‘crow’, O.Ir. fíach
-f′iαχə, ‘debts’, also plur. of f′iə, ‘deer’, M.Ir. fíad
+f′iαχə, ‘debts’
+>also plur. of f′iə, ‘deer’, M.Ir. fíad
 f′iαχæl′, ‘to try’, Wi. féchaim
 k′ɛαχt, ‘plough’ (not common), O.Ir. cécht
 p′r′ɛαχtə, ‘perished with cold’, Di. préachta
-uαχə, plur. of uw, ‘udder’, M.Ir. uth
-uαχt(ə), ‘pledge’, Di. udhacht.
+!"uαχə":
+!:section: 13
+!:plural_of: "uw"
+uw, ‘udder’, M.Ir. uth
+uαχt(ə), ‘pledge’, Di. udhacht
 # p. 9, § 14
-fα, ‘about’, Di. fá (for the form v. § 314)
-α hein′, ‘himself, é fhéin
+fα, ‘about’, Di. fá
+α hein′, ‘himself’
+!:irish: "é fhéin"
 α N′α:n̥iN′, dia dheánfhainn
-d′α ·hi:n′ə, ‘Friday’, dia haoine
-α, ‘descendant’ (in proper names) α bwi:L′, ‘O’Boyle’, the full form is ɔ:
-mα (mə), ‘my’, O.Ir. mo
+d′α ·hi:n′ə, ‘Friday’
+!:irish: "dia haoine"
+α, ‘descendant’
+!:note: "in proper names"
+!:full_form: "ɔ:"
+!:see_also: "α bwi:L′"
+α bwi:L′, ‘O'Boyle’
+mα, ‘my’, O.Ir. mo
+!:reduced: "mə"
 # p. 9, § 15
-d′α:n, ‘ferry’, gen. sing. d′α:n′
-grα:Nə, ‘ugly’, comp. grα:k′ə
+d′α:n, ‘ferry’
+!:genitive_singular: "d′α:n′"
+grα:Nə, ‘ugly’
+!:comparative: "grα:k′ə"
 krα:n′, ‘sow’
+# p § 16
+fα:gæl′, ‘to leave’, Wi. fácbaim
+fα:s, ‘to grow’, Wi. ás
+grα:n′, ‘disgust, dislike’, M.Ir. gráin
+krα:f′αχ, ‘religious’, M.Ir. cráibdech
+Lα:n, ‘full’, O.Ir. lán
+# § 17
+α:məd, ‘timber’, M.Ir. admat
+ʃiəl α:w əgəs ɛəwə, ‘the descendants of Adam and Eve’, cp. Di. gen. sing. Ádhmha, in Atk. Pass. and Hom. the a has no length-mark
+α:wər, ‘material, cause’, M.Ir. adbar
+sα:wə, ‘woman's name’, M.Ir. Sadb
+!:irish: "Sadhbha"
+N′i: α:N′ʃə, ‘he does not get’, cp. Wi. fagbaim
+# § 18
+m′α:χən, ‘weight’, Di. meadhachan, cp. Wi. med
+m′α:N Le:, ‘mid-day’, Wi. medón
+ʃL′α:n, ‘turf-spade’, Di. sleaghán, M.Ir. sleg
+f′α:, ‘fathom’, Di. feadh, O.Ir. ed (for the pronunciations f′ïg and f′ə⅄` cp. §§ 170, 429).
+>gα: α:, ‘2 fathoms’
