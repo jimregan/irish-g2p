@@ -604,3 +604,34 @@
 "gα: α:":
   section: 18
   english: "2 fathoms"
+# rα:χ ʃN′αχtə, ‘a drift of snow’, Dinneen has ráithe, plur. ráthacha (Derry), according to J. H. the nom. sing. is masc. but the gen. rα:çə is fem., as is frequently the case with words not often used, nom. plur. rα:χəNỹ: (forms containing á before th may be quoted here as according to § 7 the long vowel would be shortened)
+"sLα:χ":
+  section: 19
+  english: "slush on the sea-shore"
+  also: "sLαhαχ"
+# sLαhαχ, Di. sláthach
+"b′α:χ":
+  section: 19
+  english: "beast, horse"
+  headwords:
+    meyer: "bethadach"
+  plural: "b′αhi:"
+"blα:χ":
+  section: 19
+  english: "buttermilk"
+  middle_irish: "bláthach"
+"d′α:nuw":
+  section: 20
+  english: "to do"
+  old_irish: "dénum"
+  note: "The α: is surprising and is probably to be attributed to the influence of the preterite form N′i: hα:rN"
+"tα:rN′αχ":
+  section: 20
+  english: "thunder"
+  middle_irish: "toirnech"
+  compare: "tɔ:rN′æʃ"
+"tɔ:rN′æʃ":
+  section: 20
+  english: "a great noise"
+  headwords:
+    dinneen: "tóirnéis"
