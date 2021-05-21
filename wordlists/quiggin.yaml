@@ -1092,3 +1092,108 @@
   fgb: "cartadh"
   rule: "α > α: / _ rd"
     sic: "α > α: / _ rt"
+"kαrtαn":
+  section: 21
+  english: "sheep-louse"
+  headwords:
+    meyer: "cart"
+  index: "cartán"
+  fgb: "cartán"
+    equals: "ceartán"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"
+"kα:rd′ə":
+  section: 21
+  english: "friends"
+  old_irish: "cairtea"
+  rule: "α > α: / _ rd′"
+  index: ["cara", "caraid"]
+  fgb: "cairde"
+    equals: "cara"
+"kα:rd′αχ":
+  section: 21
+  english: "friendly"
+  rule: "α > α: / _ rd′"
+  fdb: "cairdeach"
+    equals: "cairdiúil"
+  index: "cairdeach"
+"b′α:rN":
+  section: 21
+  english: "gap"
+  middle_irish: "bern"
+  rule: "α > α: / _ rN"
+  index: ["bearn", "bearnaidh"]
+  fgb: "bearna"
+"d′α:rNəd":
+  section: 21
+  english: "flea"
+  headwords:
+    dinneen: "deargnait"
+  middle_irish: "dergnat"
+  rule: "α > α: / _ rN"
+  index: "dearnad"
+  fgb: "dearnad"
+    equals: "dreancaid"
+"N′i: hα:rN":
+  section: 21
+  english: "did not do"
+  headwords:
+    irische_text: "derna"
+  rule: "α > α: / _ rN"
+"kα:rN":
+  section: 21
+  english: "heap"
+  middle_irish: "carn"
+  genitive_singular: "kα:rN′"
+  rule: "α > α: / _ rN"
+  index: "carn"
+  fgb: "carn"
+"tα:rNαχtə":
+  section: 21
+  english: "bare, naked"
+  headwords:
+    irische_text: "tarr-"
+  rule: "α > α: / _ rN"
+  index: "tarrnochttha"
+  fgb: "tarnocht"
+    variant: "tarnochta"
+"tα:rN′ə":
+  section: 21
+  english: "nail"
+  headwords:
+    irische_text: "tairnge"
+  rule: "α > α: / _ rN′"
+  index: "tairnge"
+  fgb: "tairnge"
+    equals: "tairne"
+"tαrN′t′":
+  section: 21
+  english: "to pull"
+  headwords:
+    irische_text: "tairrngim"
+  index: ["tairnt", "tarraingt"]
+  fgb: "tarraingt"
+"pα:rL̥αn":
+  part_of_speech: "proper noun"
+  middle_irish: "Partholón"
+  index: "Partholón"
+  modern: "Parthalán"
+  rule: "α > α: / _ rL̥"
+"bα:r":
+  section: 21
+  english: "top"
+  rule: "α > α: / _ R"
+  index: "barr"
+  fgb: "barr"
+"bαrçiç":
+  section: 21
+  english: "a light shower"
+  index: "barrchith"
+  compount: ["barr", "chith"]
+  fgb: "barrchith"
+"bα:riəL":
+  section: 21
+  english: "short leather lace"
+  rule: "α > α: / _ R"
+  index: "barriall"
+  fgb: "barriall"
