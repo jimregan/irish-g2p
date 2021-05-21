@@ -1,0 +1,7 @@
+# tolower, Irish
+:: NFD;
+$uvowel=[AEIOU];
+$wb=[^[:L:][:M:]];
+$wb { ([nt]) } $uvowel → $1 '-';
+:: lower;
+:: NFC;
