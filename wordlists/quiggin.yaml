@@ -1520,3 +1520,80 @@
   rule: "o > ɔ / _ χ"
   index: "tocht fuail"
   fgb: "tocht fuail"
+"dɔrəχə":
+  section: 23
+  english: "dark"
+  old_irish: "dorcha"
+  rule: "o > ɔ / _ r"
+  index: "dorcha"
+  fgb: "dorcha"
+"dɔrəs":
+  section: 23
+  english: "door"
+  old_irish: "dorus"
+  rule: "o > ɔ / _ r"
+  index: "doras"
+  fgb: "doras"
+"fɔrtαχ":
+  section: 23
+  english: "comfort"
+  middle_irish: "fortacht"
+  rule: "o > ɔ / _ r"
+  index: "fortacht"
+  sic: "fɔrtαχt"
+  fgb: "fortacht"
+"gɔrəm":
+  section: 23
+  english: "blue"
+  middle_irish: "gorm"
+  rule: "o > ɔ / _ r"
+  sic: "gorm"
+  fgb: "gorm"
+"gɔr·ti:wə l′ɛ":
+  section: 23
+  english: "depending on"
+  headwords:
+    dinneen: "tortaobh"
+  compare_section: 416
+  rule: "o > ɔ / _ r"
+  index: "cortaobhadh"
+  fgb: "tortaobh"
+"gɔrtuw":
+  section: 23
+  english: "to injure"
+  headwords:
+    dinneen: "gortughadh"
+  rule: "o > ɔ / _ r"
+  index: "gortughadh"
+  fgb: "gortú"
+"kɔr":
+  section: 23
+  english: "odd"
+  middle_irish: "corr"
+  alternate: "kɔR"
+"kɔRuw l′ɛ":
+  section: 23
+  english: "upwards of"
+  headwords:
+    dinneen: "corradh"
+"kɔrədi:":
+  section: 23
+  english: "to move, stir"
+  headwords:
+    meyer: "coraigim"
+"kɔrαχ":
+  section: 23
+  english: "steep"
+  middle_irish: "corrach"
+"kɔrp":
+  section: 23
+  english: "corpse"
+  old_irish: "corp"
+"kɔr̥əm":
+  section: 23
+  english: "level"
+  middle_irish: "comthromm"
+"k′l′i·ɔrst′ə":
+  section: 23
+  english: "harrow"
+  irish: "clíath fhoirste"
