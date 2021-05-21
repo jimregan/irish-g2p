@@ -1,11 +1,10 @@
 # § 23
-bɔbwir′αχt, ‘roguery’
+gɔnαn, ‘canine tooth’
+!:formed_from: "gonaim"
+kɔpαn, ‘cup’
 !:derivation:
-!::english: "bob"
-gɔnαn, ‘canine tooth’, formed from gonaim (?)
-kɔpαn, ‘cup’ < Engl.
+!::english: "cup:
 kɔpɔg, ‘dock’, Meyer coppóc.
-
 # § 24
 kɔr′k′ə, ‘oats’, Meyer coirce
 Lɔt′αχ, ‘harmful, injurious’, M.Ir. loitim
