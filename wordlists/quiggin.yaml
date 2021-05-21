@@ -1623,6 +1623,9 @@
   english: "track"
   headwords:
     irische_text: "lorg"
+  rule: "o > ɔ / _ r"
+  index: "lorg"
+  fgb: "lorg"
 "mɔrəkuw":
   section: 23
   english: "rotting"
@@ -1630,17 +1633,29 @@
     dinneen: "morgadh"
   note: "the k is extended from the past part. mɔrəky:"
   past_part: "mɔrəky:"
+  rule: "o > ɔ / _ r"
+  index: "morcadh"
+  fgb: "morgadh"
 "stɔrfwi:":
   section: 23
   english: "snort"
+  rule: "o > ɔ / _ r"
+  index: "storfaidh"
+  fgb: "storfadh"
 "tɔrt′":
   section: 23
   english: "bulk"
   middle_irish: "toirt"
+  rule: "o > ɔ / _ r"
+  index: "toirt"
+  fgb: "toirt"
 "tɔruw":
   section: 23
   english: "fruit"
   old_irish: "torad"
+  rule: "o > ɔ / _ r"
+  index: "toradh"
+  fgb: "toradh"
 "po̤rtαχ":
   section: 23
   english: "bog"
@@ -1653,7 +1668,11 @@
 "krɔs":
   section: 23
   english: "cross"
-# krɔsəm, ‘I forbid’, Meyer cross, crossaim
+"krɔsəm":
+  section: 23
+  english: "I forbid"
+  headwords:
+    meyer: ["cross", "crossaim"]
 "ɔsNə":
   section: 23
   english: "sigh"
