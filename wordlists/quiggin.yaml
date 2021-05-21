@@ -1618,3 +1618,82 @@
   rule: "o > ɔ / _ r"
   index: "cliath"
   fgb: "cliath fhuirste"
+"Lɔrəg":
+  section: 23
+  english: "track"
+  headwords:
+    irische_text: "lorg"
+"mɔrəkuw":
+  section: 23
+  english: "rotting"
+  headwords:
+    dinneen: "morgadh"
+  note: "the k is extended from the past part. mɔrəky:"
+  past_part: "mɔrəky:"
+"stɔrfwi:":
+  section: 23
+  english: "snort"
+"tɔrt′":
+  section: 23
+  english: "bulk"
+  middle_irish: "toirt"
+"tɔruw":
+  section: 23
+  english: "fruit"
+  old_irish: "torad"
+"po̤rtαχ":
+  section: 23
+  english: "bog"
+  headwords:
+    dinneen: "portach"
+"kɔsu:l′":
+  section: 23
+  english: "similar"
+  old_irish: "cosmail"
+"krɔs":
+  section: 23
+  english: "cross"
+# krɔsəm, ‘I forbid’, Meyer cross, crossaim
+"ɔsNə":
+  section: 23
+  english: "sigh"
+  old_irish: "osnad"
+"tɔst":
+  section: 23
+  english: "silence"
+  middle_irish: "tost"
+"trɔsk":
+  section: 23
+  english: "cod"
+  headwords:
+    dinneen: "trosc"
+"Lo̤sid′":
+  section: 23
+  english: "a shallow wooden vessel"
+  old_irish: "lossat"
+  note: "not generally known"
+"Lo̤skəN":
+  section: 23
+  english: "toad"
+  middle_irish: "loscann"
+  note: "doubtless owing to the preceding L"
+"kɔhuw":
+  section: 23
+  english: "to feed"
+  headwords:
+    meyer: "cothaigim"
+"gɔhαnαχ":
+  section: 23
+  english: "touchy"
+  headwords:
+    dinneen: "gothán"
+"rɔhə":
+  section: 23
+  english: "wheel"
+  headwords:
+    irische_text: "roth"
+"mo̤χuw":
+  section: 23
+  english: "springing"
+  compare_section: 333
+  note: "o̤ before χ < h"

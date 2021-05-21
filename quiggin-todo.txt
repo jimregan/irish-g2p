@@ -1,9 +1,28 @@
-Lɔrəg, ‘track’, Wi. lorg; mɔrəkuw), ‘rotting’, Di. morgadh (the k is extended from the past part. mɔrəky:); stɔrfwi:, ‘snort’; tɔrt′, ‘bulk’, M.Ir. toirt; tɔruw, ‘fruit’, O.Ir. torad. But po̤rtαχ, ‘bog’, Di. portach.
-
-kɔsu:l′, ‘similar’, O.Ir. cosmail; krɔs, ‘cross’, krɔsəm, ‘I forbid’, Meyer cross, crossaim; ɔsNə, ‘sigh’, O.Ir. osnad; tɔst, ‘silence’, M.Ir. tost; trɔsk, ‘cod’, Di. trosc. But Lo̤sid′, ‘a shallow wooden vessel’ (not generally known), O.Ir. lossat; Lo̤skəN, ‘toad’, M.Ir. loscann doubtless owing to the preceding L.
-
-
-kɔhuw, ‘to feed’, Meyer cothaigim; gɔhαnαχ, ‘touchy’, Di. gothán; rɔhə, ‘wheel’, Wi. roth. But o̤ before χ < h in mo̤χuw, ‘springing’ (cp. § 333).
+# § 23
+Lɔrəg, ‘track’, Wi. lorg
+mɔrəkuw, ‘rotting’, Di. morgadh
+!:note: "the k is extended from the past part. mɔrəky:"
+!:past_part: "mɔrəky:"
+stɔrfwi:, ‘snort’
+tɔrt′, ‘bulk’, M.Ir. toirt
+tɔruw, ‘fruit’, O.Ir. torad
+po̤rtαχ, ‘bog’, Di. portach
+kɔsu:l′, ‘similar’, O.Ir. cosmail
+krɔs, ‘cross’
+krɔsəm, ‘I forbid’, Meyer cross, crossaim
+ɔsNə, ‘sigh’, O.Ir. osnad
+tɔst, ‘silence’, M.Ir. tost
+trɔsk, ‘cod’, Di. trosc
+Lo̤sid′, ‘a shallow wooden vessel’, O.Ir. lossat
+!:note: "not generally known"
+Lo̤skəN, ‘toad’, M.Ir. loscann
+!:note: "doubtless owing to the preceding L"
+kɔhuw, ‘to feed’, Meyer cothaigim
+gɔhαnαχ, ‘touchy’, Di. gothán
+rɔhə, ‘wheel’, Wi. roth
+mo̤χuw, ‘springing’
+!:compare_section: 333
+!:note: "o̤ before χ < h"
 
 ɔ only occurs very exceptionally before other non-palatal sounds, e.g.
 bɔbwir′αχt, ‘roguery’, formed on Engl. ‘bob’
