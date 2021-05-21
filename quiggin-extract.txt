@@ -2,6 +2,7 @@
   section: 7
   english: "needle"
   old_irish: "snáthat"
+  index: "snáthad"
 "sNαhəd":
   section: 7
   english: "to wash down, spice"
@@ -11,33 +12,41 @@
   past_part: "sNα:t′ə"
   headwords:
     dinneen: "snathadh"
+  index: "snáthadh"
 "αhəs":
   section: 7
   english: "joy"
   middle_irish: "áithes"
+  index: "áthas"
 "tαhər":
   section: 7
   middle_irish: "atáthar"
   german "man ist"
+  index: "táthar"
 "N′i: αhαr"
   section: 7
   irish: "ní fhaghthar"
   proverb:
     phonetic: "N′i: αhər sæL′ gən çαNαχt"
     english: "lard is not got without buying"
+  index: "faghthar"
 "mαhær′":
   section: 7
   english: "mother"
   old_irish: "máthir"
+  index: "matháir"
 "drαh ə Nαmə ʃɔ":
   section: 7
   english: "about this time"
   irish: "i dtráth an ama seo"
     compare:
       craig: "dratha"
+  index: "dratha"
+    inferred_pronunciation: "drαh(ə)"
 "sə Nαm ə Lαhir′":
   section: 7
   english: "at the present time"
+  index: "lathair"
 "Nα̃vd′ə":
   section: 8
   english: "enemy"
@@ -54,10 +63,12 @@
   section: 9
   english: "arm-pit"
   middle_irish: "ochsal"
+  index: "ascall"
 "bαrəb":
   section: 9
   english: "rough"
   middle_irish: "borb"
+  index: "borb"
 "bαtæL′t′ə":
   section: 9
   english: "wap of hay"
@@ -65,6 +76,7 @@
     dinneen: "batailte"
   derivation:
     english: "bottle"
+  index: "batáilte"
 "blαgəd′":
   section: 9
   english: "bald patch"
@@ -75,41 +87,50 @@
     meyer: "brothchán"
     dinneen: "brochán"
     macbain: "brochán"
+  index: "brochán"
 "brαLαχ":
   section: 9
   english: "breast"
   headwords:
     meyer: "brollach"
+  index: "brollach"
 "fαLæn′":
   section: 9
   english: "healthy"
   headwords:
     dinneen: "fóllain"
+  index: "folláin"
 "fαχlə":
   section: 9
   english: "parched"
   headwords:
     dinneen: "fochla"
+  index: "fachla"
 "fαruw":
   section: 9
   english: "roost"
   middle_irish: "forud"
+  index: "foradh"
 "fαskuw":
   section: 9
   english: "shelter"
   old_irish: "foscad"
+  index: "foscadh"
 "kαgnuw":
   section: 9
   english: "to chew"
   middle_irish: "cocnam"
+  index: "cagnamh"
 "kαL":
   section: 9
   english: "hazel"
   old_irish: "coll"
+  index: "coll"
 "kαskərt′":
   section: 9
   english: "to strike, thaw"
   old_irish: "coscar"
+  index: "cascairt"
 "mαguw":
   section: 9
   english: "to mock"
@@ -118,6 +139,7 @@
   compare:
     irish: "mogadh"
     location: "Louth"
+  index: "magadh"
 "sαp":
   section: 9
   english: "wisp"
