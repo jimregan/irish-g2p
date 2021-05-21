@@ -844,3 +844,115 @@
   english: "sow"
   index: "cráin"
   fgb: "cráin"
+"fα:gæl′":
+  section: 16
+  english: "to leave"
+  headwords:
+    irische_text: "fácbaim"
+  index: "fágáil"
+"fα:s":
+  section: 16
+  english: "to grow"
+  headwords:
+    irische_text: "ás"
+  index: "fás"
+"grα:n′":
+  section: 16
+  english: "disgust, dislike"
+  middle_irish: "gráin"
+  index: "gráin"
+"krα:f′αχ":
+  section: 16
+  english: "religious"
+  middle_irish: "cráibdech"
+  index: "cráibhtheach"
+  fgb: "cráifeach"
+"Lα:n":
+  section: 16
+  english: "full"
+  old_irish: "lán"
+  index: "lán"
+"α:məd":
+  section: 17
+  english: "timber"
+  middle_irish: "admat"
+  index: "adhmad"
+"ʃiəl α:w əgəs ɛəwə":
+  section: 17
+  english: "the descendants of Adam and Eve"
+  compare:
+    dinneen: "Ádhmha"
+  note: "in Atk. Pass. and Hom. the a has no length-mark"
+  index: "Adhmha"
+    pronunciation: "α:w"
+"α:wər":
+  section: 17
+  english: "material, cause"
+  middle_irish: "adbar"
+  index: "adhbhar"
+  fgb: "ábhar"
+"sα:wə":
+  section: 17
+  english: "woman’s name"
+  middle_irish: "Sadb"
+  irish: "Sadhbha"
+  index: "Sadhbha"
+"N′i: α:N′ʃə":
+  section:
+  english: "he does not get"
+  compare:
+    irische_text: "fagbaim"
+  index: "faghann"
+  fgb: "faigh"
+"m′α:χən":
+  section: 18
+  english: "weight"
+  headwords:
+    dinneen: "meadhachan"
+  compare:
+    irische_text: "med"
+  index: "meadhachan"
+  fgb: "meáchan"
+"m′α:N Le:":
+  section: 18
+  english: "mid-day"
+  headwords:
+    irische_text: "medón"
+  index: "meadhon"
+  fgb: "meán"
+"ʃL′α:n":
+  section:
+  english: "turf-spade"
+  headwords:
+    dinneen: "sleaghán"
+  middle_irish: "sleg"
+  index: "sleaghán"
+  fgb: "sleán"
+"f′α:":
+  section: 18
+  english: "fathom"
+  headwords:
+    dinneen: "feadh"
+  old_irish: "ed"
+  edil: "http://www.dil.ie/19658"
+  examples:
+    - phonetic: "gα: α:"
+      english: "2 fathoms"
+  note: "for the pronunciations f′ïg and f′ə⅄` cp. §§ 170, 429"
+  index: "feadh"
+"rα:χ ʃN′αχtə":
+  section: 19
+  english: "a drift of snow"
+  headwords:
+    dinneen: "ráithe"
+    plural: "ráthacha"
+    location: "Derry"
+  part_of_speech: "noun"
+  gender: "masculine"
+  genitive_singular: "rα:çə"
+    gender: "feminine"
+  nominative_plural: "rα:χəNỹ:"
+  note: "according to J. H. the nom. sing. is masc. but the gen. rα:çə is fem., as is frequently the case with words not often used, nom. plur. rα:χəNỹ: (forms containing á before th may be quoted here as according to § 7 the long vowel would be shortened)"
+  fgb: "ráthach"
+    equals: "ráth"
+  index: "ráthach"
