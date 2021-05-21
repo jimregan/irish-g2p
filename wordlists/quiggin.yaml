@@ -1768,21 +1768,30 @@
   section: 23
   english: "canine tooth"
   formed_from: "gonaim"
+  index: "gonán"
+  fgb: "gonán"
 "kɔpαn":
   section: 23
   english: "cup"
   derivation:
     english: "cup"
+  index: "copán"
+  fgb: "copán"
+    equals: "cupán"
 "kɔpɔg":
   section: 23
   english: "dock"
   headwords:
     meyer: "coppóc"
+  index: "copóg"
+  fgb: "copóg"
 "kɔr′k′ə":
   section: 24
   english: "oats"
   headwords:
     meyer: "coirce"
+  index: "coirce"
+  fgb: "coirce"
 "Lɔt′αχ":
   section: 24
   english: "harmful, injurious"
