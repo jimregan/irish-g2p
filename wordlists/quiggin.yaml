@@ -1848,24 +1848,34 @@
   section: 24
   english: "school"
   middle_irish: "scol"
+  index: "scoil"
+  fgb: "scoil"
 "kɔʃə":
   section: 24
   english: "foot"
   genitive_singular_of: "kɔs"
   see_also: "kɔʃiαχt"
+  index: "cos"
+  fgb: "cos"
 "kɔʃiαχt":
   section: 24
   english: "walking"
   headwords:
     dinneen: "coisidheacht"
+  index: "coisidheacht"
+  fgb: "coisíocht"
 "krɔʃi:n′":
   section: 24
   english: "stick with curved handle"
   headwords:
     dinneen: "croisín"
   from: "cros"
+  index: "croisín"
+  fgb: "croisín"
 "brɔk":
   section: 24
   english: "badger"
   genitive_singular: "brik′"
   see_section: 98
+  index: "broc"
+  fgb: "broc"
