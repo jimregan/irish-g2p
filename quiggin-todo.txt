@@ -1,5 +1,7 @@
 # § 23
-bɔbwir′αχt, ‘roguery’, formed on Engl. ‘bob’
+bɔbwir′αχt, ‘roguery’
+!:derivation:
+!::english: "bob"
 gɔnαn, ‘canine tooth’, formed from gonaim (?)
 kɔpαn, ‘cup’ < Engl.
 kɔpɔg, ‘dock’, Meyer coppóc.
@@ -1142,15 +1144,13 @@ The eclipsed form of p is b, e.g. α bɔ:sit(′) ʃə, ‘if he were to marry�
 
 Late loan-words from English have b = Engl. b, e.g. bαbɔg, ‘doll’, < Engl. ‘babe’; bɔbwir′αχt, ‘trickery’, < Engl. ‘bob’; to̤bαn, ‘tub’. In a few instances we find Engl. w, v appearing as b on the analogy of bα:d, ‘boat’, α wα:d, ‘his boat’, e.g. bαLə, ‘wall’; bo̤Ntæʃt′ə, ‘advantage’. Similarly b for m occurs in bo̤mwit′ə, ‘minute’, < Lat. momentum.
 
-t′r′ïblɔd′, ‘trouble’, M.Ir. tréblait, seems to have been borrowed during the M.Ir. period from Lat. tribulatio.
+t′r′ïblɔd′, ‘trouble’, M.Ir. tréblait
+!:derivation:
+!::latin: "tribulatio"
 
 § 372. In several cases Donegal b corresponds to bh in the other dialects, e.g. kru:b, ‘paw, hand’, Di. crúb, crobh, Macbain crubh, Meyer crob, crúb; ʃk′r′i:b, ‘scratch, furrow’, M.Ir. scríb, scrípad, Lat. scribo but ʃk′r′iuw, ‘to write’; ʃo̤bərNỹ: (ʃïbərNỹ:), ‘neglect’, gɔl əN′ ʃ., ʃïbərNαχ Cl. S. 30 v ’03 p. 1 col. 1 (used of cattle getting mixed up and going astray), this seems to be the same word as Di. siabrán, ‑acht, cp. further Di. seabhais, seabhóideacht, seabhóidim; ʃiəbuw, ‘to blow’, Di. siabhadh, Macbain siab, siabh, Manx sheebey.
 
 mər bwiL′ ʃə, ‘unless he is’, scarcely belongs here. The b doubtless represents the copula inserted from αχ mər b′ə:,[15] ‘if it had not been for him’, in the same way as a meaningless əs (agus) is introduced in gəd′e: mər əs tα: tuw, ‘how are you?’ from phrases like Ni:L′ ʃə kɔ mαiç əs vi: ʃə, ‘he is not as good as he was’.
-
-4. b′.
-
-§ 373. b′ is formed in the same way as p′ but is voiced.
 
 § 374. b′ corresponds to O.Ir. initial b before e and i or preceding l and r followed by these vowels, e.g. b′αn, ‘woman’, O.Ir. ben; b′αNαχt, ‘blessing’, O.Ir. bendacht; b′in′id′, ‘rennet’, O.Ir. binid; b′i:wi:, ‘slyly mischievous’, Meyer bibdaide; b′l′iïn′, ‘year’, O.Ir. bliadain; b′r′i:, ‘vigour, force’, O.Ir. bríg; b′r′i:hər, ‘speech’, O.Ir. bríathar.
 
@@ -1158,7 +1158,8 @@ The eclipsed form of initial p′ is b′, e.g. α b′αtə, ‘their pet’; p
 
 § 375. Medial and final b′ arises from the same sources as b in §§ 371, 372 before originally palatal vowels. b′ is far from being as frequent as b and a number of words in which it occurs are somewhat obscure. Examples – k′i:b′, ‘sedge’, Di. cíb; k′l′ib′i:n′, ‘lump of dirt on the legs of a beast, matted hair on a person’, Di. clib, Macbain cliob, cp. ʃïn′ ɛən çl′ib′i:n′ əwα̃:n′, ‘that is all one kettle of fish’; rïb′ə, ‘hair’, Di. ribe, ruibe, Macbain rib, ribeag < Engl. riban. In foreign words < p in eb′r′αn, ‘April’, Lat. aprilis (see ZCP. i 358); ïb′r′uw, ‘to work’, ïb′r′i:, ‘workman’, cp. O.Ir. oipred; p′ïb′ər, ‘pepper’, Lat. piper.
 
-§ 376. b′ has been analogically substituted for v in b′ig′il′, ‘abstinence, vigil’, < Lat. vigilia; b′i:ʃ ‘vice’, < Engl. ‘vice’. d′ir′ib′, ‘the name of a creeping thing that lives at the bottom of pools and is liable to be swallowed by cattle’, = Di. doirbh.
+# § 376
+b′ig′il′, ‘abstinence, vigil’, < Lat. vigilia; b′i:ʃ ‘vice’, < Engl. ‘vice’. d′ir′ib′, ‘the name of a creeping thing that lives at the bottom of pools and is liable to be swallowed by cattle’, = Di. doirbh.
 
 § 377. sïb′əLtə, ‘impudent’, seems to correspond to O’R. sodalta, Macbain saidealta, cp. Di. sotal.
 

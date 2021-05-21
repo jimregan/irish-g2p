@@ -1757,3 +1757,8 @@
   rule: "o > o̤ / _ χ"
   index: ["moth", "mothadh"]
   fgb: "mothas"
+"bɔbwir′αχt":
+  section: 23
+  english: "roguery"
+  derivation:
+    english: "bob"
