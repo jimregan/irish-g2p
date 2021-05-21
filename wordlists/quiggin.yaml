@@ -154,3 +154,79 @@
   irish: "maith go leor"
   index: "maith"
     pronunciation: "mα"
+"αhəNtəs":
+  section: 5
+  english: "acquaintance"
+  headwords:
+    dinneen: "aitheantas"
+  index: "aitheantas"
+  formed_from: "en̥′ə"
+"αhəNtə":
+  section: 5
+  english: "acquainted"
+  headwords:
+    dinneen: "aitheanta"
+  index: "aitheanta"
+  formed_from: "en̥′ə"
+"en̥′ə":
+  section: 5
+  old_irish: "aithgne"
+  index: "aithne"
+  preterite: "dαhin′ m′ə"
+"dαhin′ m′ə":
+  section: 5
+  english: "I recognised"
+  headwords:
+    dinneen: "d’aithin"
+"αhəNtə":
+  section: 5
+  english: "commandments"
+  headwords:
+    dinneen: "aitheanta"
+      plural_of: "aithne"
+  derivation:
+    old_irish: "aithgne"
+"αhiN′ə":
+  section: 5
+  english: "brand"
+  middle_irish: "aithinne"
+  index: "aithinne"
+"mαhũw":
+  section: 5
+  english: "to forgive"
+  old_irish: "mathem"
+  index: ["maitheamh", "maithiughadh"]
+"fαrəg′ə":
+  section: 5
+  english: "sea"
+  old_irish: "fairgge"
+  index: "fairge"
+"fαrsiN′":
+  section: 5
+  english: "ample"
+  old_irish: "fairsing"
+  index: "fairsing"
+"mαrst′ən":
+  section: 5
+  index: "mairim"
+  infinitive_of:
+    irish: "mairim"
+    english: "I remain, last"
+    headwords:
+      irische_text: "maraim"
+"αm′ʃir′":
+  section: 5
+  english: "weather"
+  old_irish: "aimser"
+  index: "aimsir"
+"tαvʃə":
+  section: 5
+  english: "ghost"
+  middle_irish: "taidbsiu"
+  index: "taidhbhse"
+"αf′r′əN":
+  section: 6
+  english: "mass"
+  headwords:
+    irische_text: "oifrend"
+  index: "aifreann"
