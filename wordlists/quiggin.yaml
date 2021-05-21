@@ -1796,25 +1796,35 @@
   section: 24
   english: "harmful, injurious"
   middle_irish: "loitim"
+  index: ["loiteach", "loitim"]
+  fgb: "loiteach"
 "ɔʃir′":
   section: 24
   english: "oyster"
   headwords:
     macbain: "oisir"
     dinneen: "oisre"
+  index: "oisir"
+  fgb: "oisre"
 "ɔt′ir′":
   section: 24
   english: "turf-bank"
   headwords:
     dinneen: "oitir"
+  index: "oitir"
+  fgb: "oitir"
 "rɔʃuw":
   section: 24
   english: "rip up"
   headwords:
     oreilly: "roiseadh"
+  index: "roiseadh"
+  fgb: "roiseadh"
 "tɔt′":
   section: 24
   english: "smoke"
   headwords:
     dinneen: "toit"
     atkinsons: "tutt"
+  index: "toit"
+  fgb: "toit"
