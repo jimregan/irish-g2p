@@ -1883,7 +1883,11 @@
   section: 25
   english: "dumb"
   middle_irish: "balb"
+  index: "balbh"
+  fgb: "balbh"
 "gɔlər":
   section: 25
   english: "disease"
   old_irish: "galar"
+  index: "galar"
+  fgb: "galar"
