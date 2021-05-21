@@ -1197,3 +1197,46 @@
   rule: "α > α: / _ R"
   index: "barriall"
   fgb: "barriall"
+"f′α:r":
+  section: 21
+  english: "better"
+  old_irish: "ferr"
+  index: "fearr"
+  fgb: "fearr"
+  rule: "α > α: / _ R"
+"gα:ri:":
+  section: 21
+  english: "garden"
+  headwords:
+    dinneen: "garraidhe"
+  middle_irish: "garrda"
+  fgb: "garraí"
+  index: ["garraidh", "garrdha"]
+  rule: "α > α: / _ R"
+"g′α:r":
+  section: 21
+  english: "short"
+  middle_irish: "gerr"
+  examples:
+    - phonetic: "ə ɲα:r αmə"
+      english: "in a short time"
+  rule: "α > α: / _ R"
+  index: "gearr"
+  fgb: "gearr"
+"g′αr":
+  section: 21
+  english: "moderate"
+  index: "gearr"
+  fgb: "gearr-"
+  see_also: ["g′αriə", "g′αrwα̃iç"]
+"g′αriə":
+  section: 21
+  english: "hare"
+  headwords:
+    dinneen: "gearrfhiadh"
+  index: "gearrfhiadh"
+  compound: ["gearr", "fhiadh"]
+  fgb: "giorria"
+"g′αrwα̃iç":
+  section: 21
+  english: "pretty good"

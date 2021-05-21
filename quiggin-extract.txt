@@ -1,18 +1,3 @@
-"f′α:r":
-  section: 21
-  english: "better"
-  old_irish: "ferr"
-# gα:ri:, ‘garden’, Di. garraidhe, M.Ir. garrda
-"g′α:r":
-  section: 21
-  english: "short"
-  middle_irish: "gerr"
-"ə ɲα:r αmə":
-  section: 21
-  english: "in a short time"
-", g′αrwα̃iç":
-  section: 21
-  english: "pretty good"
 # In verbal roots ending in r < R, the long vowel alternates with the short. Thus
 ", plur. of g′αruw":
   section: 21
