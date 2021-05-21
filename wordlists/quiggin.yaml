@@ -726,3 +726,121 @@
     dinneen: "rapla húta"
   index: "rapla-húta"
   fgb: "raiple húta"
+"ʃeʃr′αχ":
+  section: 13
+  english: "plough"
+  middle_irish: "sessrech"
+  index: "seisreach"
+"t′αLαχ":
+  section: 13
+  english: "hearthstone"
+  middle_irish: "tenlach"
+  index: "teallach"
+"ũ:hαχə":
+  section: 13
+  english: "caves"
+  alternative: "ũ:kαχə"
+  plural_of: "ũi"
+  fgb: "uaimh"
+"f′iαχ":
+  section: 13
+  english: "crow"
+  old_irish: "fíach"
+  index: "fiach"
+"f′iαχə":
+  section: 13
+  english: "debts"
+  plural_of: "f′iə"
+"f′iə":
+  section: 13
+  english: "deer"
+  middle_irish: "fíad"
+  index: "fiadh"
+"f′iαχæl′":
+  section: 13
+  english: "to try"
+  headwords:
+    irische_text: "féchaim"
+  index: "féacháil"
+  fgb: "fiacháil"
+"k′ɛαχt":
+  section: 13
+  english: "plough"
+  old_irish: "cécht"
+  note: "not common"
+  index: "céacht"
+  fgb_variant: "céacht"
+  fgb: "céachta"
+"p′r′ɛαχtə":
+  section: 13
+  english: "perished with cold"
+  headwords:
+    dinneen: "préachta"
+  index: "préachta"
+"uαχə":
+  section: 13
+  plural_of: "uw"
+"uw":
+  section: 13
+  english: "udder"
+  middle_irish: "uth"
+  index: "úth"
+  fgb: "úth"
+"uαχt(ə)":
+  section: 13
+  english: "pledge"
+  headwords:
+    dinneen: "udhacht"
+  index: "udhacht"
+  fgb: "uacht"
+"fα":
+  section: 14
+  english: "about"
+  headwords:
+    dinneen: "fá"
+  index: "fá"
+"α hein′":
+  section: 14
+  english: "himself"
+  irish: "é fhéin"
+  index: "é"
+"α N′α:n̥iN′":
+  irish: "dia dheánfhainn"
+  index: ["dia", "da-"]
+"d′α ·hi:n′ə":
+  section: 14
+  english: "Friday"
+  irish: "dia haoine"
+  index: "dia (day)"
+"α":
+  section: 14
+  english: "descendant"
+  note: "in proper names"
+  full_form: "ɔ:"
+  see_also: "α bwi:L′"
+"α bwi:L′":
+  section: 14
+  english: "O’Boyle"
+"mα":
+  section: 14
+  english: "my"
+  old_irish: "mo"
+  reduced: "mə"
+  index: "mo"
+"d′α:n":
+  section: 15
+  english: "ferry"
+  genitive_singular: "d′α:n′"
+  index: "deán"
+"grα:Nə":
+  section: 15
+  english: "ugly"
+  comparative: "grα:k′ə"
+    fgb_variant: "gráice"
+  index: "gránna"
+  fgb: "gránna"
+"krα:n′":
+  section: 15
+  english: "sow"
+  index: "cráin"
+  fgb: "cráin"
