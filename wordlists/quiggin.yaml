@@ -1304,3 +1304,219 @@
   rule: "α > α: / _ r̥"
   index: "ceathramhadh"
   fgb: "ceathrú"
+"t′α(:)mpəL":
+  section: 21
+  english: "a Protestant church or chapel"
+  note: "there is hesitation between α and α:"
+  index: "teampall"
+  fgb: "teampall"
+"fɔlə":
+  section: 23
+  english: "blood"
+  genitive_singular_of: "fwïl′"
+  rule: "o > ɔ / _ l"
+  index: "fuil (blood)"
+  fgb: "fuil"
+"mɔluw":
+  section: 23
+  english: "to praise, recommend"
+  old_irish: "molad"
+  rule: "o > ɔ / _ l"
+  index: "moladh"
+  fgb: "moladh"
+"ɔləN":
+  section: 23
+  english: "wool"
+  old_irish: "oland"
+  genitive_singular: "o̤Lə"
+  rule: "o > ɔ / _ l"
+  index: "olann"
+  fgb: "olann"
+"ɔlk":
+  section: 23
+  english: "bad"
+  old_irish: "olcc"
+  rule: "o > ɔ / _ l"
+  index: "olc"
+  fgb: "olc"
+"sɔləs":
+  section:
+  english: "light"
+  old_irish: "solus"
+  rule: "o > ɔ / _ l"
+  index: "solus"
+  fgb: "solas"
+"dɔl":
+  section:
+  english: "snare"
+  alternative: "do̤l"
+  rule: "o > ɔ / _ l"
+  index: "dol"
+  fgb: "dol"
+"bɔkαn":
+  section: 23
+  english: "toad-stool"
+  headwords:
+    hogan: "bocán"
+  rule: "o > ɔ / _ k"
+  index: "bocán"
+  fgb: "bocán"
+    equals: "beacán"
+"Lɔkuw":
+  section: 23
+  english: "to fail, flinch"
+  headwords:
+    dinneen: "locadh"
+  rule: "o > ɔ / _ k"
+  index: "locadh"
+  fgb: "locadh"
+    equals: "loiceadh"
+"sɔk":
+  section: 23
+  english: "snout"
+  middle_irish: "socc"
+  rule: "o > ɔ / _ k"
+  index: "soc"
+  fgb: "soc"
+"sɔkyr′":
+  section: 23
+  english: "at ease"
+  middle_irish: "soccair"
+  rule: "o > ɔ / _ k"
+  index: "socair"
+  fgb: "socair"
+"kro̤k":
+  section: 23
+  english: "hill"
+  old_irish: "cnocc"
+  rule: "o > ɔ / _ k"
+  index: "cnoc"
+  fgb: "cnoc"
+"ɔkrəs":
+  section:
+  english: "hunger"
+  middle_irish: ["accorus", "occorus"]
+  rule: "o > ɔ / _ k"
+  index: "ocras"
+  fgb: "ocras"
+"kɔtuw":
+  section: 23
+  english: "bashfulness"
+  headwords:
+    dinneen: "cotughadh"
+  rule: "o > ɔ / _ t"
+  index: "cotughadh"
+  fgb: "cotadh"
+"krɔtəl":
+  section: 23
+  english: "a lichen which gives a yellow dye used in the manufacture of tweeds"
+  headwords:
+    meyer: "crottal"
+  rule: "o > ɔ / _ t"
+  index: "crotal"
+  fgb: "crotal"
+"pɔtə":
+  section: 23
+  english: "pot"
+  headwords:
+    dinneen: "pota"
+  rule: "o > ɔ / _ t"
+  index: "pota"
+  fgb: "pota"
+"sLo̤t":
+  section: 23
+  english: "wick"
+  also: "a weak person"
+  manx: "slut"
+  rule: "o > ɔ / _ t"
+  index: "slot"
+  fgb: "sloit"
+"bɔχt":
+  section: 23
+  english: "poor"
+  old_irish: "bocht"
+  rule: "o > ɔ / _ χ"
+  index: "bocht"
+  fgb: "bocht"
+"kɔχəL":
+  section: 23
+  english: "scrotum"
+  headwords:
+    irische_text: "cochull"
+  rule: "o > ɔ / _ χ"
+  index: "cochall"
+  fgb: "cochall"
+"kɔχən":
+  section:
+  english: "straw"
+  headwords:
+    dinneen: "cochán"
+  note: "this may be formed from cáith, cáth, ‘chaff’, with the usual shortening before h < th, and h > χ, cp. § 178"
+  rule: "o > ɔ / _ χ"
+  index: "cochan"
+  fgb: "cochán"
+  see_also: "cáith"
+"cáith":
+  section:
+  english: "chaff"
+  alternate: "cáth"
+  fgb: "cáith"
+  index: "cáith"
+"krɔχuw":
+  section: 23
+  english: "to hang"
+  middle_irish: "crochad"
+  rule: "o > ɔ / _ χ"
+  index: "crochadh"
+  fgb: "crochadh"
+"ɔχtər":
+  section: 23
+  english: "8 persons"
+  middle_irish: "ochtar"
+  rule: "o > ɔ / _ χ"
+  index: "ochtar"
+  fgb: "ochtar"
+"spɔχαn":
+  section:
+  english: "poke"
+  note: "a disease of sheep = scrofula"
+  rule: "o > ɔ / _ χ"
+  index: "spochán"
+"spɔχuw":
+  section: 23
+  english: "to geld"
+  middle_irish: "spochad"
+  rule: "o > ɔ / _ χ"
+  index: "spochadh"
+  fgb: "spochadh"
+"tɔχərtuw":
+  section: 23
+  english: "to wind up thread"
+  headwords:
+    dinneen: "tochardadh"
+  middle_irish: "tochras"
+  rule: "o > ɔ / _ χ"
+  index: "tochartadh"
+  fgb: "tochartadh"
+    equals: "tochras"
+  note: "Laws"
+"tɔχəs":
+  section: 23
+  english: "itch"
+  headwords:
+    dinneen: "tochas"
+  rule: "o > ɔ / _ χ"
+  index: "tochas"
+  fgb: "tochas"
+"toχt fuil′":
+  section: 23
+  english: "gravel"
+  headwords:
+    dinneen: 
+      - "tocht"
+      - "fuail"
+        genitive_singular_of: "fual"
+        note: "this term is not understood, the meaning of fual is entirely forgotten"
+  rule: "o > ɔ / _ χ"
+  index: "tocht fuail"
+  fgb: "tocht fuail"
