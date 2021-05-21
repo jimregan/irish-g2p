@@ -1,34 +1,4 @@
-# p. 7-8, § 10
-skαhαn, ‘mirror’, M.Ir. scathán
-glu:rəkαn, ‘numbness’
-g′aləwαn, g′αləwən, ‘sparrow’, Dinneen gealbhan, M.Ir. gelbund;
-ruəkən, ‘cockle’, Di. ruacán
-mαkαNtə, ‘civil, decent’, lit. ‘filial’ < O.Ir. maccán, ‘puerulus’
-spαdαNtə, ‘seedy, out of sorts’, Di. spadánta
-f′iαNtə, ‘wild’, Di. fiadhanta
-!:note: "used of people"
-α̃uwlaNtə, ‘foolishly prating’
-:formed from α̃uwlɔr′, Di. amhlóir, M.Ir. oblóir
-f′iəstαlαχ, ‘rush’, Di. fiastalach
-f′αdαli:, ‘to whistle’, f′αdαlαχ, ‘whistling’, Di. feadálach
-f′ɛk′αlαχ, ‘conspicuous, remarkable, handsome’
-fαdαlαχ, ‘slow’, Di. fadálach
-ɔr̥αlαχə, ‘offerings’, plur. of ɔr̥æl′, Di. ofráil
-u:hαs, ‘prodigy’, M.Ir. uathbás
-prα:kαs, ‘small, deformed person’, Di. prácás
-rα:mαs, ‘idle talk’
-d′r′əuwlαs, ‘licentiousness’, d’r’əuwlαsαχ, ‘licentious’, cp. Di. dreabhlas, drobhlas
-o̤rLαr, ‘floor’, Di. urlár
 # p. 8, § 11
-ti:dɔr′, ‘thatcher’, Di. tuigheadoir
-ti:dαrαχt, ‘thatching’
-spwæʃt′αrαχt, ‘strolling about’, Di. spaisteoireacht
-N′ɛəLtαrαχt, ‘idling’, Di. néalladóireacht
-!:compare:
-!::english: "star-gazing"
-ʃαnəmαNti:, ‘preacher’, Di. seanmóntaidhe
-!:compare: "ʃαnəmɔr′"
-ʃαnəmɔr′, ‘sermon’
 fwiN′ɔg, ‘window’, M.Ir. fuindeóg
 !:alternative: "fwiN′αg"
 fwi:l′αg, ‘sea-gull’, cp. O.Ir. foilenn
@@ -192,4 +162,11 @@ sLo̤t, ‘wick’
 !:manx: "slut"
 bɔχt, ‘poor’, O.Ir. bocht
 kɔχəL, ‘scrotum’, Wi. cochull
-kɔχən, ‘straw’, Di. cochán (this may be formed from cáith, cáth, ‘chaff’, with the usual shortening before h < th, and h > χ, cp. § 178); krɔχuw, ‘to hang’, M.Ir. crochad; ɔχtər, ‘8 persons’, M.Ir. ochtar; spɔχαn, ‘poke’ (a disease of sheep = scrofula); spɔχuw, ‘to geld’, M.Ir. spochad; tɔχərtuw, ‘to wind up thread’, Di. tochardadh, M.Ir. tochras (Laws); tɔχəs, ‘itch’, Di. tochas; toχt fuil′, ‘gravel’, Di. tocht + fuail gen. sing. of fual (this term is not understood, the meaning of fual is entirely forgotten).
+kɔχən, ‘straw’, Di. cochán (this may be formed from cáith, cáth, ‘chaff’, with the usual shortening before h < th, and h > χ, cp. § 178)
+krɔχuw, ‘to hang’, M.Ir. crochad
+ɔχtər, ‘8 persons’, M.Ir. ochtar
+spɔχαn, ‘poke’ (a disease of sheep = scrofula)
+spɔχuw, ‘to geld’, M.Ir. spochad
+tɔχərtuw, ‘to wind up thread’, Di. tochardadh, M.Ir. tochras (Laws)
+tɔχəs, ‘itch’, Di. tochas
+toχt fuil′, ‘gravel’, Di. tocht + fuail gen. sing. of fual (this term is not understood, the meaning of fual is entirely forgotten).
