@@ -1571,29 +1571,50 @@
   english: "odd"
   middle_irish: "corr"
   alternate: "kɔR"
+  rule: "o > ɔ / _ r"
+  index: "corr (odd)"
+  fgb: "corr"
 "kɔRuw l′ɛ":
   section: 23
   english: "upwards of"
   headwords:
     dinneen: "corradh"
+  rule: "o > ɔ / _ r"
+  index: "corradh"
+  fgb: "corradh"
 "kɔrədi:":
   section: 23
   english: "to move, stir"
   headwords:
     meyer: "coraigim"
+  rule: "o > ɔ / _ r"
+  index: "coradaigh"
+  fgb: "corraigh"
 "kɔrαχ":
   section: 23
   english: "steep"
   middle_irish: "corrach"
+  rule: "o > ɔ / _ r"
+  index: "corrach"
+  fgb: "corrach"
 "kɔrp":
   section: 23
   english: "corpse"
   old_irish: "corp"
+  rule: "o > ɔ / _ r"
+  index: "corp"
+  fgb: "corp"
 "kɔr̥əm":
   section: 23
   english: "level"
   middle_irish: "comthromm"
+  rule: "o > ɔ / _ r"
+  index: "comhthrom"
+  fgb: "cothrom"
 "k′l′i·ɔrst′ə":
   section: 23
   english: "harrow"
   irish: "clíath fhoirste"
+  rule: "o > ɔ / _ r"
+  index: "cliath"
+  fgb: "cliath fhuirste"
