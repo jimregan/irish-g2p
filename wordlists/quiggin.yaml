@@ -1833,11 +1833,17 @@
   english: "to heat, warm"
   headwords:
     dinneen: "goruw"
-# >proverb:əs f′α:r o veL′t′ ə hαNuw Nα n ℊrui ə ℊɔr′uw, ‘it is better to tighten the belt than to burn one’s cheek’
+  proverb:
+    phonetic: "əs f′α:r o veL′t′ ə hαNuw Nα n ℊrui ə ℊɔr′uw"
+    english: "it is better to tighten the belt than to burn one’s cheek"
+  index: "goireadh"
+  fgb: "goradh"
 "tɔl′":
   section: 24
   english: "will"
   old_irish: "tol"
+  index: "toil"
+  fgb: "toil"
 "skɔl′":
   section: 24
   english: "school"

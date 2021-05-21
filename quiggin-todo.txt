@@ -1,18 +1,3 @@
-# § 24
-gɔr′uw, ‘to heat, warm’, Di. goruw
->proverb:əs f′α:r o veL′t′ ə hαNuw Nα n ℊrui ə ℊɔr′uw, ‘it is better to tighten the belt than to burn one’s cheek’
-tɔl′, ‘will’, O.Ir. tol
-skɔl′, ‘school’, M.Ir. scol
-kɔʃə, ‘foot’
-!:genitive_singular_of: "kɔs"
-!:see_also: "kɔʃiαχt"
-kɔʃiαχt, ‘walking’, Di. coisidheacht
-krɔʃi:n′, ‘stick with curved handle’, Di. croisín
-!:from: "cros"
-brɔk, ‘badger’
-!:genitive_singular: "brik′"
-!:see_section: 98
-
 # § 25
 bɔluw, ‘dumb’, M.Ir. balb
 gɔlər, ‘disease’, O.Ir. galar
