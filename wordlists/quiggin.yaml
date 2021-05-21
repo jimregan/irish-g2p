@@ -1828,3 +1828,38 @@
     atkinsons: "tutt"
   index: "toit"
   fgb: "toit"
+"gɔr′uw":
+  section: 24
+  english: "to heat, warm"
+  headwords:
+    dinneen: "goruw"
+# >proverb:əs f′α:r o veL′t′ ə hαNuw Nα n ℊrui ə ℊɔr′uw, ‘it is better to tighten the belt than to burn one’s cheek’
+"tɔl′":
+  section: 24
+  english: "will"
+  old_irish: "tol"
+"skɔl′":
+  section: 24
+  english: "school"
+  middle_irish: "scol"
+"kɔʃə":
+  section: 24
+  english: "foot"
+  genitive_singular_of: "kɔs"
+  see_also: "kɔʃiαχt"
+"kɔʃiαχt":
+  section: 24
+  english: "walking"
+  headwords:
+    dinneen: "coisidheacht"
+"krɔʃi:n′":
+  section: 24
+  english: "stick with curved handle"
+  headwords:
+    dinneen: "croisín"
+  from: "cros"
+"brɔk":
+  section: 24
+  english: "badger"
+  genitive_singular: "brik′"
+  see_section: 98
