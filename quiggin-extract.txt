@@ -1,11 +1,3 @@
-# In verbal roots ending in r < R, the long vowel alternates with the short. Thus
-", plur. of g′αruw":
-  section: 21
-  english: "cutting pains"
-# b′αruw, ‘to shear’, pret. vα:r m′ə, past part. b′α:r̥ə
-# From these forms it appears that lengthening is the rule before r̥ < rrth. For this compare
-# α:r̥uw, ‘change’ infin. to M.Ir. aitherraigim
-# pα:r̥u:s, ‘paradise’, Di. parrthas, O.Ir. pardus
 # tα:r̥æl′, ‘to assist, succour’, Di. tárrtháil, cp. M.Ir. tarraid, tarrthatar
 "Note that there is no lengthening before r̥ < thr in k′αr̥uw":
   section: 21

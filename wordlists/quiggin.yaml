@@ -1240,3 +1240,67 @@
 "g′αrwα̃iç":
   section: 21
   english: "pretty good"
+"g′αruw":
+  section: 21
+  english: "to cut"
+  preterite: "jα:r m′ə"
+    rule: "α > α: / _ R"
+  future: "g′α:r̥ə m′ə"
+    rule: "α > α: / _ r̥"
+  past_part: "g′α:r̥ə"
+    rule: "α > α: / _ r̥"
+  past_habitual_passive: "jα:rti:"
+    rule: "α > α: / _ R"
+  index: "gearradh"
+  fgb: "gearradh"
+"g′α:r̥αχə":
+  section: 21
+  english: "cutting pains"
+  plural_of "g′αruw"
+  rule: "α > α: / _ R"
+  index: "gearradh"
+  fgb: "gearradh"
+"b′αruw":
+  section: 21
+  english: "to shear"
+  preterite: "vα:r m′ə"
+    rule: "α > α: / _ R"
+  past_part: "b′α:r̥ə"
+    rule: "α > α: / _ r̥"
+  index: "bearradh"
+  fgb: "bearradh"
+"α:r̥uw":
+  section: 21
+  english: "change"
+  middle_irish: "aitherraigim"
+  rule: "α > α: / _ r̥"
+  index: "athrughadh"
+  fgb: "athrú"
+"pα:r̥u:s":
+  section: 21
+  english: "paradise"
+  headwords:
+    dinneen: "parrthas"
+  old_irish: "pardus"
+  rule: "α > α: / _ r̥"
+  index: "parrthas"
+  fgb: "parrthas"
+    equals: "parthas"
+"tα:r̥æl′":
+  section: 21
+  english: "to assist, succour"
+  headwords:
+    dinneen: "tárrtháil"
+  compare:
+    middle_irish: ["tarraid", "tarrthatar"]
+  rule: "α > α: / _ r̥"
+  index: "tarrtháil"
+  fgb: "tarrtháil"
+"k′αr̥uw":
+  section: 21
+  english: "quarter"
+  headwords:
+    irische_text: "cethramad"
+  rule: "α > α: / _ r̥"
+  index: "ceathramhadh"
+  fgb: "ceathrú"
