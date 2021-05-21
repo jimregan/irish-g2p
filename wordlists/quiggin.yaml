@@ -581,3 +581,942 @@
   english: "sermon"
   index: "seanmóir"
   fgb: "seanmóir"
+"fwiN′ɔg":
+  section: 11
+  english: "window"
+  middle_irish: "fuindeóg"
+  alternative: "fwiN′αg"
+  index: "fuinneóg"
+  fgb: "fuinneog"
+"fwi:l′αg":
+  section: 11
+  english: "sea-gull"
+  compare:
+    old_irish: "foilenn"
+  index: "faoileóg"
+  fgb: "faoileán"
+  logainm:
+    url: "https://www.logainm.ie/ga/1396629"
+    name: "Loch na bhFaoileog"
+    english: "Lough Wheeloge"
+"kyN′αg":
+  section: 11
+  english: "churn-dash"
+  middle_irish: "cuindeóg"
+  index: "cuinneóg"
+  fgb: "cuinneog"
+"m′iəLtɔgy:":
+  section: 11
+  english_sic: "nudges"
+  english: "midges"
+  index: "míoltóg"
+"αsɔgy:":
+  section: 11
+  english: "weasels"
+  index: "easóg"
+"b′αχɔgy:":
+  section: 11
+  english: "bees"
+  examples:
+    - phonetic: "er′ ə NyN′æg′"
+      english: "on the window"
+    - phonetic: "gαh b′αχæg′ə"
+      english: "the sting of a bee"
+  index: "beachóg"
+"kï̃vαd":
+  section: 12
+  english: "to watch, look at"
+  headwords:
+    dinneen: "coimhéad"
+    irische_text: "comét"
+  examples:
+    - phonetic: "kï̃vαd də χɔsə"
+      english: "mind your feet"
+  index: "coimhéad"
+  fgb: "coimhéad"
+"k′ïn′αl":
+  section: 12
+  english: "sort, kind"
+  headwords:
+    dinneen: "cinéal"
+  old_irish: ["cinél", "cenél"]
+  index: ["cinéal", "cional"]
+  fgb: "cineál"
+"k′ïn′αLtə":
+  section: 12
+  english: "kind"
+  part_of_speech: "adjective"
+  index: "cinéalta"
+  fgb: "cineálta"
+"kïl′αn":
+  section: 12
+  english: "pup"
+  middle_irish: "culén"
+  index: "cuiléan"
+  fgb: "coileán"
+"kɔrN′αl":
+  section: 12
+  english: "corner"
+  headwords:
+    dinneen: "coirnéal"
+  index: "coirnéal"
+  fgb: "coirnéal"
+"kαir̥′αm′":
+  section: 12
+  english: "triumph"
+  middle_irish: "caithréim"
+  index: "caithréim"
+  fgb: "caithréim"
+"dïvαn":
+  section: 12
+  english: "a scart"
+  headwords:
+    dinneen: "duibhéan"
+      english: "cormorant"
+  index: "duibhéan"
+  fgb: "duibhéan"
+"b′αrαd":
+  section: 12
+  english: "cap"
+  headwords:
+    dinneen: "bairéad"
+  index: "bearád"
+  fgb: "bairéad"
+"b′αruw":
+  section: 12
+  english: "to shave, dress the hair"
+  middle_irish: "berrad"
+  index: "bearradh"
+  fgb: "bearradh"
+"αLαχ":
+  section: 13
+  english: "cattle"
+  old_irish: "ellach"
+  index: "eallach"
+  fgb: "eallach"
+"əmα:rαχ":
+  section: 13
+  english: "to-morrow"
+  middle_irish: "i mbárach"
+  index: ["amárach", "amáireach"]
+"g′αrαχ"
+  genitive_singular_of: "g′er′"
+  fgb: "geire"
+"g′er′":
+  section: 13
+  english: "tallow"
+  index: "geir"
+  fgb: "geir"
+"ïm′αχt":
+  section: 13
+  english: "to depart"
+  middle_irish: "imthecht"
+  index: "imtheacht"
+  fgb: "imeacht"
+"rαplαχαn"
+  section: 13
+  english :"rough and ready going fellow"
+  compare: "rαpləhu:tə"
+  index: "raplachán"
+  fgb: "raipleachán"
+"rαpləhu:tə":
+  section: 13
+  english: "hubbub"
+  headwords:
+    dinneen: "rapla húta"
+  index: "rapla-húta"
+  fgb: "raiple húta"
+"ʃeʃr′αχ":
+  section: 13
+  english: "plough"
+  middle_irish: "sessrech"
+  index: "seisreach"
+"t′αLαχ":
+  section: 13
+  english: "hearthstone"
+  middle_irish: "tenlach"
+  index: "teallach"
+"ũ:hαχə":
+  section: 13
+  english: "caves"
+  alternative: "ũ:kαχə"
+  plural_of: "ũi"
+  fgb: "uaimh"
+"f′iαχ":
+  section: 13
+  english: "crow"
+  old_irish: "fíach"
+  index: "fiach"
+"f′iαχə":
+  section: 13
+  english: "debts"
+  plural_of: "f′iə"
+"f′iə":
+  section: 13
+  english: "deer"
+  middle_irish: "fíad"
+  index: "fiadh"
+"f′iαχæl′":
+  section: 13
+  english: "to try"
+  headwords:
+    irische_text: "féchaim"
+  index: "féacháil"
+  fgb: "fiacháil"
+"k′ɛαχt":
+  section: 13
+  english: "plough"
+  old_irish: "cécht"
+  note: "not common"
+  index: "céacht"
+  fgb_variant: "céacht"
+  fgb: "céachta"
+"p′r′ɛαχtə":
+  section: 13
+  english: "perished with cold"
+  headwords:
+    dinneen: "préachta"
+  index: "préachta"
+"uαχə":
+  section: 13
+  plural_of: "uw"
+"uw":
+  section: 13
+  english: "udder"
+  middle_irish: "uth"
+  index: "úth"
+  fgb: "úth"
+"uαχt(ə)":
+  section: 13
+  english: "pledge"
+  headwords:
+    dinneen: "udhacht"
+  index: "udhacht"
+  fgb: "uacht"
+"fα":
+  section: 14
+  english: "about"
+  headwords:
+    dinneen: "fá"
+  index: "fá"
+"α hein′":
+  section: 14
+  english: "himself"
+  irish: "é fhéin"
+  index: "é"
+"α N′α:n̥iN′":
+  irish: "dia dheánfhainn"
+  index: ["dia", "da-"]
+"d′α ·hi:n′ə":
+  section: 14
+  english: "Friday"
+  irish: "dia haoine"
+  index: "dia (day)"
+"α":
+  section: 14
+  english: "descendant"
+  note: "in proper names"
+  full_form: "ɔ:"
+  see_also: "α bwi:L′"
+"α bwi:L′":
+  section: 14
+  english: "O’Boyle"
+"mα":
+  section: 14
+  english: "my"
+  old_irish: "mo"
+  reduced: "mə"
+  index: "mo"
+"d′α:n":
+  section: 15
+  english: "ferry"
+  genitive_singular: "d′α:n′"
+  index: "deán"
+"grα:Nə":
+  section: 15
+  english: "ugly"
+  comparative: "grα:k′ə"
+    fgb_variant: "gráice"
+  index: "gránna"
+  fgb: "gránna"
+"krα:n′":
+  section: 15
+  english: "sow"
+  index: "cráin"
+  fgb: "cráin"
+"fα:gæl′":
+  section: 16
+  english: "to leave"
+  headwords:
+    irische_text: "fácbaim"
+  index: "fágáil"
+"fα:s":
+  section: 16
+  english: "to grow"
+  headwords:
+    irische_text: "ás"
+  index: "fás"
+"grα:n′":
+  section: 16
+  english: "disgust, dislike"
+  middle_irish: "gráin"
+  index: "gráin"
+"krα:f′αχ":
+  section: 16
+  english: "religious"
+  middle_irish: "cráibdech"
+  index: "cráibhtheach"
+  fgb: "cráifeach"
+"Lα:n":
+  section: 16
+  english: "full"
+  old_irish: "lán"
+  index: "lán"
+"α:məd":
+  section: 17
+  english: "timber"
+  middle_irish: "admat"
+  index: "adhmad"
+"ʃiəl α:w əgəs ɛəwə":
+  section: 17
+  english: "the descendants of Adam and Eve"
+  compare:
+    dinneen: "Ádhmha"
+  note: "in Atk. Pass. and Hom. the a has no length-mark"
+  index: "Adhmha"
+    pronunciation: "α:w"
+"α:wər":
+  section: 17
+  english: "material, cause"
+  middle_irish: "adbar"
+  index: "adhbhar"
+  fgb: "ábhar"
+"sα:wə":
+  section: 17
+  english: "woman’s name"
+  middle_irish: "Sadb"
+  irish: "Sadhbha"
+  index: "Sadhbha"
+"N′i: α:N′ʃə":
+  section:
+  english: "he does not get"
+  compare:
+    irische_text: "fagbaim"
+  index: "faghann"
+  fgb: "faigh"
+"m′α:χən":
+  section: 18
+  english: "weight"
+  headwords:
+    dinneen: "meadhachan"
+  compare:
+    irische_text: "med"
+  index: "meadhachan"
+  fgb: "meáchan"
+"m′α:N Le:":
+  section: 18
+  english: "mid-day"
+  headwords:
+    irische_text: "medón"
+  index: "meadhon"
+  fgb: "meán"
+"ʃL′α:n":
+  section:
+  english: "turf-spade"
+  headwords:
+    dinneen: "sleaghán"
+  middle_irish: "sleg"
+  index: "sleaghán"
+  fgb: "sleán"
+"f′α:":
+  section: 18
+  english: "fathom"
+  headwords:
+    dinneen: "feadh"
+  old_irish: "ed"
+  edil: "http://www.dil.ie/19658"
+  examples:
+    - phonetic: "gα: α:"
+      english: "2 fathoms"
+  note: "for the pronunciations f′ïg and f′ə⅄` cp. §§ 170, 429"
+  index: "feadh"
+"rα:χ ʃN′αχtə":
+  section: 19
+  english: "a drift of snow"
+  headwords:
+    dinneen: "ráithe"
+    plural: "ráthacha"
+    location: "Derry"
+  part_of_speech: "noun"
+  gender: "masculine"
+  genitive_singular: "rα:çə"
+    gender: "feminine"
+  nominative_plural: "rα:χəNỹ:"
+  note: "according to J. H. the nom. sing. is masc. but the gen. rα:çə is fem., as is frequently the case with words not often used, nom. plur. rα:χəNỹ: (forms containing á before th may be quoted here as according to § 7 the long vowel would be shortened)"
+  fgb: "ráthach"
+    equals: "ráth"
+  index: "ráthach"
+"sLα:χ":
+  section: 19
+  english: "slush on the sea-shore"
+  alternative: "sLαhαχ"
+  headwords:
+    dinneen: "sláthach"
+  index: "sláthach"
+  fgb: "sláthach"
+"b′α:χ":
+  section: 19
+  english: "beast, horse"
+  headwords:
+    meyer: "bethadach"
+  plural: "b′αhi:"
+  index: "beathaidheach"
+  fgb: "beathach"
+    equals: "beithíoch"
+"blα:χ":
+  section: 19
+  english: "buttermilk"
+  middle_irish: "bláthach"
+  index: "bláthach"
+  fgb: "bláthach"
+"d′α:nuw":
+  section: 20
+  english: "to do"
+  old_irish: "dénum"
+  note: "The α: is surprising and is probably to be attributed to the influence of the preterite form N′i: hα:rN"
+  index: "déanamh"
+"tα:rN′αχ":
+  section: 20
+  english: "thunder"
+  middle_irish: "toirnech"
+  compare: "tɔ:rN′æʃ"
+  index: "táirneach"
+  fgb: "tairneach"
+    equals: "toirneach"
+"tɔ:rN′æʃ":
+  section: 20
+  english: "a great noise"
+  headwords:
+    dinneen: "tóirnéis"
+  fgb: "toirnéis"
+  index: "tóirnéis"
+"α:Lt":
+  section: 21
+  english: "cliff"
+  middle_irish: "alt"
+  index: "alt"
+  rule: "α > α: / _ Lt"
+"b′α:Ltin′ə":
+  section: 21
+  english: "May"
+  middle_irish: "beltene"
+  index: "bealtaine"
+  rule: "α > α: / _ Lt"
+"gα:Ltə":
+  section: 21
+  english: "Protestant"
+  headwords:
+    dinneen: "gallda"
+  derivation:
+    middle_irish: "gall"
+  index: ["gallta", "gall"]
+  fgb: "gallta"
+    equals: "gallda"
+  rule: "α > α: / _ Lt"
+"α:nṟi":
+  section: 21
+  english: "broth"
+  middle_irish: "enbruthe"
+  index: "anbhruith"
+  fgb: "anraith"
+  rule: "α > α: / _ nṟ"
+"α:nṟɔ:":
+  section: 21
+  english: "misery"
+  middle_irish: "andró"
+  index: "ánró"
+  fdb: "anró"
+  rule: "α > α: / _ nṟ"
+"bα:nṟi:n":
+  section: 21
+  english: "queen"
+  old_irish: "ban-"
+  rule: "α > α: / _ nṟ"
+  index: "banrioghan"
+  fgb: "banríon"
+  compound: ["ban", "ríon"]
+"krα:ṉrə":
+  sic: "krα:nṟə"
+  section: 21
+  english: "knot in wood, corn on the foot"
+  headwords:
+    dinneen: "crannra"
+  rule: "α > α: / _ nṟ"
+  index: "crannra"
+  fgb: "cranra"
+"skα:nṟi:":
+  section: 21
+  english: "scared, frightened"
+  compare:
+    dinneen: "scannruighim"
+  rule: "α > α: / _ nṟ"
+  index: "scannr(ugh)adh"
+  fgb: "scanraigh"
+    variant: "scannraigh"
+"k′α:rtə":
+  section: 21
+  english: "forge"
+  headwords:
+    irische_text: "cerdcha"
+  note: "there is no lengthening before rt"
+  compare: "k′αrt"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"
+  index: "ceardcha"
+  fgb: "ceardcha"
+    equals: "ceárta"
+"k′αrt":
+  section: 21
+  english: "right"
+  middle_irish: "cert"
+  irish: "ceart"
+  fgb: "ceart"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"
+"kαrtuw":
+  section: 21
+  english: "to cleanse"
+  headwords:
+    meyer: "cartaim"
+  index: "cartadh"
+  fgb: "cartadh"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"
+"kαrtαn":
+  section: 21
+  english: "sheep-louse"
+  headwords:
+    meyer: "cart"
+  index: "cartán"
+  fgb: "cartán"
+    equals: "ceartán"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"
+"kα:rd′ə":
+  section: 21
+  english: "friends"
+  old_irish: "cairtea"
+  rule: "α > α: / _ rd′"
+  index: ["cara", "caraid"]
+  fgb: "cairde"
+    equals: "cara"
+"kα:rd′αχ":
+  section: 21
+  english: "friendly"
+  rule: "α > α: / _ rd′"
+  fdb: "cairdeach"
+    equals: "cairdiúil"
+  index: "cairdeach"
+"b′α:rN":
+  section: 21
+  english: "gap"
+  middle_irish: "bern"
+  rule: "α > α: / _ rN"
+  index: ["bearn", "bearnaidh"]
+  fgb: "bearna"
+"d′α:rNəd":
+  section: 21
+  english: "flea"
+  headwords:
+    dinneen: "deargnait"
+  middle_irish: "dergnat"
+  rule: "α > α: / _ rN"
+  index: "dearnad"
+  fgb: "dearnad"
+    equals: "dreancaid"
+"N′i: hα:rN":
+  section: 21
+  english: "did not do"
+  headwords:
+    irische_text: "derna"
+  rule: "α > α: / _ rN"
+"kα:rN":
+  section: 21
+  english: "heap"
+  middle_irish: "carn"
+  genitive_singular: "kα:rN′"
+  rule: "α > α: / _ rN"
+  index: "carn"
+  fgb: "carn"
+"tα:rNαχtə":
+  section: 21
+  english: "bare, naked"
+  headwords:
+    irische_text: "tarr-"
+  rule: "α > α: / _ rN"
+  index: "tarrnochttha"
+  fgb: "tarnocht"
+    variant: "tarnochta"
+"tα:rN′ə":
+  section: 21
+  english: "nail"
+  headwords:
+    irische_text: "tairnge"
+  rule: "α > α: / _ rN′"
+  index: "tairnge"
+  fgb: "tairnge"
+    equals: "tairne"
+"tαrN′t′":
+  section: 21
+  english: "to pull"
+  headwords:
+    irische_text: "tairrngim"
+  index: ["tairnt", "tarraingt"]
+  fgb: "tarraingt"
+"pα:rL̥αn":
+  part_of_speech: "proper noun"
+  middle_irish: "Partholón"
+  index: "Partholón"
+  modern: "Parthalán"
+  rule: "α > α: / _ rL̥"
+"bα:r":
+  section: 21
+  english: "top"
+  rule: "α > α: / _ R"
+  index: "barr"
+  fgb: "barr"
+"bαrçiç":
+  section: 21
+  english: "a light shower"
+  index: "barrchith"
+  compount: ["barr", "chith"]
+  fgb: "barrchith"
+"bα:riəL":
+  section: 21
+  english: "short leather lace"
+  rule: "α > α: / _ R"
+  index: "barriall"
+  fgb: "barriall"
+"f′α:r":
+  section: 21
+  english: "better"
+  old_irish: "ferr"
+  index: "fearr"
+  fgb: "fearr"
+  rule: "α > α: / _ R"
+"gα:ri:":
+  section: 21
+  english: "garden"
+  headwords:
+    dinneen: "garraidhe"
+  middle_irish: "garrda"
+  fgb: "garraí"
+  index: ["garraidh", "garrdha"]
+  rule: "α > α: / _ R"
+"g′α:r":
+  section: 21
+  english: "short"
+  middle_irish: "gerr"
+  examples:
+    - phonetic: "ə ɲα:r αmə"
+      english: "in a short time"
+  rule: "α > α: / _ R"
+  index: "gearr"
+  fgb: "gearr"
+"g′αr":
+  section: 21
+  english: "moderate"
+  index: "gearr"
+  fgb: "gearr-"
+  see_also: ["g′αriə", "g′αrwα̃iç"]
+"g′αriə":
+  section: 21
+  english: "hare"
+  headwords:
+    dinneen: "gearrfhiadh"
+  index: "gearrfhiadh"
+  compound: ["gearr", "fhiadh"]
+  fgb: "giorria"
+"g′αrwα̃iç":
+  section: 21
+  english: "pretty good"
+"g′αruw":
+  section: 21
+  english: "to cut"
+  preterite: "jα:r m′ə"
+    rule: "α > α: / _ R"
+  future: "g′α:r̥ə m′ə"
+    rule: "α > α: / _ r̥"
+  past_part: "g′α:r̥ə"
+    rule: "α > α: / _ r̥"
+  past_habitual_passive: "jα:rti:"
+    rule: "α > α: / _ R"
+  index: "gearradh"
+  fgb: "gearradh"
+"g′α:r̥αχə":
+  section: 21
+  english: "cutting pains"
+  plural_of "g′αruw"
+  rule: "α > α: / _ R"
+  index: "gearradh"
+  fgb: "gearradh"
+"b′αruw":
+  section: 21
+  english: "to shear"
+  preterite: "vα:r m′ə"
+    rule: "α > α: / _ R"
+  past_part: "b′α:r̥ə"
+    rule: "α > α: / _ r̥"
+  index: "bearradh"
+  fgb: "bearradh"
+"α:r̥uw":
+  section: 21
+  english: "change"
+  middle_irish: "aitherraigim"
+  rule: "α > α: / _ r̥"
+  index: "athrughadh"
+  fgb: "athrú"
+"pα:r̥u:s":
+  section: 21
+  english: "paradise"
+  headwords:
+    dinneen: "parrthas"
+  old_irish: "pardus"
+  rule: "α > α: / _ r̥"
+  index: "parrthas"
+  fgb: "parrthas"
+    equals: "parthas"
+"tα:r̥æl′":
+  section: 21
+  english: "to assist, succour"
+  headwords:
+    dinneen: "tárrtháil"
+  compare:
+    middle_irish: ["tarraid", "tarrthatar"]
+  rule: "α > α: / _ r̥"
+  index: "tarrtháil"
+  fgb: "tarrtháil"
+"k′αr̥uw":
+  section: 21
+  english: "quarter"
+  headwords:
+    irische_text: "cethramad"
+  rule: "α > α: / _ r̥"
+  index: "ceathramhadh"
+  fgb: "ceathrú"
+"t′α(:)mpəL":
+  section: 21
+  english: "a Protestant church or chapel"
+  note: "there is hesitation between α and α:"
+  index: "teampall"
+  fgb: "teampall"
+"fɔlə":
+  section: 23
+  english: "blood"
+  genitive_singular_of: "fwïl′"
+  rule: "o > ɔ / _ l"
+  index: "fuil (blood)"
+  fgb: "fuil"
+"mɔluw":
+  section: 23
+  english: "to praise, recommend"
+  old_irish: "molad"
+  rule: "o > ɔ / _ l"
+  index: "moladh"
+  fgb: "moladh"
+"ɔləN":
+  section: 23
+  english: "wool"
+  old_irish: "oland"
+  genitive_singular: "o̤Lə"
+  rule: "o > ɔ / _ l"
+  index: "olann"
+  fgb: "olann"
+"ɔlk":
+  section: 23
+  english: "bad"
+  old_irish: "olcc"
+  rule: "o > ɔ / _ l"
+  index: "olc"
+  fgb: "olc"
+"sɔləs":
+  section:
+  english: "light"
+  old_irish: "solus"
+  rule: "o > ɔ / _ l"
+  index: "solus"
+  fgb: "solas"
+"dɔl":
+  section:
+  english: "snare"
+  alternative: "do̤l"
+  rule: "o > ɔ / _ l"
+  index: "dol"
+  fgb: "dol"
+"bɔkαn":
+  section: 23
+  english: "toad-stool"
+  headwords:
+    hogan: "bocán"
+  rule: "o > ɔ / _ k"
+  index: "bocán"
+  fgb: "bocán"
+    equals: "beacán"
+"Lɔkuw":
+  section: 23
+  english: "to fail, flinch"
+  headwords:
+    dinneen: "locadh"
+  rule: "o > ɔ / _ k"
+  index: "locadh"
+  fgb: "locadh"
+    equals: "loiceadh"
+"sɔk":
+  section: 23
+  english: "snout"
+  middle_irish: "socc"
+  rule: "o > ɔ / _ k"
+  index: "soc"
+  fgb: "soc"
+"sɔkyr′":
+  section: 23
+  english: "at ease"
+  middle_irish: "soccair"
+  rule: "o > ɔ / _ k"
+  index: "socair"
+  fgb: "socair"
+"kro̤k":
+  section: 23
+  english: "hill"
+  old_irish: "cnocc"
+  rule: "o > ɔ / _ k"
+  index: "cnoc"
+  fgb: "cnoc"
+"ɔkrəs":
+  section:
+  english: "hunger"
+  middle_irish: ["accorus", "occorus"]
+  rule: "o > ɔ / _ k"
+  index: "ocras"
+  fgb: "ocras"
+"kɔtuw":
+  section: 23
+  english: "bashfulness"
+  headwords:
+    dinneen: "cotughadh"
+  rule: "o > ɔ / _ t"
+  index: "cotughadh"
+  fgb: "cotadh"
+"krɔtəl":
+  section: 23
+  english: "a lichen which gives a yellow dye used in the manufacture of tweeds"
+  headwords:
+    meyer: "crottal"
+  rule: "o > ɔ / _ t"
+  index: "crotal"
+  fgb: "crotal"
+"pɔtə":
+  section: 23
+  english: "pot"
+  headwords:
+    dinneen: "pota"
+  rule: "o > ɔ / _ t"
+  index: "pota"
+  fgb: "pota"
+"sLo̤t":
+  section: 23
+  english: "wick"
+  also: "a weak person"
+  manx: "slut"
+  rule: "o > ɔ / _ t"
+  index: "slot"
+  fgb: "sloit"
+"bɔχt":
+  section: 23
+  english: "poor"
+  old_irish: "bocht"
+  rule: "o > ɔ / _ χ"
+  index: "bocht"
+  fgb: "bocht"
+"kɔχəL":
+  section: 23
+  english: "scrotum"
+  headwords:
+    irische_text: "cochull"
+  rule: "o > ɔ / _ χ"
+  index: "cochall"
+  fgb: "cochall"
+"kɔχən":
+  section:
+  english: "straw"
+  headwords:
+    dinneen: "cochán"
+  note: "this may be formed from cáith, cáth, ‘chaff’, with the usual shortening before h < th, and h > χ, cp. § 178"
+  rule: "o > ɔ / _ χ"
+  index: "cochan"
+  fgb: "cochán"
+  see_also: "cáith"
+"cáith":
+  section:
+  english: "chaff"
+  alternate: "cáth"
+  fgb: "cáith"
+  index: "cáith"
+"krɔχuw":
+  section: 23
+  english: "to hang"
+  middle_irish: "crochad"
+  rule: "o > ɔ / _ χ"
+  index: "crochadh"
+  fgb: "crochadh"
+"ɔχtər":
+  section: 23
+  english: "8 persons"
+  middle_irish: "ochtar"
+  rule: "o > ɔ / _ χ"
+  index: "ochtar"
+  fgb: "ochtar"
+"spɔχαn":
+  section:
+  english: "poke"
+  note: "a disease of sheep = scrofula"
+  rule: "o > ɔ / _ χ"
+  index: "spochán"
+"spɔχuw":
+  section: 23
+  english: "to geld"
+  middle_irish: "spochad"
+  rule: "o > ɔ / _ χ"
+  index: "spochadh"
+  fgb: "spochadh"
+"tɔχərtuw":
+  section: 23
+  english: "to wind up thread"
+  headwords:
+    dinneen: "tochardadh"
+  middle_irish: "tochras"
+  rule: "o > ɔ / _ χ"
+  index: "tochartadh"
+  fgb: "tochartadh"
+    equals: "tochras"
+  note: "Laws"
+"tɔχəs":
+  section: 23
+  english: "itch"
+  headwords:
+    dinneen: "tochas"
+  rule: "o > ɔ / _ χ"
+  index: "tochas"
+  fgb: "tochas"
+"toχt fuil′":
+  section: 23
+  english: "gravel"
+  headwords:
+    dinneen: 
+      - "tocht"
+      - "fuail"
+        genitive_singular_of: "fual"
+        note: "this term is not understood, the meaning of fual is entirely forgotten"
+  rule: "o > ɔ / _ χ"
+  index: "tocht fuail"
+  fgb: "tocht fuail"
