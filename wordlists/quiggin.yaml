@@ -230,3 +230,354 @@
   headwords:
     irische_text: "oifrend"
   index: "aifreann"
+"sNαhəd":
+  section: 7
+  english: "needle"
+  old_irish: "snáthat"
+  index: "snáthad"
+"sNαhəd":
+  section: 7
+  english: "to wash down, spice"
+  alternative: "sNαhuw"
+  present: "sNα:ihəm"
+  preterite: "nα:iç"
+  past_part: "sNα:t′ə"
+  headwords:
+    dinneen: "snathadh"
+  index: "snáthadh"
+"αhəs":
+  section: 7
+  english: "joy"
+  middle_irish: "áithes"
+  index: "áthas"
+"tαhər":
+  section: 7
+  middle_irish: "atáthar"
+  german "man ist"
+  index: "táthar"
+"N′i: αhαr"
+  section: 7
+  irish: "ní fhaghthar"
+  proverb:
+    phonetic: "N′i: αhər sæL′ gən çαNαχt"
+    english: "lard is not got without buying"
+  index: "faghthar"
+"mαhær′":
+  section: 7
+  english: "mother"
+  old_irish: "máthir"
+  index: "matháir"
+"drαh ə Nαmə ʃɔ":
+  section: 7
+  english: "about this time"
+  irish: "i dtráth an ama seo"
+    compare:
+      craig: "dratha"
+  index: "dratha"
+    inferred_pronunciation: "drαh(ə)"
+"sə Nαm ə Lαhir′":
+  section: 7
+  english: "at the present time"
+  index: "lathair"
+"Nα̃vd′ə":
+  section: 8
+  english: "enemy"
+  plural_of: "Nα̃:wid′"
+    index: "námhaid"
+  old_irish: 
+    accusative_plural: "náimtea"
+"αgəs":
+  section: 9
+  english: "and"
+  index: "agus"
+  old_irish: "ocus"
+"αskəL":
+  section: 9
+  english: "arm-pit"
+  middle_irish: "ochsal"
+  index: "ascall"
+"bαrəb":
+  section: 9
+  english: "rough"
+  middle_irish: "borb"
+  index: "borb"
+"bαtæL′t′ə":
+  section: 9
+  english: "wap of hay"
+  headwords:
+    dinneen: "batailte"
+  derivation:
+    english: "bottle"
+  index: "batáilte"
+"blαgəd′":
+  section: 9
+  english: "bald patch"
+  index: "blagóid"
+  fgb: "blagaid"
+"brαhαn":
+  section: 9
+  english: "porridge"
+  headwords:
+    meyer: "brothchán"
+    dinneen: "brochán"
+    macbain: "brochán"
+  index: "brochán"
+"brαLαχ":
+  section: 9
+  english: "breast"
+  headwords:
+    meyer: "brollach"
+  index: "brollach"
+"fαLæn′":
+  section: 9
+  english: "healthy"
+  headwords:
+    dinneen: "fóllain"
+  index: "folláin"
+"fαχlə":
+  section: 9
+  english: "parched"
+  headwords:
+    dinneen: "fochla"
+  index: "fachla"
+"fαruw":
+  section: 9
+  english: "roost"
+  middle_irish: "forud"
+  index: "foradh"
+"fαskuw":
+  section: 9
+  english: "shelter"
+  old_irish: "foscad"
+  index: "foscadh"
+"kαgnuw":
+  section: 9
+  english: "to chew"
+  middle_irish: "cocnam"
+  index: "cagnamh"
+"kαL":
+  section: 9
+  english: "hazel"
+  old_irish: "coll"
+  index: "coll"
+"kαskərt′":
+  section: 9
+  english: "to strike, thaw"
+  old_irish: "coscar"
+  index: "cascairt"
+"mαguw":
+  section: 9
+  english: "to mock"
+  derivation:
+    english: "mock"
+  compare:
+    irish: "mogadh"
+    location: "Louth"
+  index: "magadh"
+"sαp":
+  section: 9
+  english: "wisp"
+  middle_irish: "sopp"
+  index: "sop"
+"skαhuw":
+  section: 9
+  english: "to wean"
+  middle_irish: "scothaim"
+  index: "scathadh"
+"spαrαn":
+  section: 9
+  english: "purse"
+  middle_irish: "sporán"
+  alternative: "spɔrαn"
+  index: "sporán"
+"tαrəmαn":
+  section: 9
+  english: "noise"
+  headwords:
+    irische_text: "tormán"
+    reference: "iv 1"
+  index: "tarmán"
+"fɔskluw":
+  section: 9
+  english: "to open"
+  future: "N′i: αsklαχi:"
+  index: "foscladh"
+"g′αrαn":
+  section: 10
+  english: "horse"
+  middle_irish: "gerrán"
+  literally: "gelding"
+  index: "gearrán"
+"skαhαn":
+  section: 10
+  english: "mirror"
+  middle_irish: "scathán"
+  index: "scathán"
+"glu:rəkαn":
+  section: 10
+  english: "numbness"
+  index: "glúracán"
+"g′aləwαn":
+  section: 10
+  alternative: "g′αləwən"
+  english: "sparrow"
+  headwords:
+    dinneen: "gealbhan"
+  middle_irish: "gelbund"
+  index: "gealbhan"
+"ruəkən":
+  section: 10
+  english: "cockle"
+  headwords:
+    dinneen: "ruacán"
+  index: "ruacan"
+"mαkαNtə":
+  section: 10
+  english: "civil, decent"
+  literally: "filial"
+  derivation:
+    old_irish: "maccán"
+      english: "puerulus"
+  index: "macánta"
+"spαdαNtə":
+  section: 10
+  english: "seedy, out of sorts"
+  headwords:
+    dinneen: "spadánta"
+  index: "spadánta"
+  fgb: "spadánta"
+"f′iαNtə":
+  section: 10
+  english: "wild"
+  headwords:
+    dinneen: "fiadhanta"
+  note: "used of people"
+  index: "fiadhanta"
+  fgb: "fiánta"
+"α̃uwlaNtə":
+  section: 10
+  english: "foolishly prating"
+  formed_from: "α̃uwlɔr′"
+  index: "abhlánta"
+  fgb: "amhlánta"
+"α̃uwlɔr′":
+  section: 10
+  headwords:
+    dinneen: "amhlóir"
+  middle_irish: "oblóir"
+  fgb: "abhlóir"
+"f′iəstαlαχ":
+  section: 10
+  english: "rush"
+  headwords:
+    dinneen: "fiastalach"
+  index: "fiastálach"
+  fgb: "fiastalach"
+"f′αdαli:":
+  section: 10
+  english: "to whistle"
+  see_also: "f′αdαlαχ"
+"f′αdαlαχ":
+  section: 10
+  english: "whistling"
+  headwords:
+    dinneen: "feadálach"
+  see_also: "f′αdαli:"
+  index: "feadálach"
+"f′ɛk′αlαχ":
+  section: 10
+  english: "conspicuous, remarkable, handsome"
+  index: "feiceálach"
+"fαdαlαχ":
+  section: 10
+  english: "slow"
+  headwords:
+    dinneen: "fadálach"
+  index: "fadálach"
+  fgb: "fadálach"
+"ɔr̥αlαχə":
+  section: 10
+  english: "offerings"
+  headwords:
+    dinneen: "ofráil"
+  plural_of: "ɔr̥æl′"
+    index: "ofráil"
+"u:hαs":
+  section: 10
+  english: "prodigy"
+  middle_irish: "uathbás"
+  index: "uathbhás"
+  fgb: "uafás"
+"prα:kαs":
+  section: 10
+  english: "small, deformed person"
+  headwords:
+    dinneen: "prácás"
+  index: "prácás"
+  fgb: "prácás"
+"rα:mαs":
+  section: 10
+  english: "idle talk"
+  index: "rámás"
+  fgb: "raiméis"
+"d′r′əuwlαs":
+  section: 10
+  english: "licentiousness"
+  compare:
+    headwords:
+      dinneen: ["dreabhlas", "drobhlas"]
+  see_also: "d′r′əuwlαsαχ"
+  index: "dreabhlas"
+  fgb: "drabhlás"
+"d′r′əuwlαsαχ":
+  section: 10
+  english: "licentious"
+  see_also: "d′r′əuwlαs"
+  index: "dreabhlasach"
+  fgb: "drabhlásach"
+"o̤rLαr":
+  section: 10
+  english: "floor"
+  headwords:
+    dinneen: "urlár"
+  index: "urlár"
+"ti:dɔr′":
+  section: 11
+  english: "thatcher"
+  headwords:
+    dinneen: "tuigheadoir"
+  index: "tuigheadóir"
+  fgb: "tuíodóir"
+"ti:dαrαχt":
+  section: 11
+  english: "thatching"
+  index: "tuigheadóracht"
+  fgb: "tuíodóireacht"
+"spwæʃt′αrαχt":
+  section: 11
+  english: "strolling about"
+  headwords:
+    dinneen: "spaisteoireacht"
+  index: "spaisteóracht"
+  fgb: "spaisteoireacht"
+"N′ɛəLtαrαχt":
+  section: 11
+  english: "idling"
+  headwords:
+    dinneen: "néalladóireacht"
+  compare:
+    english: "star-gazing"
+  index: "néaltóracht"
+  fgb: "néaladóireacht"
+"ʃαnəmαNti:":
+  section: 11
+  english: "preacher"
+  headwords:
+    dinneen: "seanmóntaidhe"
+  compare: "ʃαnəmɔr′"
+  index: "seanmóntaidhe"
+"ʃαnəmɔr′":
+  section: 11
+  english: "sermon"
+  index: "seanmóir"
+  fgb: "seanmóir"
