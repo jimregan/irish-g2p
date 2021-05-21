@@ -956,3 +956,70 @@
   fgb: "ráthach"
     equals: "ráth"
   index: "ráthach"
+"sLα:χ":
+  section: 19
+  english: "slush on the sea-shore"
+  alternative: "sLαhαχ"
+  headwords:
+    dinneen: "sláthach"
+  index: "sláthach"
+  fgb: "sláthach"
+"b′α:χ":
+  section: 19
+  english: "beast, horse"
+  headwords:
+    meyer: "bethadach"
+  plural: "b′αhi:"
+  index: "beathaidheach"
+  fgb: "beathach"
+    equals: "beithíoch"
+"blα:χ":
+  section: 19
+  english: "buttermilk"
+  middle_irish: "bláthach"
+  index: "bláthach"
+  fgb: "bláthach"
+"d′α:nuw":
+  section: 20
+  english: "to do"
+  old_irish: "dénum"
+  note: "The α: is surprising and is probably to be attributed to the influence of the preterite form N′i: hα:rN"
+  index: "déanamh"
+"tα:rN′αχ":
+  section: 20
+  english: "thunder"
+  middle_irish: "toirnech"
+  compare: "tɔ:rN′æʃ"
+  index: "táirneach"
+  fgb: "tairneach"
+    equals: "toirneach"
+"tɔ:rN′æʃ":
+  section: 20
+  english: "a great noise"
+  headwords:
+    dinneen: "tóirnéis"
+  fgb: "toirnéis"
+  index: "tóirnéis"
+"α:Lt":
+  section: 21
+  english: "cliff"
+  middle_irish: "alt"
+  index: "alt"
+  rule: "α > α: / _ Lt"
+"b′α:Ltin′ə":
+  section: 21
+  english: "May"
+  middle_irish: "beltene"
+  index: "bealtaine"
+  rule: "α > α: / _ Lt"
+"gα:Ltə":
+  section: 21
+  english: "Protestant"
+  headwords:
+    dinneen: "gallda"
+  derivation:
+    middle_irish: "gall"
+  index: ["gallta", "gall"]
+  fgb: "gallta"
+    equals: "gallda"
+  rule: "α > α: / _ Lt"
