@@ -1023,3 +1023,72 @@
   fgb: "gallta"
     equals: "gallda"
   rule: "α > α: / _ Lt"
+"α:nṟi":
+  section: 21
+  english: "broth"
+  middle_irish: "enbruthe"
+  index: "anbhruith"
+  fgb: "anraith"
+  rule: "α > α: / _ nṟ"
+"α:nṟɔ:":
+  section: 21
+  english: "misery"
+  middle_irish: "andró"
+  index: "ánró"
+  fdb: "anró"
+  rule: "α > α: / _ nṟ"
+"bα:nṟi:n":
+  section: 21
+  english: "queen"
+  old_irish: "ban-"
+  rule: "α > α: / _ nṟ"
+  index: "banrioghan"
+  fgb: "banríon"
+  compound: ["ban", "ríon"]
+"krα:ṉrə":
+  sic: "krα:nṟə"
+  section: 21
+  english: "knot in wood, corn on the foot"
+  headwords:
+    dinneen: "crannra"
+  rule: "α > α: / _ nṟ"
+  index: "crannra"
+  fgb: "cranra"
+"skα:nṟi:":
+  section: 21
+  english: "scared, frightened"
+  compare:
+    dinneen: "scannruighim"
+  rule: "α > α: / _ nṟ"
+  index: "scannr(ugh)adh"
+  fgb: "scanraigh"
+    variant: "scannraigh"
+"k′α:rtə":
+  section: 21
+  english: "forge"
+  headwords:
+    irische_text: "cerdcha"
+  note: "there is no lengthening before rt"
+  compare: "k′αrt"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"
+  index: "ceardcha"
+  fgb: "ceardcha"
+    equals: "ceárta"
+"k′αrt":
+  section: 21
+  english: "right"
+  middle_irish: "cert"
+  irish: "ceart"
+  fgb: "ceart"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"
+"kαrtuw":
+  section: 21
+  english: "to cleanse"
+  headwords:
+    meyer: "cartaim"
+  index: "cartadh"
+  fgb: "cartadh"
+  rule: "α > α: / _ rd"
+    sic: "α > α: / _ rt"

@@ -1,34 +1,3 @@
-"α:nṟi":
-  section: 21
-  english: "broth"
-  middle_irish: "enbruthe"
-"α:nṟɔ:":
-  section: 21
-  english: "misery"
-  middle_irish: "andró"
-# bα:nṟi:n, ‘queen’, O.Ir. ban‑
-"krα:ṉrə":
-  section: 21
-  english: "knot in wood, corn on the foot"
-  headwords:
-    dinneen: "crannra"
-# skα:nṟi:, ‘scared, frightened’, cp. Di. scannruighim
-"k′α:rtə":
-  section: 21
-  english: "forge"
-  headwords:
-    irische_text: "cerdcha"
-  note: "there is no lengthening before rt"
-  compare: "k′αrt"
-"k′αrt":
-  section: 21
-  english: "right"
-  middle_irish: "cert"
-"kαrtuw":
-  section: 21
-  english: "to cleanse"
-  headwords:
-    meyer: "cartaim"
 "kαrtαn":
   section: 21
   english: "sheep-louse"
