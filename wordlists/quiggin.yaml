@@ -1764,3 +1764,48 @@
     english: "bob"
   index: "bobaireacht"
   fgb: "bobaireacht"
+"gɔnαn":
+  section: 23
+  english: "canine tooth"
+  formed_from: "gonaim"
+"kɔpαn":
+  section: 23
+  english: "cup"
+  derivation:
+    english: "cup"
+"kɔpɔg":
+  section: 23
+  english: "dock"
+  headwords:
+    meyer: "coppóc"
+"kɔr′k′ə":
+  section: 24
+  english: "oats"
+  headwords:
+    meyer: "coirce"
+"Lɔt′αχ":
+  section: 24
+  english: "harmful, injurious"
+  middle_irish: "loitim"
+"ɔʃir′":
+  section: 24
+  english: "oyster"
+  headwords:
+    macbain: "oisir"
+    dinneen: "oisre"
+"ɔt′ir′":
+  section: 24
+  english: "turf-bank"
+  headwords:
+    dinneen: "oitir"
+"rɔʃuw":
+  section: 24
+  english: "rip up"
+  headwords:
+    oreilly: "roiseadh"
+"tɔt′":
+  section: 24
+  english: "smoke"
+  headwords:
+    dinneen: "toit"
+    atkinsons: "tutt"
