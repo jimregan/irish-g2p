@@ -62,7 +62,11 @@ tαvʃə, ‘ghost’, M.Ir. taidbsiu
 sNαhəd, ‘needle’, O.Ir. snáthat
 sNαhəd, ‘to wash down, spice’
 !:alternative: "sNαhuw"
-sNα:ihəm, pret. nα:iç, past part. sNα:t′ə, Di. snathadh
+!:present: "sNα:ihəm"
+!:preterite: "nα:iç"
+!:past_part: "sNα:t′ə"
+!:headwords:
+!::dinneen: "snathadh"
 αhəs, ‘joy’, M.Ir. áithes
 !"tαhər":
 !:middle_irish: "atáthar"
@@ -83,7 +87,9 @@ bαtæL′t′ə, ‘wap of hay’, Di. batailte
 !:derivation:
 !::english: "bottle"
 blαgəd′, ‘bald patch’
-brαhαn, ‘porridge’, Di. Macbain brochán, Meyer brothchán
+brαhαn, ‘porridge’, Meyer brothchán
+!::dinneen: "brochán"
+!::macbain: "brochán"
 brαLαχ, ‘breast’, Meyer brollach
 fαLæn′, ‘healthy’, Di. fóllain
 fαχlə, ‘parched’, Di. fochla

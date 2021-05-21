@@ -190,7 +190,11 @@
   section: 7
   english: "to wash down, spice"
   alternative: "sNαhuw"
-# sNα:ihəm, pret. nα:iç, past part. sNα:t′ə, Di. snathadh
+  present: "sNα:ihəm"
+  preterite: "nα:iç"
+  past_part: "sNα:t′ə"
+  headwords:
+    dinneen: "snathadh"
 "αhəs":
   section: 7
   english: "joy"
@@ -234,7 +238,13 @@
 "blαgəd′":
   section: 9
   english: "bald patch"
-# brαhαn, ‘porridge’, Di. Macbain brochán, Meyer brothchán
+"brαhαn":
+  section: 9
+  english: "porridge"
+  headwords:
+    meyer: "brothchán"
+    dinneen: "brochán"
+    macbain: "brochán"
 "brαLαχ":
   section: 9
   english: "breast"
