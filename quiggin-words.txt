@@ -1,39 +1,4 @@
-# p. 7, § 9
-αgəs, ‘and’, O.Ir. ocus
-αskəL, ‘arm-pit’, M.Ir. ochsal
-bαrəb, ‘rough’, M.Ir. borb
-bαtæL′t′ə, ‘wap of hay’, Di. batailte
-!:derivation:
-!::english: "bottle"
-blαgəd′, ‘bald patch’
-brαhαn, ‘porridge’, Meyer brothchán
-!::dinneen: "brochán"
-!::macbain: "brochán"
-brαLαχ, ‘breast’, Meyer brollach
-fαLæn′, ‘healthy’, Di. fóllain
-fαχlə, ‘parched’, Di. fochla
-fαruw, ‘roost’, M.Ir. forud
-fαskuw, ‘shelter’, O.Ir. foscad
-kαgnuw, ‘to chew’, M.Ir. cocnam
-kαL, ‘hazel’, O.Ir. coll
-kαskərt′, ‘to strike, thaw’, O.Ir. coscar
-mαguw, ‘to mock’
-!:derivation:
-!::english: "mock"
-!:compare:
-!::irish: "mogadh"
-!::location: "Louth"
-sαp, ‘wisp’, M.Ir. sopp
-skαhuw, ‘to wean’, M.Ir. scothaim
-spαrαn, ‘purse’, M.Ir. sporán
-!:alternative: "spɔrαn"
-tαrəmαn, ‘noise’, Wi. tormán
-!::reference: "iv 1"
-fɔskluw, ‘to open’
-!:future: "N′i: αsklαχi:"
 # p. 7-8, § 10
-g′αrαn, ‘horse’, M.Ir. gerrán
-!:literally: "gelding"
 skαhαn, ‘mirror’, M.Ir. scathán
 glu:rəkαn, ‘numbness’
 g′aləwαn, g′αləwən, ‘sparrow’, Dinneen gealbhan, M.Ir. gelbund;
