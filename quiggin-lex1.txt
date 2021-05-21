@@ -33,7 +33,7 @@ L′ɔ:r	leor
 mαiç	maith
 αhəNtəs	aitheantas
 αhəNtə	aitheanta
-#en̥′ə	aithne??
+en̥′ə	aithne
 dαhin′	d’aithin
 αhəNtə	aitheanta
 mαhũw	maitheamh
@@ -138,8 +138,8 @@ rαplαχαn	raplachán	raipleachán
 rαpləhu:tə	rapla húta	raiple húta
 ʃeʃr′αχ	seisreach
 t′αLαχ	teallach
-ũ:hαχə
-ũ:kαχə
+ũ:hαχə	uaimheacha	uaimheanna
+ũ:kαχə	uaimheacha	uaimheanna
 ũi	uaimh
 f′iαχ	fiach
 f′iαχə	fiacha
@@ -159,5 +159,5 @@ mə	mo
 d′α:n	deán
 d′α:n′	deáin
 grα:Nə	gránna
-grα:k′ə	gráice
+grα:k′ə	gráice	gránna
 krα:n′	cráin
