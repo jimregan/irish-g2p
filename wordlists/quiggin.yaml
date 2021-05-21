@@ -581,3 +581,148 @@
   english: "sermon"
   index: "seanmóir"
   fgb: "seanmóir"
+"fwiN′ɔg":
+  section: 11
+  english: "window"
+  middle_irish: "fuindeóg"
+  alternative: "fwiN′αg"
+  index: "fuinneóg"
+  fgb: "fuinneog"
+"fwi:l′αg":
+  section: 11
+  english: "sea-gull"
+  compare:
+    old_irish: "foilenn"
+  index: "faoileóg"
+  fgb: "faoileán"
+  logainm:
+    url: "https://www.logainm.ie/ga/1396629"
+    name: "Loch na bhFaoileog"
+    english: "Lough Wheeloge"
+"kyN′αg":
+  section: 11
+  english: "churn-dash"
+  middle_irish: "cuindeóg"
+  index: "cuinneóg"
+  fgb: "cuinneog"
+"m′iəLtɔgy:":
+  section: 11
+  english_sic: "nudges"
+  english: "midges"
+  index: "míoltóg"
+"αsɔgy:":
+  section: 11
+  english: "weasels"
+  index: "easóg"
+"b′αχɔgy:":
+  section: 11
+  english: "bees"
+  examples:
+    - phonetic: "er′ ə NyN′æg′"
+      english: "on the window"
+    - phonetic: "gαh b′αχæg′ə"
+      english: "the sting of a bee"
+  index: "beachóg"
+"kï̃vαd":
+  section: 12
+  english: "to watch, look at"
+  headwords:
+    dinneen: "coimhéad"
+    irische_text: "comét"
+  examples:
+    - phonetic: "kï̃vαd də χɔsə"
+      english: "mind your feet"
+  index: "coimhéad"
+  fgb: "coimhéad"
+"k′ïn′αl":
+  section: 12
+  english: "sort, kind"
+  headwords:
+    dinneen: "cinéal"
+  old_irish: ["cinél", "cenél"]
+  index: ["cinéal", "cional"]
+  fgb: "cineál"
+"k′ïn′αLtə":
+  section: 12
+  english: "kind"
+  part_of_speech: "adjective"
+  index: "cinéalta"
+  fgb: "cineálta"
+"kïl′αn":
+  section: 12
+  english: "pup"
+  middle_irish: "culén"
+  index: "cuiléan"
+  fgb: "coileán"
+"kɔrN′αl":
+  section: 12
+  english: "corner"
+  headwords:
+    dinneen: "coirnéal"
+  index: "coirnéal"
+  fgb: "coirnéal"
+"kαir̥′αm′":
+  section: 12
+  english: "triumph"
+  middle_irish: "caithréim"
+  index: "caithréim"
+  fgb: "caithréim"
+"dïvαn":
+  section: 12
+  english: "a scart"
+  headwords:
+    dinneen: "duibhéan"
+      english: "cormorant"
+  index: "duibhéan"
+  fgb: "duibhéan"
+"b′αrαd":
+  section: 12
+  english: "cap"
+  headwords:
+    dinneen: "bairéad"
+  index: "bearád"
+  fgb: "bairéad"
+"b′αruw":
+  section: 12
+  english: "to shave, dress the hair"
+  middle_irish: "berrad"
+  index: "bearradh"
+  fgb: "bearradh"
+"αLαχ":
+  section: 13
+  english: "cattle"
+  old_irish: "ellach"
+  index: "eallach"
+  fgb: "eallach"
+"əmα:rαχ":
+  section: 13
+  english: "to-morrow"
+  middle_irish: "i mbárach"
+  index: ["amárach", "amáireach"]
+"g′αrαχ"
+  genitive_singular_of: "g′er′"
+  fgb: "geire"
+"g′er′":
+  section: 13
+  english: "tallow"
+  index: "geir"
+  fgb: "geir"
+"ïm′αχt":
+  section: 13
+  english: "to depart"
+  middle_irish: "imthecht"
+  index: "imtheacht"
+  fgb: "imeacht"
+"rαplαχαn"
+  section: 13
+  english :"rough and ready going fellow"
+  compare: "rαpləhu:tə"
+  index: "raplachán"
+  fgb: "raipleachán"
+"rαpləhu:tə":
+  section: 13
+  english: "hubbub"
+  headwords:
+    dinneen: "rapla húta"
+  index: "rapla-húta"
+  fgb: "raiple húta"

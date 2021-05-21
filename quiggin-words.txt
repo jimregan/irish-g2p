@@ -1,38 +1,4 @@
-# p. 8, § 11
-fwiN′ɔg, ‘window’, M.Ir. fuindeóg
-!:alternative: "fwiN′αg"
-fwi:l′αg, ‘sea-gull’, cp. O.Ir. foilenn
-kyN′αg, ‘churn-dash’, M.Ir. cuindeóg
-m′iəLtɔgy:, ‘nudges’
-αsɔgy:, ‘weasels’
-b′αχɔgy:, ‘bees’
->eg:er′ ə NyN′æg′, ‘on the window’
->eg:gαh b′αχæg′ə, ‘the sting of a bee’
-# p. 8-9, § 12
-kï̃vαd, ‘to watch, look at’, Di. coimhéad, Wi. comét
->eg:kï̃vαd də χɔsə, ‘mind your feet’
-k′ïn′αl, ‘sort, kind’, Di. cinéal
-!:old_irish: ['cinél', 'cenél']
-k′ïn′αLtə, ‘kind’
-!:part_of_speech: "adjective"
-kïl′αn, ‘pup’, M.Ir. culén
-kɔrN′αl, ‘corner’, Di. coirnéal
-kαir̥′αm′, ‘triumph’, M.Ir. caithréim
-dïvαn, ‘a scart’, Di. duibhéan (‘cormorant’)
-b′αrαd, ‘cap’, Di. bairéad
-b′αruw, ‘to shave, dress the hair’, M.Ir. berrad
 # p. 9, § 13
-αLαχ, ‘cattle’, O.Ir. ellach
-əmα:rαχ, ‘to-morrow’, M.Ir. i mbárach
-g′αrαχ, gen. sing. of g′er′, ‘tallow’
-ïm′αχt, ‘to depart’, M.Ir. imthecht
-!"rαplαχαn"
-!:section: 13
-!:english :"rough and ready going fellow"
-!:compare: "rαpləhu:tə"
-rαpləhu:tə, ‘hubbub’
-!:headwords:
-!::dinneen: "rapla húta"
 ʃeʃr′αχ, ‘plough’, M.Ir. sessrech
 t′αLαχ, ‘hearthstone’, M.Ir. tenlach
 ũ:hαχə, ũ:kαχə, ‘caves’, plur. of ũi

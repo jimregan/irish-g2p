@@ -1,95 +1,3 @@
-"fwiN′ɔg":
-  section: 11
-  english: "window"
-  middle_irish: "fuindeóg"
-  alternative: "fwiN′αg"
-"fwi:l′αg":
-  section: 11
-  english: "sea-gull"
-  compare:
-    old_irish: "foilenn"
-"kyN′αg":
-  section: 11
-  english: "churn-dash"
-  middle_irish: "cuindeóg"
-"m′iəLtɔgy:":
-  section: 11
-  english: "nudges"
-"αsɔgy:":
-  section: 11
-  english: "weasels"
-"b′αχɔgy:":
-  section: 11
-  english: "bees"
-  examples:
-    - phonetic: "er′ ə NyN′æg′"
-      english: "on the window"
-  examples:
-    - phonetic: "gαh b′αχæg′ə"
-      english: "the sting of a bee"
-"kï̃vαd":
-  section: 12
-  english: "to watch, look at"
-  headwords:
-    dinneen: "coimhéad"
-    irische_text: "comét"
-  examples:
-    - phonetic: "kï̃vαd də χɔsə"
-      english: "mind your feet"
-"k′ïn′αl":
-  section: 12
-  english: "sort, kind"
-  headwords:
-    dinneen: "cinéal"
-  old_irish: ['cinél', 'cenél']
-"k′ïn′αLtə":
-  section: 12
-  english: "kind"
-  part_of_speech: "adjective"
-"kïl′αn":
-  section: 12
-  english: "pup"
-  middle_irish: "culén"
-"kɔrN′αl":
-  section: 12
-  english: "corner"
-  headwords:
-    dinneen: "coirnéal"
-"kαir̥′αm′":
-  section: 12
-  english: "triumph"
-  middle_irish: "caithréim"
-# dïvαn, ‘a scart’, Di. duibhéan (‘cormorant’)
-"b′αrαd":
-  section: 12
-  english: "cap"
-  headwords:
-    dinneen: "bairéad"
-"b′αruw":
-  section: 12
-  english: "to shave, dress the hair"
-  middle_irish: "berrad"
-"αLαχ":
-  section: 13
-  english: "cattle"
-  old_irish: "ellach"
-# əmα:rαχ, ‘to-morrow’, M.Ir. i mbárach
-", gen. sing. of g′er′":
-  section: 13
-  english: "tallow"
-"ïm′αχt":
-  section: 13
-  english: "to depart"
-  middle_irish: "imthecht"
-"rαplαχαn"
-  section: 13
-  english :"rough and ready going fellow"
-  compare: "rαpləhu:tə"
-"rαpləhu:tə":
-  section: 13
-  english: "hubbub"
-  headwords:
-    dinneen: "rapla húta"
 "ʃeʃr′αχ":
   section: 13
   english: "plough"
@@ -426,4 +334,24 @@
   english: "scrotum"
   headwords:
     irische_text: "cochull"
-# kɔχən, ‘straw’, Di. cochán (this may be formed from cáith, cáth, ‘chaff’, with the usual shortening before h < th, and h > χ, cp. § 178); krɔχuw, ‘to hang’, M.Ir. crochad; ɔχtər, ‘8 persons’, M.Ir. ochtar; spɔχαn, ‘poke’ (a disease of sheep = scrofula); spɔχuw, ‘to geld’, M.Ir. spochad; tɔχərtuw, ‘to wind up thread’, Di. tochardadh, M.Ir. tochras (Laws); tɔχəs, ‘itch’, Di. tochas; toχt fuil′, ‘gravel’, Di. tocht + fuail gen. sing. of fual (this term is not understood, the meaning of fual is entirely forgotten)
+# kɔχən, ‘straw’, Di. cochán (this may be formed from cáith, cáth, ‘chaff’, with the usual shortening before h < th, and h > χ, cp. § 178)
+"krɔχuw":
+  section: 23
+  english: "to hang"
+  middle_irish: "crochad"
+"ɔχtər":
+  section: 23
+  english: "8 persons"
+  middle_irish: "ochtar"
+# spɔχαn, ‘poke’ (a disease of sheep = scrofula)
+"spɔχuw":
+  section: 23
+  english: "to geld"
+  middle_irish: "spochad"
+# tɔχərtuw, ‘to wind up thread’, Di. tochardadh, M.Ir. tochras (Laws)
+"tɔχəs":
+  section: 23
+  english: "itch"
+  headwords:
+    dinneen: "tochas"
+# toχt fuil′, ‘gravel’, Di. tocht + fuail gen. sing. of fual (this term is not understood, the meaning of fual is entirely forgotten)
