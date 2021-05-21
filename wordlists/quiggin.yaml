@@ -1,0 +1,232 @@
+"αrəm":
+  section: 3
+  english: "army"
+  index: "arm"
+  old_irish: "arm"
+"αt":
+  section: 3
+  english: "swelling"
+  index: "at"
+  old_irish: "att"
+"fαnαχt":
+  section: 3
+  index: "fanacht"
+  english: "to stay, remain"
+  old_irish: "anaim"
+"kαpəL":
+  section: 3
+  index: "capall"
+  english: "mare"
+  middle_irish: "capall"
+"mαk":
+  section: 3
+  index: "mac"
+  english: "son"
+  old_irish: "macc"
+"mαLαχt":
+  section: 3
+  index: "mallacht"
+  english: "curse"
+  old_irish: "maldacht"
+"tαχtuw":
+  section: 3
+  index: "tachtadh"
+  english: "to choke"
+  old_irish: "tachtad"
+"tαrt":
+  section: 3
+  index: "tart"
+  english: "thirst"
+  old_irish: "tart"
+"tαruw":
+  section: 3
+  index: "tarbh"
+  english: "bull"
+  middle_irish: "tarb"
+"αχ":
+  section: 4
+  english: "steed"
+  old_irish: "ech"
+  index: "each"
+"αlə":
+  section: 4
+  english: "swan"
+  middle_irish: "ela"
+  index: "eala"
+"αŋ":
+  section: 4
+  english: "splice, strip"
+  index: "eang"
+"αŋαχ":
+  section: 4
+  english: "fisherman’s net"
+  middle_irish: "eng"
+  index: "eangach"
+"d′r′αm":
+  section: 4
+  english: "crowd"
+  middle_irish: "dremm"
+  index: "dream"
+"d′αrəg":
+  section: 4
+  index: "dearg"
+  english: "red"
+  old_irish: "derg"
+"f′αr":
+  section: 4
+  english: "man"
+  old_irish: "fer"
+  index: "fear"
+"g′αl":
+  section: 4
+  english: "white"
+  middle_irish: "gel"
+  index: "geal"
+"k′αχtər":
+  section: 4
+  english: "either"
+  old_irish: "cechtar"
+  index: "ceachtar"
+"L′αnuw":
+  section: 4
+  english: "child"
+  middle_irish: "lenab"
+  index: "leanbh"
+"N′αd":
+  section: 4
+  english: "nest"
+  middle_irish: "net"
+  index: "nead"
+"p′αkuw":
+  section: 4
+  english: "sin"
+  old_irish: "peccad"
+  index: "peacadh"
+"ʃαsuw":
+  section: 4
+  english: "to stand"
+  middle_irish: "sessom"
+  index: "seasamh"
+"t′αχ":
+  section: 4
+  index: "teach"
+  english: "house"
+  old_irish: "tech"
+"αsəl":
+  section: 4
+  index: "asal"
+  middle_irish: "assal"
+"ə t′αspəl":
+  section: 4
+  english: "the apostle"
+  old_irish: "apstal"
+  index: "aspal"
+"ə t′αsrïgər":
+  section: 4
+  english: "a back-answer, sharp retort"
+  from: "ais-fhreagar"
+  index: "aisfhreagar"
+"mər ə N′αnəN":
+  section: 4
+  english: "alike, level, equal"
+  old_irish: "inonn"
+  index: "ionann"
+"kũαnəN":
+  section: 4
+  english: "alike, level, equal"
+  old_irish: "inonn"
+  index: "coimhionann"
+"kαhuw":
+  section: 5
+  english: "to spend, wear, throw"
+  old_irish: "caithem"
+  index: "caitheamh"
+"ə wα̃hə l′ɛ":
+  section: 5
+  english: "for the sake of"
+  headwords:
+    dinneen: "mar (ar) mhaithe le"
+  index: "maithe"
+    inferred_pronunciation: "mα̃hə"
+"mα gə L′ɔ:r":
+  section: 5
+  english: "alright"
+  irish: "maith go leor"
+  index: "maith"
+    pronunciation: "mα"
+"αhəNtəs":
+  section: 5
+  english: "acquaintance"
+  headwords:
+    dinneen: "aitheantas"
+  index: "aitheantas"
+  formed_from: "en̥′ə"
+"αhəNtə":
+  section: 5
+  english: "acquainted"
+  headwords:
+    dinneen: "aitheanta"
+  index: "aitheanta"
+  formed_from: "en̥′ə"
+"en̥′ə":
+  section: 5
+  old_irish: "aithgne"
+  index: "aithne"
+  preterite: "dαhin′ m′ə"
+"dαhin′ m′ə":
+  section: 5
+  english: "I recognised"
+  headwords:
+    dinneen: "d’aithin"
+"αhəNtə":
+  section: 5
+  english: "commandments"
+  headwords:
+    dinneen: "aitheanta"
+      plural_of: "aithne"
+  derivation:
+    old_irish: "aithgne"
+"αhiN′ə":
+  section: 5
+  english: "brand"
+  middle_irish: "aithinne"
+  index: "aithinne"
+"mαhũw":
+  section: 5
+  english: "to forgive"
+  old_irish: "mathem"
+  index: ["maitheamh", "maithiughadh"]
+"fαrəg′ə":
+  section: 5
+  english: "sea"
+  old_irish: "fairgge"
+  index: "fairge"
+"fαrsiN′":
+  section: 5
+  english: "ample"
+  old_irish: "fairsing"
+  index: "fairsing"
+"mαrst′ən":
+  section: 5
+  index: "mairim"
+  infinitive_of:
+    irish: "mairim"
+    english: "I remain, last"
+    headwords:
+      irische_text: "maraim"
+"αm′ʃir′":
+  section: 5
+  english: "weather"
+  old_irish: "aimser"
+  index: "aimsir"
+"tαvʃə":
+  section: 5
+  english: "ghost"
+  middle_irish: "taidbsiu"
+  index: "taidhbhse"
+"αf′r′əN":
+  section: 6
+  english: "mass"
+  headwords:
+    irische_text: "oifrend"
+  index: "aifreann"
