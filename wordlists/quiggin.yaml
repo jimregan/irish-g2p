@@ -1661,58 +1661,99 @@
   english: "bog"
   headwords:
     dinneen: "portach"
+  rule: "o > ɔ / _ r"
+  index: "portach"
+  fgb: "portach"
 "kɔsu:l′":
   section: 23
   english: "similar"
   old_irish: "cosmail"
+  rule: "o > ɔ / _ s"
+  index: "cosmhail"
+  fgb: "cosúil"
 "krɔs":
   section: 23
   english: "cross"
+  rule: "o > ɔ / _ s"
+  index: "cros"
+  fgb: "cros"
 "krɔsəm":
   section: 23
   english: "I forbid"
   headwords:
     meyer: ["cross", "crossaim"]
+  rule: "o > ɔ / _ s"
+  index: "crosadh"
+  fgb: "cros"
 "ɔsNə":
   section: 23
   english: "sigh"
   old_irish: "osnad"
+  rule: "o > ɔ / _ s"
+  index: "osna"
+  fgb: "osna"
 "tɔst":
   section: 23
   english: "silence"
   middle_irish: "tost"
+  rule: "o > ɔ / _ s"
+  index: "tost"
+  fgb: "tost"
 "trɔsk":
   section: 23
   english: "cod"
   headwords:
     dinneen: "trosc"
+  rule: "o > ɔ / _ s"
+  index: "trosc"
+  fgb: "trosc"
 "Lo̤sid′":
   section: 23
   english: "a shallow wooden vessel"
   old_irish: "lossat"
   note: "not generally known"
+  index: "losaid"
+  fgb: "losaid"
 "Lo̤skəN":
   section: 23
   english: "toad"
   middle_irish: "loscann"
   note: "doubtless owing to the preceding L"
+  index: "loscann"
+  fgb: "loscann"
 "kɔhuw":
   section: 23
   english: "to feed"
   headwords:
     meyer: "cothaigim"
+  rule: "o > ɔ / _ h"
+  index: "cothughadh"
+  fgb: "cothú"
 "gɔhαnαχ":
   section: 23
   english: "touchy"
   headwords:
     dinneen: "gothán"
+  rule: "o > ɔ / _ h"
+  index: ["gothán", "gothánach"]
+  fgb:
+    - "gothán"
+      equals: "guthán"
+    - "gothánach"
+      equals: "guthánach"
 "rɔhə":
   section: 23
   english: "wheel"
   headwords:
     irische_text: "roth"
+  rule: "o > ɔ / _ h"
+  index: "rotha"
+  fgb: "roth"
 "mo̤χuw":
   section: 23
   english: "springing"
   compare_section: 333
   note: "o̤ before χ < h"
+  rule: "o > o̤ / _ χ"
+  index: ["moth", "mothadh"]
+  fgb: "mothas"
