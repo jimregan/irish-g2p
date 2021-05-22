@@ -1,18 +1,9 @@
 # § 25
-mohuw, ‘to feel’
-!:future_active: "mαihαχə m′ə"
-!:present: "mαihi:m"
-!:present_passive "mɔt′ər"
-wαkə tuw, ‘did you see?’
-!alternative: "wɔkə tuw"
-bɔriαχt, ‘too much’
-!:for: "bαriαχt"
-bαriαχt, ‘FOO’ Di. bárraidheacht
-# § 26
-ɔχyr′, ‘key’, M.Ir. eochuir
-ɔχyr′, ‘the roe of a fish’, M.Ir. iuchair
-*o̤χyr′. O.Ir. fliuch, ‘wet’, is sometimes pronounced f′l′ɔχ beside f′l′ïχ, f′l′əχ, f′l′Uχ
-d′oχ, ‘drink’ < O.Ir. deug, gen. sing. dige, on the lines of tech, ‘house’, gen. sing. tige
+f′l′ɔχ, ‘wet’, O.Ir. fliuch
+!:alternative: ["f′l′ïχ", "f′l′əχ", "f′l′Uχ"]
+d′oχ, ‘drink’, O.Ir. deug
+!:genitive_singular: "dige"
+on the lines of tech, ‘house’, gen. sing. tige
 
 # § 27
 fi:dɔr′, ‘weaver’, Di. figheadóir

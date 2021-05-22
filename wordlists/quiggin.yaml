@@ -2023,16 +2023,19 @@
   english: "to feel"
   future_active: "mαihαχə m′ə"
   present: "mαihi:m"
-  present_passive "mɔt′ər"
+  present_passive: "mɔt′ər"
 "wαkə tuw":
   section: 25
   english: "did you see?"
-alternative: "wɔkə tuw"
+  alternative: "wɔkə tuw"
 "bɔriαχt":
   section: 25
   english: "too much"
   for: "bαriαχt"
-# bαriαχt, ‘FOO’ Di. bárraidheacht
+"bαriαχt":
+  section:
+  headwords:
+    dinneen: "bárraidheacht"
 "ɔχyr′":
   section: 26
   english: "key"
@@ -2041,3 +2044,14 @@ alternative: "wɔkə tuw"
   section: 26
   english: "the roe of a fish"
   middle_irish: "iuchair"
+  expected: "*o̤χyr′"
+"f′l′ɔχ":
+  section: 25
+  english: "wet"
+  old_irish: "fliuch"
+  alternative: ["f′l′ïχ", "f′l′əχ", "f′l′Uχ"]
+"d′oχ":
+  section: 25
+  english: "drink"
+  old_irish: "deug"
+  genitive_singular: "dige"
