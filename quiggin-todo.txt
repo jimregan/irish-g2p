@@ -1,5 +1,4 @@
 # § 27
-Luəχ, ‘FOO’, Di. luach
 krɔχ ·eir′, ‘hay-stack’, < cruach
 sLɔ: ʃi:, ‘the fairies’, < sluagh
 gɔl ·çɔ:l′, ‘to sing’ (‘to sing a song’ is ɔ:rαn ə rα:(t′), imperative αbwir′ o:rαn) < gabháil cheóil, shews loss of palatalisation in a weakly stressed syllable. The full form gɔ:l′ is used to mean ‘yeast’, Di. gabháil. gɔl′ and gɔl are used side by side for ‘going’, = ag gabháil and ag dul. Similarly tɔrt ·dŨw̥`, ‘giving to me’ < to:rt′, Di. tabhairt, imper. tɔr, tər ·dŨw̥` ‘give me’; mɔrαn, ‘many, a quantity of’, Di. mórán is the usual form, as the word principally comes before the stress, but mɔ:rαn, mo:rαn are the emphatic forms. Cp. § 451.
@@ -10,7 +9,9 @@ bɔ:, ‘cow’, O.Ir. bó (but note gen. plur. Nə mo:); ə dɔ:ləuw, ‘alway
 k′ɔ:l′, gen. sing. of k′ɔ:l, ‘music, song’; d′ɔ:r, ‘tear, drop’, gen. sing. d′ɔ:r′ə.
 
 # § 30. 
-sɔ:, ‘happiness’, Di. sógh, cp. the proverb N′i: f′juw sɔ: Nαχ wiL′αnuw α:nṟɔ:, ‘no contentment is worth anything that will not weather adversity’; dɔ:riN′αχ, ‘severe, distressing’, Keating doghraingeach but fõ:wər, ‘autumn’, cp. § 38; fαdɔ:, ‘to kindle, make into a blaze’, M.Ir. fatód. This termination ‑ɔ: has been extended to several other words, ɛəlɔ:, ‘flee, escape’, Wi. élud; t′ɛəLtɔ:, ‘saunter’, Di. téaltógh; m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
+sɔ:, ‘happiness’, Di. sógh
+>proverb:N′i: f′juw sɔ: Nαχ wiL′αnuw α:nṟɔ:, ‘no contentment is worth anything that will not weather adversity’
+dɔ:riN′αχ, ‘severe, distressing’, Keating doghraingeach but fõ:wər, ‘autumn’, cp. § 38; fαdɔ:, ‘to kindle, make into a blaze’, M.Ir. fatód. This termination ‑ɔ: has been extended to several other words, ɛəlɔ:, ‘flee, escape’, Wi. élud; t′ɛəLtɔ:, ‘saunter’, Di. téaltógh; m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
 
 # § 31. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
 dɔ:rN, ‘fist’, Wi. dorn, but nom. plur. dïrN′
