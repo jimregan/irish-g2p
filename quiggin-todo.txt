@@ -1,6 +1,5 @@
 # § 27
-A remarkable reduction of uə > ɔ before the stress occurs in
-Lɔχ·p′i:N′ə, ‘a pennyworth’ < Luəχ, Di. luach
+Luəχ, ‘FOO’, Di. luach
 krɔχ ·eir′, ‘hay-stack’, < cruach
 sLɔ: ʃi:, ‘the fairies’, < sluagh
 gɔl ·çɔ:l′, ‘to sing’ (‘to sing a song’ is ɔ:rαn ə rα:(t′), imperative αbwir′ o:rαn) < gabháil cheóil, shews loss of palatalisation in a weakly stressed syllable. The full form gɔ:l′ is used to mean ‘yeast’, Di. gabháil. gɔl′ and gɔl are used side by side for ‘going’, = ag gabháil and ag dul. Similarly tɔrt ·dŨw̥`, ‘giving to me’ < to:rt′, Di. tabhairt, imper. tɔr, tər ·dŨw̥` ‘give me’; mɔrαn, ‘many, a quantity of’, Di. mórán is the usual form, as the word principally comes before the stress, but mɔ:rαn, mo:rαn are the emphatic forms. Cp. § 451.
@@ -14,16 +13,31 @@ k′ɔ:l′, gen. sing. of k′ɔ:l, ‘music, song’; d′ɔ:r, ‘tear, drop�
 sɔ:, ‘happiness’, Di. sógh, cp. the proverb N′i: f′juw sɔ: Nαχ wiL′αnuw α:nṟɔ:, ‘no contentment is worth anything that will not weather adversity’; dɔ:riN′αχ, ‘severe, distressing’, Keating doghraingeach but fõ:wər, ‘autumn’, cp. § 38; fαdɔ:, ‘to kindle, make into a blaze’, M.Ir. fatód. This termination ‑ɔ: has been extended to several other words, ɛəlɔ:, ‘flee, escape’, Wi. élud; t′ɛəLtɔ:, ‘saunter’, Di. téaltógh; m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
 
 # § 31. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
-dɔ:rN, ‘fist’, Wi. dorn, but nom. plur. dïrN′; dɔ:rtuw, ‘spill’, M.Ir. dortad; ə Nɔ:ri:r′, ‘the day after to-morrow’, Di. oirthear, Wi. oirthir, airthir; ɔ:rd, ‘sledge-hammer’, M.Ir. ord, but nom. plur. o̤rd′, ïrd′; ɔ:rdαg, ‘thumb’, Wi. ordu; skɔ:rNαχ, ‘throat’, Di. scórnach, Macbain sgòrnan; tɔ:ruw, ‘funeral’, Di. tórramh, Wi. torroma; tɔ:r̥i:s, ‘number at birth’, Wi. torrchius; tɔ:rN′æʃ, ‘big noise, row’, Di. tóirnéis.
+dɔ:rN, ‘fist’, Wi. dorn, but nom. plur. dïrN′
+dɔ:rtuw, ‘spill’, M.Ir. dortad
+ə Nɔ:ri:r′, ‘the day after to-morrow’, Di. oirthear, Wi. oirthir, airthir
+ɔ:rd, ‘sledge-hammer’, M.Ir. ord, but nom. plur. o̤rd′, ïrd′; ɔ:rdαg, ‘thumb’, Wi. ordu; skɔ:rNαχ, ‘throat’, Di. scórnach, Macbain sgòrnan; tɔ:ruw, ‘funeral’, Di. tórramh, Wi. torroma; tɔ:r̥i:s, ‘number at birth’, Wi. torrchius; tɔ:rN′æʃ, ‘big noise, row’, Di. tóirnéis.
 
-§ 32. O.Ir. eu, eó give ɔ: by shifting of the stress in ɔ:lαχ, ‘acquainted, experienced’, cp. O.Ir. eóla; ɔ:rNə, ‘barley’, M.Ir. eórna; gə d′ɔ:, ‘for ever’, cp. Wi. deod; d′r′ɔ:lαn, ‘wren’, Di. dreólán; f′jɔ:l′, ‘flesh’, O.Ir. feóil; k′ɔ:, ‘mist’, M.Ir. ceó; gə L′ɔ:r, ‘sufficient, plenty’, Wi. leór; L′ɔuw, ‘to heckle’, Di. leodhaim, Wi. leo; ʃɔ:l, ‘sail’, O.Ir. seól; t′ɔ:, comp. of t′e, ‘hot’, cp. Wi. teou s. tee. d′ɔ:r, ‘tear, drop’ is M.Ir. dér for which see Strachan Bezz. Beitr. xx 6 n.
+# § 32.
+ɔ:lαχ, ‘acquainted, experienced’, cp. O.Ir. eóla
+ɔ:rNə, ‘barley’, M.Ir. eórna
+gə d′ɔ:, ‘for ever’, cp. Wi. deod
+d′r′ɔ:lαn, ‘wren’, Di. dreólán
+f′jɔ:l′, ‘flesh’, O.Ir. feóil
+k′ɔ:, ‘mist’, M.Ir. ceó
+gə L′ɔ:r, ‘sufficient, plenty’, Wi. leór
+L′ɔuw, ‘to heckle’, Di. leodhaim, Wi. leo
+ʃɔ:l, ‘sail’, O.Ir. seól
+t′ɔ:, comp. of t′e, ‘hot’, cp. Wi. teou s. tee. d′ɔ:r, ‘tear, drop’ is M.Ir. dér for which see Strachan Bezz. Beitr. xx 6 n.
 
 # § 33
 kɔ:χə m′ə, fut. of kɔhuw, ‘to feed’, Meyer cothaigim
 kɔ:r′ < comhair in N′i: rαχət(′) ʃi: α χɔ:r′, ‘she would not go near him’, χɔ:r Nə Lu:NəsNə, ‘approaching August’, χɔ:r′ ə hi:n jɛəg, ‘nearly 11’, tα: ʃɛ χɔ:r′ mαruw, ‘he is almost dead’ (χɔ:r′ is further reduced to χɔr′ in χɔr′ ə və, ‘almost’); ɔ:n, ‘Owen’, M.Ir. Eogan, t′i:r′ ·ɔ:n′, ‘Tyrone’.
 
 # § 34
-Lɔχ ·p′i:N′ə § 27. This occurs in sLɔ: ·ʃi:, ‘the fairies’, sluagh sidhe, plur. sLɔ:t′ə; rɔ: ·b′iN′, ‘brown hawk’, ruadh beinne, cp. Di. ruadhán alla, ‘sparrow-hawk’. ɔ:, ‘grandchild’, O.Ir. haue, M.Ir. óa, úa, common in the phrase tα: ʃiəd klαN əs ɔ:, ‘they are second cousins’. In family names it is reduced to α. In this connection we may note the Anglo-Irish ‘bórach’ (bɔ:rαχ) where in Irish one hears bw⅄:rαχ, Di. buarach and cp. further § 151.
+Lɔχ ·p′i:N′ə § 27. This occurs in
+sLɔ: ·ʃi:, ‘the fairies’, sluagh sidhe, plur. sLɔ:t′ə
+rɔ: ·b′iN′, ‘brown hawk’, ruadh beinne, cp. Di. ruadhán alla, ‘sparrow-hawk’. ɔ:, ‘grandchild’, O.Ir. haue, M.Ir. óa, úa, common in the phrase tα: ʃiəd klαN əs ɔ:, ‘they are second cousins’. In family names it is reduced to α. In this connection we may note the Anglo-Irish ‘bórach’ (bɔ:rαχ) where in Irish one hears bw⅄:rαχ, Di. buarach and cp. further § 151.
 
 # § 35.
 ɔ:rαn, ‘song’, Meyer amrán

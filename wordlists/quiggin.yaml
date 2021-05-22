@@ -2143,4 +2143,12 @@ alternative: "sæL′er′"
     dinneen: "neamháird"
     derry_people: "neamart"
       reference: "Derry People 2 xii ’05 p. 2 col. 5"
-
+"Lɔχ·p′i:N′ə":
+  section: 27
+  english: "a pennyworth"
+  from: "Luəχ"
+  note: "A remarkable reduction of uə > ɔ before the stress"
+"Luəχ":
+  section: 27
+  headwords:
+    dinneen: "luach"
