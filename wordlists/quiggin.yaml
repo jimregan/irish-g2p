@@ -1895,22 +1895,33 @@
   section: 25
   english: "to light, kindle"
   middle_irish: "lassaim"
+  index: "lasadh"
+  fgb: "lasadh"
 "Lɔsir′":
   section: 25
   english: "blaze"
   middle_irish: "lassair"
-"mɔlərt’":
+  index: "lasair"
+  fgb: "lasair"
+"mɔlərt′":
   section: 25
   english: "exchange"
   middle_irish: "malairt"
+  index: "malairt"
+  fgb: "malairt"
 "mɔli:":
   section: 25
   english: "brow, incline"
   old_irish: "mala"
+  index: "malaidh"
+  fgb: "malaidh"
+    equals: "mala"
 "sɔləN":
   section: 25
   english: "salt"
   old_irish: "saland"
+  index: "salann"
+  fgb: "salann"
 "bɔlkuw":
   section: 25
   unknown: "futuere"
@@ -1919,6 +1930,8 @@
     meyer: "balccim"
   alternative: "bαlkuw"
   compare: "bo̤N bαlky:"
+  index: "balcadh"
+  fgb: "balcadh"
 "bo̤N bαlky:":
   section: 25
   english: "a collection made to pay for whiskey &c. at a gathering or dance on the first Sunday after a wedding"
@@ -1926,16 +1939,25 @@
   section: 25
   english: "land"
   old_irish: "talam"
+  index: "talamh"
+  fgb: "talamh"
 "hɔL":
   section: 25
   english: "over yonder"
   old_irish: "tall"
+  index: "thall"
+  fgb: "thall"
 "əNɔL":
   section: 25
   english: "hither"
   old_irish: "anall"
+  index: "anall"
+  fgb: "anall"
 "smɔlkuw":
   section: 25
   english: "to smoke vigorously"
   headwords:
     dinneen: "smalcadh"
+  index: "smalcadh"
+  fgb: "smalcadh"
+    equals: "smailc"
