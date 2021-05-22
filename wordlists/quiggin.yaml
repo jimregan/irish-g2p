@@ -2132,17 +2132,23 @@
   english: "evident"
   headwords:
     dinneen: "soilléir"
-alternative: "sæL′er′"
+  alternative: "sæL′er′"
+  index: "soilléir"
+  fgb: "soiléir"
 "N′αmɔrt":
   section: 27
   english: "neglect, carelessness"
-"N′αmɔrtαχ":
-  section: 27
-  english: "careless"
+  index: "neamórt"
+  fgb: "neamart"
   headwords:
     dinneen: "neamháird"
     derry_people: "neamart"
       reference: "Derry People 2 xii ’05 p. 2 col. 5"
+"N′αmɔrtαχ":
+  section: 27
+  english: "careless"
+  from: "N′αmɔrt"
+  fgb: "neamartach"
 "Lɔχ·p′i:N′ə":
   section: 27
   english: "a pennyworth"
@@ -2152,6 +2158,7 @@ alternative: "sæL′er′"
   section: 27
   headwords:
     dinneen: "luach"
+  index: "luach"
 "krɔχ ·eir′":
   section: 27
   english: "hay-stack"
