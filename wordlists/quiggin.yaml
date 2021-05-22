@@ -1911,3 +1911,31 @@
   section: 25
   english: "salt"
   old_irish: "saland"
+"bɔlkuw":
+  section: 25
+  unknown: "futuere"
+  headwords:
+    dinneen: "balcaim"
+    meyer: "balccim"
+  alternative: "bαlkuw"
+  compare: "bo̤N bαlky:"
+"bo̤N bαlky:":
+  section: 25
+  english: "a collection made to pay for whiskey &c. at a gathering or dance on the first Sunday after a wedding"
+"tɔluw":
+  section: 25
+  english: "land"
+  old_irish: "talam"
+"hɔL":
+  section: 25
+  english: "over yonder"
+  old_irish: "tall"
+"əNɔL":
+  section: 25
+  english: "hither"
+  old_irish: "anall"
+"smɔlkuw":
+  section: 25
+  english: "to smoke vigorously"
+  headwords:
+    dinneen: "smalcadh"
