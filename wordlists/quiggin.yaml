@@ -1972,4 +1972,18 @@
   index: "balc"
   fgb: "balc"
     equals: "bailc"
-
+"foli:m":
+  section: 25
+  english: "I hide"
+  index: "folaighim"
+  preterite: "dαli: ʃə"
+  past_part: "fαli:ʃt′ə"
+  see_also: "ə wɔlαχ"
+  fgb: "folaigh"
+"ə wɔlαχ":
+  section: 25
+  alternative: "wαlαχ"
+  english: "in hiding"
+  middle_irish: "folach"
+  index: "folach"
+  fgb: "i bhfolach"

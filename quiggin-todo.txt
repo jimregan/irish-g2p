@@ -1,10 +1,24 @@
 # § 25
-foli:m, ‘I hide’, ə wɔlαχ, wαlαχ, ‘in hiding’, M.Ir. folach, pret. dαli: ʃə, past part. fαli:ʃt′ə; αχruw, ɔχruw, an exclamation = ‘why, good heavens, I should just think so’, Craig writes áchrú (Iasg.); αtəruw, ɔtəruw, ‘between them’, Di. eatortha; ɔdi:, αdi:, ‘yon’ = adaí, Di. úd; Noχti:, ‘stripped, bare’ but tα:rNαχti:, ‘naked’, M.Ir. nocht; kɔrə·m′iL′ə, ‘heath-pease’, Di. carra mhilis; mohuw, ‘to feel’, fut. act. mαihαχə m′ə, pres. mαihi:m, pres. pass. mɔt′ər. wɔkə tuw may be heard by the side of wαkə tuw, ‘did you see?’, bɔriαχt, ‘too much’ for bαriαχt, Di. bárraidheacht. One might naturally think that this ɔ was spreading into W. Ulster from Connaught, but in the light of the Monaghan forms quoted by Lloyd we may assume that ɔ for α occurs sporadically in northern dialects as well as in the west and south.
+αχruw, ‘why, good heavens, I should just think so’, Craig, Iasg. áchrú
+!:alternative: "ɔχruw"
+αtəruw, ‘between them’, Di. eatortha
+!:alternative: "ɔtəruw"
+ɔdi:, ‘yon’, Di. úd
+!:alternative: "αdi:"
+!:irish: adaí
+Noχti:, ‘stripped, bare’
+tα:rNαχti:, ‘naked’, M.Ir. nocht
+kɔrə·m′iL′ə, ‘heath-pease’, Di. carra mhilis
+mohuw, ‘to feel’, fut. act. mαihαχə m′ə, pres. mαihi:m, pres. pass. mɔt′ər. wɔkə tuw may be heard by the side of
+wαkə tuw, ‘did you see?’
+bɔriαχt, ‘too much’
+for bαriαχt, Di. bárraidheacht
 
 # § 26
 ɔχyr′, ‘key’, M.Ir. eochuir
 ɔχyr′, ‘the roe of a fish’, M.Ir. iuchair
-*o̤χyr′. O.Ir. fliuch, ‘wet’, is sometimes pronounced f′l′ɔχ beside f′l′ïχ, f′l′əχ, f′l′Uχ. d′oχ, ‘drink’ < O.Ir. deug, gen. sing. dige, on the lines of tech, ‘house’, gen. sing. tige, owes its vowel to the u-temper of the final in O.Ir.
+*o̤χyr′. O.Ir. fliuch, ‘wet’, is sometimes pronounced f′l′ɔχ beside f′l′ïχ, f′l′əχ, f′l′Uχ
+d′oχ, ‘drink’ < O.Ir. deug, gen. sing. dige, on the lines of tech, ‘house’, gen. sing. tige
 
 # § 27
 fi:dɔr′, ‘weaver’, Di. figheadóir
@@ -16,7 +30,13 @@ t′r′ïblɔd′, ‘trouble’, Di. trioblóid, M.Ir. treblait
 ʃk′ïbɔl (ʃk′ïbαl), ‘barn’, Di. scioból
 sæL′ɔr′ beside sæL′er′, ‘evident’, Di. soilléir
 N′αmɔrt, ‘neglect, carelessness’
-N′αmɔrtαχ, ‘careless’, are peculiar. Dinneen writes neamháird. In the Derry People 2 xii ’05 p. 2 col. 5, we find neamart. A remarkable reduction of uə > ɔ before the stress occurs in Lɔχ·p′i:N′ə, ‘a pennyworth’ < Luəχ, Di. luach; krɔχ ·eir′, ‘hay-stack’, < cruach. With this is to be compared sLɔ: ʃi:, ‘the fairies’, < sluagh. gɔl ·çɔ:l′, ‘to sing’ (‘to sing a song’ is ɔ:rαn ə rα:(t′), imperative αbwir′ o:rαn) < gabháil cheóil, shews loss of palatalisation in a weakly stressed syllable. The full form gɔ:l′ is used to mean ‘yeast’, Di. gabháil. gɔl′ and gɔl are used side by side for ‘going’, = ag gabháil and ag dul. Similarly tɔrt ·dŨw̥`, ‘giving to me’ < to:rt′, Di. tabhairt, imper. tɔr, tər ·dŨw̥` ‘give me’; mɔrαn, ‘many, a quantity of’, Di. mórán is the usual form, as the word principally comes before the stress, but mɔ:rαn, mo:rαn are the emphatic forms. Cp. § 451.
+N′αmɔrtαχ, ‘careless’, are peculiar. Dinneen writes neamháird.
+In the Derry People 2 xii ’05 p. 2 col. 5, we find neamart.
+A remarkable reduction of uə > ɔ before the stress occurs in
+Lɔχ·p′i:N′ə, ‘a pennyworth’ < Luəχ, Di. luach
+krɔχ ·eir′, ‘hay-stack’, < cruach
+sLɔ: ʃi:, ‘the fairies’, < sluagh
+gɔl ·çɔ:l′, ‘to sing’ (‘to sing a song’ is ɔ:rαn ə rα:(t′), imperative αbwir′ o:rαn) < gabháil cheóil, shews loss of palatalisation in a weakly stressed syllable. The full form gɔ:l′ is used to mean ‘yeast’, Di. gabháil. gɔl′ and gɔl are used side by side for ‘going’, = ag gabháil and ag dul. Similarly tɔrt ·dŨw̥`, ‘giving to me’ < to:rt′, Di. tabhairt, imper. tɔr, tər ·dŨw̥` ‘give me’; mɔrαn, ‘many, a quantity of’, Di. mórán is the usual form, as the word principally comes before the stress, but mɔ:rαn, mo:rαn are the emphatic forms. Cp. § 451.
 
 # § 29
 bɔ:, ‘cow’, O.Ir. bó (but note gen. plur. Nə mo:); ə dɔ:ləuw, ‘always, still’, Di. i dtolamh (?); dɔ:uw, ‘to burn’, M.Ir. dóud; fɔ:d, ‘sod’, O.Ir. fót; gə fɔ:L′, ‘still, yet’, M.Ir. co foill; glɔ:r, ‘noise, sound of talking’, M.Ir. glór; kɔ:r′, ‘proper, meet’, O.Ir. cóir from which kɔ:r′uw, ‘to mend’; kɔ:r̥ə, ‘chest’, Di. cófra, kɔ:tə, ‘coat’, Di. cóta; krɔ: (mwik′ə), ‘sty’, O.Ir. cró; krɔ:g′αn, ‘a foot, small heap of peat set up to dry’, krɔ:g′uw, ‘to foot’, Di. gruaigeadh; ɔ:g, ‘young’, O.Ir. óc; ɔ:l, ‘drink’, O.Ir. ól; ɔ:r, ‘gold’, O.Ir. ór; ɔ:kæd′, ‘opportunity’, Di. ócáid; plɔ:d′ ɔrt, ‘confound you’ suggests pláigh, ‘plague’; pɔ:g, ‘kiss’, O.Ir. póc; pɔ:kə, ‘pocket’, Di. póca; pɔ:suw, ‘to marry’, Di. pósadh; pɔ:r, ‘seed’, pɔ:ruw, ‘to breed’, Di. pór ; rɔ:gəNtə, ‘roguish’; rɔ:pə, ‘rope’; skrɔ:bαn, ‘crop of birds’, Di. scrobán; skɔ:r̥ə in bə skɔ:r̥ə l′ïm ə və buiL′t′ə, ‘it would be beneath my dignity’; skɔ:g′, ‘neck of a bottle’, Di. scóig; smɔ:lαχ, ‘thrush’, Di. smólach; sɔ: in sɔ(:)çr′et′ə, ‘credible’; sɔ(:)hik′ʃi:, ‘intelligible’ (similarly dɔ: in dɔ:rαNə, ‘hard to deal with’); sɔ:kəl, ‘ease’, Keating sócamhal (cp. Derry People 30 v ’04, ionnus nach robh suaimhneas na sócal aici); stɔ:kαχ, ‘lad’, Di. stócach; stɔ:l, ‘stool’; strɔ:kuw, ‘to tear’, Di. strócadh; srɔ:fαχ, ‘sneezing’, O’R. srófurtach; trɔ:kir′ə, ‘mercy’, O.Ir. trócaire.
@@ -31,9 +51,12 @@ dɔ:rN, ‘fist’, Wi. dorn, but nom. plur. dïrN′; dɔ:rtuw, ‘spill’, M.
 
 § 32. O.Ir. eu, eó give ɔ: by shifting of the stress in ɔ:lαχ, ‘acquainted, experienced’, cp. O.Ir. eóla; ɔ:rNə, ‘barley’, M.Ir. eórna; gə d′ɔ:, ‘for ever’, cp. Wi. deod; d′r′ɔ:lαn, ‘wren’, Di. dreólán; f′jɔ:l′, ‘flesh’, O.Ir. feóil; k′ɔ:, ‘mist’, M.Ir. ceó; gə L′ɔ:r, ‘sufficient, plenty’, Wi. leór; L′ɔuw, ‘to heckle’, Di. leodhaim, Wi. leo; ʃɔ:l, ‘sail’, O.Ir. seól; t′ɔ:, comp. of t′e, ‘hot’, cp. Wi. teou s. tee. d′ɔ:r, ‘tear, drop’ is M.Ir. dér for which see Strachan Bezz. Beitr. xx 6 n.
 
-§ 33. Occasionally ɔ: is the result of contraction, e.g. kɔ:χə m′ə, fut. of kɔhuw, ‘to feed’, Meyer cothaigim; kɔ:r′ < comhair in N′i: rαχət(′) ʃi: α χɔ:r′, ‘she would not go near him’, χɔ:r Nə Lu:NəsNə, ‘approaching August’, χɔ:r′ ə hi:n jɛəg, ‘nearly 11’, tα: ʃɛ χɔ:r′ mαruw, ‘he is almost dead’ (χɔ:r′ is further reduced to χɔr′ in χɔr′ ə və, ‘almost’); ɔ:n, ‘Owen’, M.Ir. Eogan, t′i:r′ ·ɔ:n′, ‘Tyrone’.
+# § 33
+kɔ:χə m′ə, fut. of kɔhuw, ‘to feed’, Meyer cothaigim
+kɔ:r′ < comhair in N′i: rαχət(′) ʃi: α χɔ:r′, ‘she would not go near him’, χɔ:r Nə Lu:NəsNə, ‘approaching August’, χɔ:r′ ə hi:n jɛəg, ‘nearly 11’, tα: ʃɛ χɔ:r′ mαruw, ‘he is almost dead’ (χɔ:r′ is further reduced to χɔr′ in χɔr′ ə və, ‘almost’); ɔ:n, ‘Owen’, M.Ir. Eogan, t′i:r′ ·ɔ:n′, ‘Tyrone’.
 
-§ 34. Before the chief stress we sometimes find ɔ: for uə, cp. Lɔχ ·p′i:N′ə § 27. This occurs in sLɔ: ·ʃi:, ‘the fairies’, sluagh sidhe, plur. sLɔ:t′ə; rɔ: ·b′iN′, ‘brown hawk’, ruadh beinne, cp. Di. ruadhán alla, ‘sparrow-hawk’. ɔ:, ‘grandchild’, O.Ir. haue, M.Ir. óa, úa, common in the phrase tα: ʃiəd klαN əs ɔ:, ‘they are second cousins’. In family names it is reduced to α. In this connection we may note the Anglo-Irish ‘bórach’ (bɔ:rαχ) where in Irish one hears bw⅄:rαχ, Di. buarach and cp. further § 151.
+# § 34
+Lɔχ ·p′i:N′ə § 27. This occurs in sLɔ: ·ʃi:, ‘the fairies’, sluagh sidhe, plur. sLɔ:t′ə; rɔ: ·b′iN′, ‘brown hawk’, ruadh beinne, cp. Di. ruadhán alla, ‘sparrow-hawk’. ɔ:, ‘grandchild’, O.Ir. haue, M.Ir. óa, úa, common in the phrase tα: ʃiəd klαN əs ɔ:, ‘they are second cousins’. In family names it is reduced to α. In this connection we may note the Anglo-Irish ‘bórach’ (bɔ:rαχ) where in Irish one hears bw⅄:rαχ, Di. buarach and cp. further § 151.
 
 # § 35.
 ɔ:rαn, ‘song’, Meyer amrán
