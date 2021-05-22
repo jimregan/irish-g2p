@@ -21,7 +21,12 @@ d′ɔ:r, ‘tear, drop’
 sɔ:, ‘happiness’, Di. sógh
 >proverb:N′i: f′juw sɔ: Nαχ wiL′αnuw α:nṟɔ:, ‘no contentment is worth anything that will not weather adversity’
 dɔ:riN′αχ, ‘severe, distressing’, Keating doghraingeach
-fõ:wər, ‘autumn’, cp. § 38; fαdɔ:, ‘to kindle, make into a blaze’, M.Ir. fatód. This termination ‑ɔ: has been extended to several other words, ɛəlɔ:, ‘flee, escape’, Wi. élud; t′ɛəLtɔ:, ‘saunter’, Di. téaltógh; m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
+fõ:wər, ‘autumn’
+!:compare_section: 38
+fαdɔ:, ‘to kindle, make into a blaze’, M.Ir. fatód
+ɛəlɔ:, ‘flee, escape’, Wi. élud
+t′ɛəLtɔ:, ‘saunter’, Di. téaltógh
+m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
 
 # § 31. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
 dɔ:rN, ‘fist’, Wi. dorn, but nom. plur. dïrN′
