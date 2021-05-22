@@ -28,6 +28,7 @@ my %cite = (
 	'Spir. Rose' => 'spiritual_rose', # Spiritual Rose, Monaghan 1825
 	'O’R' => 'oreilly', # Edward O’Reilly, Irish-English Dictionary
 	'Wi' => 'irische_text', # Ernst Windisch, Irische Texte mit Wörterbuch
+	'Keating' => 'keating', # Not sure
 );
 
 my $citations = join('|', keys %cite);

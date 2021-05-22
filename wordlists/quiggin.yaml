@@ -2127,3 +2127,281 @@
   alternative: "ʃk′ïbαl"
   index: "scioból"
   fgb: "scioból"
+"sæL′ɔr′":
+  section: 27
+  english: "evident"
+  headwords:
+    dinneen: "soilléir"
+alternative: "sæL′er′"
+"N′αmɔrt":
+  section: 27
+  english: "neglect, carelessness"
+"N′αmɔrtαχ":
+  section: 27
+  english: "careless"
+  headwords:
+    dinneen: "neamháird"
+    derry_people: "neamart"
+      reference: "Derry People 2 xii ’05 p. 2 col. 5"
+"Lɔχ·p′i:N′ə":
+  section: 27
+  english: "a pennyworth"
+  from: "Luəχ"
+  note: "A remarkable reduction of uə > ɔ before the stress"
+"Luəχ":
+  section: 27
+  headwords:
+    dinneen: "luach"
+"krɔχ ·eir′":
+  section: 27
+  english: "hay-stack"
+  from: "cruach"
+"sLɔ: ʃi:":
+  section: 27
+  english: "the fairies"
+  from: "sluagh"
+"gɔl ·çɔ:l′":
+  section: 27
+  english: "to sing"
+  from: "gabháil cheóil"
+  compare: "ɔ:rαn ə rα:(t′)"
+"ɔ:rαn ə rα:(t′)":
+  section: 27
+  english: "to sing a song"
+  imperative: "αbwir′ o:rαn"
+"gɔ:l′":
+  section: 27
+  english: "yeast"
+  headwords:
+    dinneen: "gabháil"
+"gɔl′":
+  section: 27
+  english: "going"
+  irish: "ag gabháil"
+"gɔl":
+  section: 27
+  english: "going"
+  irish: "ag dul"
+"tɔrt ·dŨw̥`":
+  section: 27
+  english: "giving to me"
+  headwords:
+    dinneen: "tabhairt"
+  from: "to:rt′"
+  imperative: "tɔr ·dŨw̥`"
+    alternative: "tər ·dŨw̥`"
+    english: "give me"
+"mɔrαn":
+  section: 27
+  english: "many, a quantity of"
+  headwords:
+    dinneen: "mórán"
+  emphatic: ["mɔ:rαn", "mo:rαn"]
+  compare_section: 451
+"bɔ:":
+  section: 29
+  english: "cow"
+  old_irish: "bó"
+  genitive_plural: "Nə mo:"
+"ə dɔ:ləuw":
+  section: 29
+  english: "always, still"
+  headwords:
+    dinneen: "i dtolamh (?)"
+"dɔ:uw":
+  section: 29
+  english: "to burn"
+  middle_irish: "dóud"
+"fɔ:d":
+  section: 29
+  english: "sod"
+  old_irish: "fót"
+"gə fɔ:L′":
+  section: 29
+  english: "still, yet"
+  middle_irish: "co foill"
+"glɔ:r":
+  section: 29
+  english: "noise, sound of talking"
+  middle_irish: "glór"
+"kɔ:r′":
+  section: 29
+  english: "proper, meet"
+  old_irish: "cóir"
+"kɔ:r′uw":
+  section: 29
+  english: "to mend"
+  from:
+    old_irish: "cóir"
+"kɔ:r̥ə":
+  section: 29
+  english: "chest"
+  headwords:
+    dinneen: "cófra"
+"kɔ:tə":
+  section: 29
+  english: "coat"
+  headwords:
+    dinneen: "cóta"
+"krɔ: (mwik′ə)":
+  section: 29
+  english: "sty"
+  old_irish: "cró"
+"krɔ:g′αn":
+  section: 29
+  english: "a foot, small heap of peat set up to dry"
+  see_also: "krɔ:g′uw"
+"krɔ:g′uw":
+  section: 29
+  english: "to foot"
+  headwords:
+    dinneen: "gruaigeadh"
+"ɔ:g":
+  section: 29
+  english: "young"
+  old_irish: "óc"
+"ɔ:l":
+  section: 29
+  english: "drink"
+  old_irish: "ól"
+"ɔ:r":
+  section: 29
+  english: "gold"
+  old_irish: "ór"
+"ɔ:kæd′":
+  section: 29
+  english: "opportunity"
+  headwords:
+    dinneen: "ócáid"
+"plɔ:d′ ɔrt":
+  section: 29
+  english: "confound you"
+  suggests: "pláigh"
+    english: "plague"
+"pɔ:g":
+  section: 29
+  english: "kiss"
+  old_irish: "póc"
+"pɔ:kə":
+  section: 29
+  english: "pocket"
+  headwords:
+    dinneen: "póca"
+"pɔ:suw":
+  section: 29
+  english: "to marry"
+  headwords:
+    dinneen: "pósadh"
+"pɔ:r":
+  section: 29
+  english: "seed"
+  see_also: "pɔ:ruw"
+"pɔ:ruw":
+  section: 29
+  english: "to breed"
+  headwords:
+    dinneen: "pór"
+"rɔ:gəNtə":
+  section: 29
+  english: "roguish"
+"rɔ:pə":
+  section: 29
+  english: "rope"
+"skrɔ:bαn":
+  section: 29
+  english: "crop of birds"
+  headwords:
+    dinneen: "scrobán"
+"skɔ:r̥ə in bə skɔ:r̥ə l′ïm ə və buiL′t′ə":
+  section: 29
+  english: "it would be beneath my dignity"
+"skɔ:g′":
+  section: 29
+  english: "neck of a bottle"
+  headwords:
+    dinneen: "scóig"
+"smɔ:lαχ":
+  section: 29
+  english: "thrush"
+  headwords:
+    dinneen: "smólach"
+"sɔ(:)çr′et′ə":
+  section: 29
+  english: "credible"
+  focus_on: "sɔ:"
+"sɔ(:)hik′ʃi:":
+  section: 29
+  english: "intelligible"
+  focus_on: "sɔ:"
+"dɔ:rαNə":
+  section: 29
+  english: "hard to deal with"
+  focus_on: "dɔ:"
+"sɔ:kəl":
+  section: 29
+  english: "ease"
+  headwords:
+    keating: "sócamhal"
+  compare: "ionnus nach robh suaimhneas na sócal aici"
+    reference: "Derry People 30 v ’04"
+"stɔ:kαχ":
+  section: 29
+  english: "lad"
+  headwords:
+    dinneen: "stócach"
+"stɔ:l":
+  section: 29
+  english: "stool"
+"strɔ:kuw":
+  section: 29
+  english: "to tear"
+  headwords:
+    dinneen: "strócadh"
+"srɔ:fαχ":
+  section: 29
+  english: "sneezing"
+  headwords:
+    oreilly: "srófurtach"
+"trɔ:kir′ə":
+  section: 29
+  english: "mercy"
+  old_irish: "trócaire"
+"k′ɔ:l′":
+  section: 29
+  english: "music, song"
+  genitive_singular_of "k′ɔ:l"
+"d′ɔ:r":
+  section: 29
+  english: "tear, drop"
+  genitive_singular "d′ɔ:r′ə"
+"sɔ:":
+  section: 30
+  english: "happiness"
+  headwords:
+    dinneen: "sógh"
+  proverb:
+    phonetic: "N′i: f′juw sɔ: Nαχ wiL′αnuw α:nṟɔ:"
+    english: "no contentment is worth anything that will not weather adversity"
+"dɔ:riN′αχ":
+  section: 30
+  english: "severe, distressing"
+  headwords:
+    keating: "doghraingeach"
+"fõ:wər":
+  section: 30
+  english: "autumn"
+  compare_section: 38
+"fαdɔ:":
+  section: 30
+  english: "to kindle, make into a blaze"
+  middle_irish: "fatód"
+"ɛəlɔ:":
+  section: 30
+  english: "flee, escape"
+  headwords:
+    irische_text: "élud"
+"t′ɛəLtɔ:":
+  section: 30
+  english: "saunter"
+  headwords:
+    dinneen: "téaltógh"
