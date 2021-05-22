@@ -1987,3 +1987,30 @@
   middle_irish: "folach"
   index: "folach"
   fgb: "i bhfolach"
+"αχruw":
+  section: 25
+  english: "why, good heavens, I should just think so"
+  headwords:
+    craig: "áchrú"
+  alternative: "ɔχruw"
+"αtəruw":
+  section: 25
+  english: "between them"
+  headwords:
+    dinneen: "eatortha"
+  alternative: "ɔtəruw"
+"ɔdi:":
+  section: 25
+  english: "yon"
+  headwords:
+    dinneen: "úd"
+  alternative: "αdi:"
+  irish: adaí
+"Noχti:":
+  section: 25
+  english: "stripped, bare"
+"tα:rNαχti:":
+  section: 25
+  english: "naked"
+  middle_irish: "nocht"
+# kɔrə·m′iL′ə, ‘heath-pease’, Di. carra mhilis
