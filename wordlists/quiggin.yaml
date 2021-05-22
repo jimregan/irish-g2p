@@ -2160,3 +2160,17 @@ alternative: "sæL′er′"
   section: 27
   english: "the fairies"
   from: "sluagh"
+"gɔl ·çɔ:l′":
+  section: 27
+  english: "to sing"
+  from: "gabháil cheóil"
+  compare: "ɔ:rαn ə rα:(t′)"
+"ɔ:rαn ə rα:(t′)":
+  section: 27
+  english: "to sing a song"
+  imperative: "αbwir′ o:rαn"
+"gɔ:l′":
+  section: 27
+  english: "yeast"
+  headwords:
+    dinneen: "gabháil"
