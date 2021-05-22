@@ -2055,3 +2055,7 @@
   english: "drink"
   old_irish: "deug"
   genitive_singular: "dige"
+  similar_to:
+    old_irish: "tech"
+      english: "house"
+      genitive_singular: "tige"
