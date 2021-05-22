@@ -2198,3 +2198,25 @@ alternative: "sæL′er′"
     dinneen: "mórán"
   emphatic: ["mɔ:rαn", "mo:rαn"]
   compare_section: 451
+"bɔ:":
+  section: 29
+  english: "cow"
+  old_irish: "bó"
+  genitive_plural: "Nə mo:"
+"ə dɔ:ləuw":
+  section: 29
+  english: "always, still"
+  headwords:
+    dinneen: "i dtolamh (?)"
+"dɔ:uw":
+  section: 29
+  english: "to burn"
+  middle_irish: "dóud"
+"fɔ:d":
+  section: 29
+  english: "sod"
+  old_irish: "fót"
+"gə fɔ:L′":
+  section: 29
+  english: "still, yet"
+  middle_irish: "co foill"
