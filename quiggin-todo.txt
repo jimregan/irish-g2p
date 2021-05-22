@@ -1,27 +1,27 @@
 # § 29
-plɔ:d′ ɔrt, ‘confound you’
-!:suggests: "pláigh"
-!::english: "plague"
-pɔ:g, ‘kiss’, O.Ir. póc
-pɔ:kə, ‘pocket’, Di. póca
-pɔ:suw, ‘to marry’, Di. pósadh
-pɔ:r, ‘seed’
-!:see_also: "pɔ:ruw"
-pɔ:ruw, ‘to breed’, Di. pór
-rɔ:gəNtə, ‘roguish’
-rɔ:pə, ‘rope’
-skrɔ:bαn, ‘crop of birds’, Di. scrobán
-skɔ:r̥ə in bə skɔ:r̥ə l′ïm ə və buiL′t′ə, ‘it would be beneath my dignity’
-skɔ:g′, ‘neck of a bottle’, Di. scóig
-smɔ:lαχ, ‘thrush’, Di. smólach
-sɔ: in sɔ(:)çr′et′ə, ‘credible’; sɔ(:)hik′ʃi:, ‘intelligible’ (similarly dɔ: in dɔ:rαNə, ‘hard to deal with’); sɔ:kəl, ‘ease’, Keating sócamhal (cp. Derry People 30 v ’04, ionnus nach robh suaimhneas na sócal aici); stɔ:kαχ, ‘lad’, Di. stócach; stɔ:l, ‘stool’; strɔ:kuw, ‘to tear’, Di. strócadh; srɔ:fαχ, ‘sneezing’, O’R. srófurtach; trɔ:kir′ə, ‘mercy’, O.Ir. trócaire.
-
-k′ɔ:l′, gen. sing. of k′ɔ:l, ‘music, song’; d′ɔ:r, ‘tear, drop’, gen. sing. d′ɔ:r′ə.
-
+sɔ(:)çr′et′ə, ‘credible’
+!:focus_on: "sɔ:"
+sɔ(:)hik′ʃi:, ‘intelligible’
+!:focus_on: "sɔ:"
+dɔ:rαNə, ‘hard to deal with’
+!:focus_on: "dɔ:"
+sɔ:kəl, ‘ease’, Keating sócamhal
+!:compare: "ionnus nach robh suaimhneas na sócal aici"
+!::reference: "Derry People 30 v ’04"
+stɔ:kαχ, ‘lad’, Di. stócach
+stɔ:l, ‘stool’
+strɔ:kuw, ‘to tear’, Di. strócadh
+srɔ:fαχ, ‘sneezing’, O’R. srófurtach
+trɔ:kir′ə, ‘mercy’, O.Ir. trócaire.
+k′ɔ:l′, ‘music, song’
+!:genitive_singular_of "k′ɔ:l"
+d′ɔ:r, ‘tear, drop’
+!:genitive_singular "d′ɔ:r′ə"
 # § 30. 
 sɔ:, ‘happiness’, Di. sógh
 >proverb:N′i: f′juw sɔ: Nαχ wiL′αnuw α:nṟɔ:, ‘no contentment is worth anything that will not weather adversity’
-dɔ:riN′αχ, ‘severe, distressing’, Keating doghraingeach but fõ:wər, ‘autumn’, cp. § 38; fαdɔ:, ‘to kindle, make into a blaze’, M.Ir. fatód. This termination ‑ɔ: has been extended to several other words, ɛəlɔ:, ‘flee, escape’, Wi. élud; t′ɛəLtɔ:, ‘saunter’, Di. téaltógh; m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
+dɔ:riN′αχ, ‘severe, distressing’, Keating doghraingeach
+fõ:wər, ‘autumn’, cp. § 38; fαdɔ:, ‘to kindle, make into a blaze’, M.Ir. fatód. This termination ‑ɔ: has been extended to several other words, ɛəlɔ:, ‘flee, escape’, Wi. élud; t′ɛəLtɔ:, ‘saunter’, Di. téaltógh; m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
 
 # § 31. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
 dɔ:rN, ‘fist’, Wi. dorn, but nom. plur. dïrN′
