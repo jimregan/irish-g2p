@@ -1961,3 +1961,12 @@
   index: "smalcadh"
   fgb: "smalcadh"
     equals: "smailc"
+"bɔlk":
+  section: 25
+  english: "FOOO"
+  headwords:
+    dinneen: "balc"
+  examples:
+    - phonetic: "bɔlkəNỹ: Nə Lu:NəsNə"
+      english: "August rains"
+  alternative: "bαlk"
