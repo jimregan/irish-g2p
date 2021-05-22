@@ -2013,4 +2013,31 @@
   section: 25
   english: "naked"
   middle_irish: "nocht"
-# kɔrə·m′iL′ə, ‘heath-pease’, Di. carra mhilis
+"kɔrə·m′iL′ə":
+  section: 25
+  english: "heath-pease"
+  headwords:
+    dinneen: "carra mhilis"
+"mohuw":
+  section: 25
+  english: "to feel"
+  future_active: "mαihαχə m′ə"
+  present: "mαihi:m"
+  present_passive "mɔt′ər"
+"wαkə tuw":
+  section: 25
+  english: "did you see?"
+alternative: "wɔkə tuw"
+"bɔriαχt":
+  section: 25
+  english: "too much"
+  for: "bαriαχt"
+# bαriαχt, ‘FOO’ Di. bárraidheacht
+"ɔχyr′":
+  section: 26
+  english: "key"
+  middle_irish: "eochuir"
+"ɔχyr′":
+  section: 26
+  english: "the roe of a fish"
+  middle_irish: "iuchair"

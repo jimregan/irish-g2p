@@ -1,19 +1,13 @@
 # § 25
-αχruw, ‘why, good heavens, I should just think so’, Craig, Iasg. áchrú
-!:alternative: "ɔχruw"
-αtəruw, ‘between them’, Di. eatortha
-!:alternative: "ɔtəruw"
-ɔdi:, ‘yon’, Di. úd
-!:alternative: "αdi:"
-!:irish: adaí
-Noχti:, ‘stripped, bare’
-tα:rNαχti:, ‘naked’, M.Ir. nocht
-kɔrə·m′iL′ə, ‘heath-pease’, Di. carra mhilis
-mohuw, ‘to feel’, fut. act. mαihαχə m′ə, pres. mαihi:m, pres. pass. mɔt′ər. wɔkə tuw may be heard by the side of
+mohuw, ‘to feel’
+!:future_active: "mαihαχə m′ə"
+!:present: "mαihi:m"
+!:present_passive "mɔt′ər"
 wαkə tuw, ‘did you see?’
+!alternative: "wɔkə tuw"
 bɔriαχt, ‘too much’
-for bαriαχt, Di. bárraidheacht
-
+!:for: "bαriαχt"
+bαriαχt, ‘FOO’ Di. bárraidheacht
 # § 26
 ɔχyr′, ‘key’, M.Ir. eochuir
 ɔχyr′, ‘the roe of a fish’, M.Ir. iuchair
