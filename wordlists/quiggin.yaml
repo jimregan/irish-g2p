@@ -1993,12 +1993,15 @@
   headwords:
     craig: "áchrú"
   alternative: "ɔχruw"
+  index: "achrú"
 "αtəruw":
   section: 25
   english: "between them"
   headwords:
     dinneen: "eatortha"
   alternative: "ɔtəruw"
+  fgb: "eatarthu"
+  index: "eatorthú"
 "ɔdi:":
   section: 25
   english: "yon"
@@ -2006,24 +2009,34 @@
     dinneen: "úd"
   alternative: "αdi:"
   irish: adaí
+  index: "adaí"
+  fgb: "adaí"
+    equals: "úd"
 "Noχti:":
   section: 25
   english: "stripped, bare"
+  index: "nochtaighthe"
 "tα:rNαχti:":
   section: 25
   english: "naked"
   middle_irish: "nocht"
+  index: "tarrnochttha"
+  fgb: "tarnocht"
 "kɔrə·m′iL′ə":
   section: 25
   english: "heath-pease"
   headwords:
     dinneen: "carra mhilis"
+  fgb: "carra mhilis"
+  index: "carra mbilis"
 "mohuw":
   section: 25
   english: "to feel"
   future_active: "mαihαχə m′ə"
   present: "mαihi:m"
   present_passive: "mɔt′ər"
+  index: "mothughadh"
+  fgb: "mothú"
 "wαkə tuw":
   section: 25
   english: "did you see?"
@@ -2032,26 +2045,32 @@
   section: 25
   english: "too much"
   for: "bαriαχt"
+  index: "barraidheach"
 "bαriαχt":
-  section:
+  section: 25
   headwords:
     dinneen: "bárraidheacht"
 "ɔχyr′":
   section: 26
   english: "key"
   middle_irish: "eochuir"
+  index: "eochair"
+  fgb: "eochair"
 "ɔχyr′":
   section: 26
   english: "the roe of a fish"
   middle_irish: "iuchair"
   expected: "*o̤χyr′"
+  fgb: "iuchair"
+    equals: "eochraí"
 "f′l′ɔχ":
-  section: 25
+  section: 26
   english: "wet"
   old_irish: "fliuch"
   alternative: ["f′l′ïχ", "f′l′əχ", "f′l′Uχ"]
+  index: "fliuch"
 "d′oχ":
-  section: 25
+  section: 26
   english: "drink"
   old_irish: "deug"
   genitive_singular: "dige"
@@ -2059,36 +2078,52 @@
     old_irish: "tech"
       english: "house"
       genitive_singular: "tige"
+  index: "deoch"
+  fgb: "deoch"
 "fi:dɔr′":
   section: 27
   english: "weaver"
   headwords:
     dinneen: "figheadóir"
+  index: "figheadóir"
+  fgb: "fíodóir"
 "sp′αlədɔr′":
   section: 27
   english: "mower"
+  index: "spealadóir"
+  fgb: "spealadóir"
 "ti:dɔr′":
   section: 27
   english: "thatcher"
+  index: "tuigheadóir"
+  fgb: "tuíodóir"
 "b′r′ïŋlɔd′":
   section: 27
   english: "dream"
   headwords:
     meyer: "brinnglóid"
+  index: "brionglóid"
+  fgb: "brionglóid"
 "mα:lɔd′":
   section: 27
   english: "a foolish woman"
   headwords:
     dinneen: "málaid"
+  index: "málóid"
+  fgb: "málóid"
 "t′r′ïblɔd′":
   section: 27
   english: "trouble"
   headwords:
     dinneen: "trioblóid"
   middle_irish: "treblait"
+  index: "trioblóid"
+  fgb: "trioblóid"
 "ʃk′ïbɔl":
   section: 27
   english: "barn"
   headwords:
     dinneen: "scioból"
   alternative: "ʃk′ïbαl"
+  index: "scioból"
+  fgb: "scioból"
