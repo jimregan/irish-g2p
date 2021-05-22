@@ -2273,3 +2273,55 @@ alternative: "sæL′er′"
   english: "opportunity"
   headwords:
     dinneen: "ócáid"
+"plɔ:d′ ɔrt":
+  section: 29
+  english: "confound you"
+  suggests: "pláigh"
+    english: "plague"
+"pɔ:g":
+  section: 29
+  english: "kiss"
+  old_irish: "póc"
+"pɔ:kə":
+  section: 29
+  english: "pocket"
+  headwords:
+    dinneen: "póca"
+"pɔ:suw":
+  section: 29
+  english: "to marry"
+  headwords:
+    dinneen: "pósadh"
+"pɔ:r":
+  section: 29
+  english: "seed"
+  see_also: "pɔ:ruw"
+"pɔ:ruw":
+  section: 29
+  english: "to breed"
+  headwords:
+    dinneen: "pór"
+"rɔ:gəNtə":
+  section: 29
+  english: "roguish"
+"rɔ:pə":
+  section: 29
+  english: "rope"
+"skrɔ:bαn":
+  section: 29
+  english: "crop of birds"
+  headwords:
+    dinneen: "scrobán"
+"skɔ:r̥ə in bə skɔ:r̥ə l′ïm ə və buiL′t′ə":
+  section: 29
+  english: "it would be beneath my dignity"
+"skɔ:g′":
+  section: 29
+  english: "neck of a bottle"
+  headwords:
+    dinneen: "scóig"
+"smɔ:lαχ":
+  section: 29
+  english: "thrush"
+  headwords:
+    dinneen: "smólach"
