@@ -2325,3 +2325,83 @@ alternative: "sæL′er′"
   english: "thrush"
   headwords:
     dinneen: "smólach"
+"sɔ(:)çr′et′ə":
+  section: 29
+  english: "credible"
+  focus_on: "sɔ:"
+"sɔ(:)hik′ʃi:":
+  section: 29
+  english: "intelligible"
+  focus_on: "sɔ:"
+"dɔ:rαNə":
+  section: 29
+  english: "hard to deal with"
+  focus_on: "dɔ:"
+"sɔ:kəl":
+  section: 29
+  english: "ease"
+  headwords:
+    keating: "sócamhal"
+  compare: "ionnus nach robh suaimhneas na sócal aici"
+    reference: "Derry People 30 v ’04"
+"stɔ:kαχ":
+  section: 29
+  english: "lad"
+  headwords:
+    dinneen: "stócach"
+"stɔ:l":
+  section: 29
+  english: "stool"
+"strɔ:kuw":
+  section: 29
+  english: "to tear"
+  headwords:
+    dinneen: "strócadh"
+"srɔ:fαχ":
+  section: 29
+  english: "sneezing"
+  headwords:
+    oreilly: "srófurtach"
+"trɔ:kir′ə":
+  section: 29
+  english: "mercy"
+  old_irish: "trócaire"
+"k′ɔ:l′":
+  section: 29
+  english: "music, song"
+  genitive_singular_of "k′ɔ:l"
+"d′ɔ:r":
+  section: 29
+  english: "tear, drop"
+  genitive_singular "d′ɔ:r′ə"
+"sɔ:":
+  section: 30
+  english: "happiness"
+  headwords:
+    dinneen: "sógh"
+  proverb:
+    phonetic: "N′i: f′juw sɔ: Nαχ wiL′αnuw α:nṟɔ:"
+    english: "no contentment is worth anything that will not weather adversity"
+"dɔ:riN′αχ":
+  section: 30
+  english: "severe, distressing"
+  headwords:
+    keating: "doghraingeach"
+"fõ:wər":
+  section: 30
+  english: "autumn"
+  compare_section: 38
+"fαdɔ:":
+  section: 30
+  english: "to kindle, make into a blaze"
+  middle_irish: "fatód"
+"ɛəlɔ:":
+  section: 30
+  english: "flee, escape"
+  headwords:
+    irische_text: "élud"
+"t′ɛəLtɔ:":
+  section: 30
+  english: "saunter"
+  headwords:
+    dinneen: "téaltógh"
