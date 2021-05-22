@@ -1520,3 +1520,610 @@
   rule: "o > ɔ / _ χ"
   index: "tocht fuail"
   fgb: "tocht fuail"
+"dɔrəχə":
+  section: 23
+  english: "dark"
+  old_irish: "dorcha"
+  rule: "o > ɔ / _ r"
+  index: "dorcha"
+  fgb: "dorcha"
+"dɔrəs":
+  section: 23
+  english: "door"
+  old_irish: "dorus"
+  rule: "o > ɔ / _ r"
+  index: "doras"
+  fgb: "doras"
+"fɔrtαχ":
+  section: 23
+  english: "comfort"
+  middle_irish: "fortacht"
+  rule: "o > ɔ / _ r"
+  index: "fortacht"
+  sic: "fɔrtαχt"
+  fgb: "fortacht"
+"gɔrəm":
+  section: 23
+  english: "blue"
+  middle_irish: "gorm"
+  rule: "o > ɔ / _ r"
+  sic: "gorm"
+  fgb: "gorm"
+"gɔr·ti:wə l′ɛ":
+  section: 23
+  english: "depending on"
+  headwords:
+    dinneen: "tortaobh"
+  compare_section: 416
+  rule: "o > ɔ / _ r"
+  index: "cortaobhadh"
+  fgb: "tortaobh"
+"gɔrtuw":
+  section: 23
+  english: "to injure"
+  headwords:
+    dinneen: "gortughadh"
+  rule: "o > ɔ / _ r"
+  index: "gortughadh"
+  fgb: "gortú"
+"kɔr":
+  section: 23
+  english: "odd"
+  middle_irish: "corr"
+  alternate: "kɔR"
+  rule: "o > ɔ / _ r"
+  index: "corr (odd)"
+  fgb: "corr"
+"kɔRuw l′ɛ":
+  section: 23
+  english: "upwards of"
+  headwords:
+    dinneen: "corradh"
+  rule: "o > ɔ / _ r"
+  index: "corradh"
+  fgb: "corradh"
+"kɔrədi:":
+  section: 23
+  english: "to move, stir"
+  headwords:
+    meyer: "coraigim"
+  rule: "o > ɔ / _ r"
+  index: "coradaigh"
+  fgb: "corraigh"
+"kɔrαχ":
+  section: 23
+  english: "steep"
+  middle_irish: "corrach"
+  rule: "o > ɔ / _ r"
+  index: "corrach"
+  fgb: "corrach"
+"kɔrp":
+  section: 23
+  english: "corpse"
+  old_irish: "corp"
+  rule: "o > ɔ / _ r"
+  index: "corp"
+  fgb: "corp"
+"kɔr̥əm":
+  section: 23
+  english: "level"
+  middle_irish: "comthromm"
+  rule: "o > ɔ / _ r"
+  index: "comhthrom"
+  fgb: "cothrom"
+"k′l′i·ɔrst′ə":
+  section: 23
+  english: "harrow"
+  irish: "clíath fhoirste"
+  rule: "o > ɔ / _ r"
+  index: "cliath"
+  fgb: "cliath fhuirste"
+"Lɔrəg":
+  section: 23
+  english: "track"
+  headwords:
+    irische_text: "lorg"
+  rule: "o > ɔ / _ r"
+  index: "lorg"
+  fgb: "lorg"
+"mɔrəkuw":
+  section: 23
+  english: "rotting"
+  headwords:
+    dinneen: "morgadh"
+  note: "the k is extended from the past part. mɔrəky:"
+  past_part: "mɔrəky:"
+  rule: "o > ɔ / _ r"
+  index: "morcadh"
+  fgb: "morgadh"
+"stɔrfwi:":
+  section: 23
+  english: "snort"
+  rule: "o > ɔ / _ r"
+  index: "storfaidh"
+  fgb: "storfadh"
+"tɔrt′":
+  section: 23
+  english: "bulk"
+  middle_irish: "toirt"
+  rule: "o > ɔ / _ r"
+  index: "toirt"
+  fgb: "toirt"
+"tɔruw":
+  section: 23
+  english: "fruit"
+  old_irish: "torad"
+  rule: "o > ɔ / _ r"
+  index: "toradh"
+  fgb: "toradh"
+"po̤rtαχ":
+  section: 23
+  english: "bog"
+  headwords:
+    dinneen: "portach"
+  rule: "o > ɔ / _ r"
+  index: "portach"
+  fgb: "portach"
+"kɔsu:l′":
+  section: 23
+  english: "similar"
+  old_irish: "cosmail"
+  rule: "o > ɔ / _ s"
+  index: "cosmhail"
+  fgb: "cosúil"
+"krɔs":
+  section: 23
+  english: "cross"
+  rule: "o > ɔ / _ s"
+  index: "cros"
+  fgb: "cros"
+"krɔsəm":
+  section: 23
+  english: "I forbid"
+  headwords:
+    meyer: ["cross", "crossaim"]
+  rule: "o > ɔ / _ s"
+  index: "crosadh"
+  fgb: "cros"
+"ɔsNə":
+  section: 23
+  english: "sigh"
+  old_irish: "osnad"
+  rule: "o > ɔ / _ s"
+  index: "osna"
+  fgb: "osna"
+"tɔst":
+  section: 23
+  english: "silence"
+  middle_irish: "tost"
+  rule: "o > ɔ / _ s"
+  index: "tost"
+  fgb: "tost"
+"trɔsk":
+  section: 23
+  english: "cod"
+  headwords:
+    dinneen: "trosc"
+  rule: "o > ɔ / _ s"
+  index: "trosc"
+  fgb: "trosc"
+"Lo̤sid′":
+  section: 23
+  english: "a shallow wooden vessel"
+  old_irish: "lossat"
+  note: "not generally known"
+  index: "losaid"
+  fgb: "losaid"
+"Lo̤skəN":
+  section: 23
+  english: "toad"
+  middle_irish: "loscann"
+  note: "doubtless owing to the preceding L"
+  index: "loscann"
+  fgb: "loscann"
+"kɔhuw":
+  section: 23
+  english: "to feed"
+  headwords:
+    meyer: "cothaigim"
+  rule: "o > ɔ / _ h"
+  index: "cothughadh"
+  fgb: "cothú"
+"gɔhαnαχ":
+  section: 23
+  english: "touchy"
+  headwords:
+    dinneen: "gothán"
+  rule: "o > ɔ / _ h"
+  index: ["gothán", "gothánach"]
+  fgb:
+    - "gothán"
+      equals: "guthán"
+    - "gothánach"
+      equals: "guthánach"
+"rɔhə":
+  section: 23
+  english: "wheel"
+  headwords:
+    irische_text: "roth"
+  rule: "o > ɔ / _ h"
+  index: "rotha"
+  fgb: "roth"
+"mo̤χuw":
+  section: 23
+  english: "springing"
+  compare_section: 333
+  note: "o̤ before χ < h"
+  rule: "o > o̤ / _ χ"
+  index: ["moth", "mothadh"]
+  fgb: "mothas"
+"bɔbwir′αχt":
+  section: 23
+  english: "roguery"
+  derivation:
+    english: "bob"
+  index: "bobaireacht"
+  fgb: "bobaireacht"
+"gɔnαn":
+  section: 23
+  english: "canine tooth"
+  formed_from: "gonaim"
+  index: "gonán"
+  fgb: "gonán"
+"kɔpαn":
+  section: 23
+  english: "cup"
+  derivation:
+    english: "cup"
+  index: "copán"
+  fgb: "copán"
+    equals: "cupán"
+"kɔpɔg":
+  section: 23
+  english: "dock"
+  headwords:
+    meyer: "coppóc"
+  index: "copóg"
+  fgb: "copóg"
+"kɔr′k′ə":
+  section: 24
+  english: "oats"
+  headwords:
+    meyer: "coirce"
+  index: "coirce"
+  fgb: "coirce"
+"Lɔt′αχ":
+  section: 24
+  english: "harmful, injurious"
+  middle_irish: "loitim"
+  index: ["loiteach", "loitim"]
+  fgb: "loiteach"
+"ɔʃir′":
+  section: 24
+  english: "oyster"
+  headwords:
+    macbain: "oisir"
+    dinneen: "oisre"
+  index: "oisir"
+  fgb: "oisre"
+"ɔt′ir′":
+  section: 24
+  english: "turf-bank"
+  headwords:
+    dinneen: "oitir"
+  index: "oitir"
+  fgb: "oitir"
+"rɔʃuw":
+  section: 24
+  english: "rip up"
+  headwords:
+    oreilly: "roiseadh"
+  index: "roiseadh"
+  fgb: "roiseadh"
+"tɔt′":
+  section: 24
+  english: "smoke"
+  headwords:
+    dinneen: "toit"
+    atkinsons: "tutt"
+  index: "toit"
+  fgb: "toit"
+"gɔr′uw":
+  section: 24
+  english: "to heat, warm"
+  headwords:
+    dinneen: "goruw"
+  proverb:
+    phonetic: "əs f′α:r o veL′t′ ə hαNuw Nα n ℊrui ə ℊɔr′uw"
+    english: "it is better to tighten the belt than to burn one’s cheek"
+  index: "goireadh"
+  fgb: "goradh"
+"tɔl′":
+  section: 24
+  english: "will"
+  old_irish: "tol"
+  index: "toil"
+  fgb: "toil"
+"skɔl′":
+  section: 24
+  english: "school"
+  middle_irish: "scol"
+  index: "scoil"
+  fgb: "scoil"
+"kɔʃə":
+  section: 24
+  english: "foot"
+  genitive_singular_of: "kɔs"
+  see_also: "kɔʃiαχt"
+  index: "cos"
+  fgb: "cos"
+"kɔʃiαχt":
+  section: 24
+  english: "walking"
+  headwords:
+    dinneen: "coisidheacht"
+  index: "coisidheacht"
+  fgb: "coisíocht"
+"krɔʃi:n′":
+  section: 24
+  english: "stick with curved handle"
+  headwords:
+    dinneen: "croisín"
+  from: "cros"
+  index: "croisín"
+  fgb: "croisín"
+"brɔk":
+  section: 24
+  english: "badger"
+  genitive_singular: "brik′"
+  see_section: 98
+  index: "broc"
+  fgb: "broc"
+"bɔluw":
+  section: 25
+  english: "dumb"
+  middle_irish: "balb"
+  index: "balbh"
+  fgb: "balbh"
+"gɔlər":
+  section: 25
+  english: "disease"
+  old_irish: "galar"
+  index: "galar"
+  fgb: "galar"
+"Lɔsuw":
+  section: 25
+  english: "to light, kindle"
+  middle_irish: "lassaim"
+  index: "lasadh"
+  fgb: "lasadh"
+"Lɔsir′":
+  section: 25
+  english: "blaze"
+  middle_irish: "lassair"
+  index: "lasair"
+  fgb: "lasair"
+"mɔlərt′":
+  section: 25
+  english: "exchange"
+  middle_irish: "malairt"
+  index: "malairt"
+  fgb: "malairt"
+"mɔli:":
+  section: 25
+  english: "brow, incline"
+  old_irish: "mala"
+  index: "malaidh"
+  fgb: "malaidh"
+    equals: "mala"
+"sɔləN":
+  section: 25
+  english: "salt"
+  old_irish: "saland"
+  index: "salann"
+  fgb: "salann"
+"bɔlkuw":
+  section: 25
+  unknown: "futuere"
+  headwords:
+    dinneen: "balcaim"
+    meyer: "balccim"
+  alternative: "bαlkuw"
+  compare: "bo̤N bαlky:"
+  index: "balcadh"
+  fgb: "balcadh"
+"bo̤N bαlky:":
+  section: 25
+  english: "a collection made to pay for whiskey &c. at a gathering or dance on the first Sunday after a wedding"
+"tɔluw":
+  section: 25
+  english: "land"
+  old_irish: "talam"
+  index: "talamh"
+  fgb: "talamh"
+"hɔL":
+  section: 25
+  english: "over yonder"
+  old_irish: "tall"
+  index: "thall"
+  fgb: "thall"
+"əNɔL":
+  section: 25
+  english: "hither"
+  old_irish: "anall"
+  index: "anall"
+  fgb: "anall"
+"smɔlkuw":
+  section: 25
+  english: "to smoke vigorously"
+  headwords:
+    dinneen: "smalcadh"
+  index: "smalcadh"
+  fgb: "smalcadh"
+    equals: "smailc"
+"bɔlk":
+  section: 25
+  headwords:
+    dinneen: "balc"
+  examples:
+    - phonetic: "bɔlkəNỹ: Nə Lu:NəsNə"
+      english: "August rains"
+  alternative: "bαlk"
+  index: "balc"
+  fgb: "balc"
+    equals: "bailc"
+"foli:m":
+  section: 25
+  english: "I hide"
+  index: "folaighim"
+  preterite: "dαli: ʃə"
+  past_part: "fαli:ʃt′ə"
+  see_also: "ə wɔlαχ"
+  fgb: "folaigh"
+"ə wɔlαχ":
+  section: 25
+  alternative: "wαlαχ"
+  english: "in hiding"
+  middle_irish: "folach"
+  index: "folach"
+  fgb: "i bhfolach"
+"αχruw":
+  section: 25
+  english: "why, good heavens, I should just think so"
+  headwords:
+    craig: "áchrú"
+  alternative: "ɔχruw"
+  index: "achrú"
+"αtəruw":
+  section: 25
+  english: "between them"
+  headwords:
+    dinneen: "eatortha"
+  alternative: "ɔtəruw"
+  fgb: "eatarthu"
+  index: "eatorthú"
+"ɔdi:":
+  section: 25
+  english: "yon"
+  headwords:
+    dinneen: "úd"
+  alternative: "αdi:"
+  irish: adaí
+  index: "adaí"
+  fgb: "adaí"
+    equals: "úd"
+"Noχti:":
+  section: 25
+  english: "stripped, bare"
+  index: "nochtaighthe"
+"tα:rNαχti:":
+  section: 25
+  english: "naked"
+  middle_irish: "nocht"
+  index: "tarrnochttha"
+  fgb: "tarnocht"
+"kɔrə·m′iL′ə":
+  section: 25
+  english: "heath-pease"
+  headwords:
+    dinneen: "carra mhilis"
+  fgb: "carra mhilis"
+  index: "carra mbilis"
+"mohuw":
+  section: 25
+  english: "to feel"
+  future_active: "mαihαχə m′ə"
+  present: "mαihi:m"
+  present_passive: "mɔt′ər"
+  index: "mothughadh"
+  fgb: "mothú"
+"wαkə tuw":
+  section: 25
+  english: "did you see?"
+  alternative: "wɔkə tuw"
+"bɔriαχt":
+  section: 25
+  english: "too much"
+  for: "bαriαχt"
+  index: "barraidheach"
+"bαriαχt":
+  section: 25
+  headwords:
+    dinneen: "bárraidheacht"
+"ɔχyr′":
+  section: 26
+  english: "key"
+  middle_irish: "eochuir"
+  index: "eochair"
+  fgb: "eochair"
+"ɔχyr′":
+  section: 26
+  english: "the roe of a fish"
+  middle_irish: "iuchair"
+  expected: "*o̤χyr′"
+  fgb: "iuchair"
+    equals: "eochraí"
+"f′l′ɔχ":
+  section: 26
+  english: "wet"
+  old_irish: "fliuch"
+  alternative: ["f′l′ïχ", "f′l′əχ", "f′l′Uχ"]
+  index: "fliuch"
+"d′oχ":
+  section: 26
+  english: "drink"
+  old_irish: "deug"
+  genitive_singular: "dige"
+  similar_to:
+    old_irish: "tech"
+      english: "house"
+      genitive_singular: "tige"
+  index: "deoch"
+  fgb: "deoch"
+"fi:dɔr′":
+  section: 27
+  english: "weaver"
+  headwords:
+    dinneen: "figheadóir"
+  index: "figheadóir"
+  fgb: "fíodóir"
+"sp′αlədɔr′":
+  section: 27
+  english: "mower"
+  index: "spealadóir"
+  fgb: "spealadóir"
+"ti:dɔr′":
+  section: 27
+  english: "thatcher"
+  index: "tuigheadóir"
+  fgb: "tuíodóir"
+"b′r′ïŋlɔd′":
+  section: 27
+  english: "dream"
+  headwords:
+    meyer: "brinnglóid"
+  index: "brionglóid"
+  fgb: "brionglóid"
+"mα:lɔd′":
+  section: 27
+  english: "a foolish woman"
+  headwords:
+    dinneen: "málaid"
+  index: "málóid"
+  fgb: "málóid"
+"t′r′ïblɔd′":
+  section: 27
+  english: "trouble"
+  headwords:
+    dinneen: "trioblóid"
+  middle_irish: "treblait"
+  index: "trioblóid"
+  fgb: "trioblóid"
+"ʃk′ïbɔl":
+  section: 27
+  english: "barn"
+  headwords:
+    dinneen: "scioból"
+  alternative: "ʃk′ïbαl"
+  index: "scioból"
+  fgb: "scioból"
