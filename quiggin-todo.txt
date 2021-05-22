@@ -1,11 +1,19 @@
 # § 29
-bɔ:, ‘cow’, O.Ir. bó
-!:genitive_plural: "Nə mo:"
-ə dɔ:ləuw, ‘always, still’, Di. i dtolamh
-dɔ:uw, ‘to burn’, M.Ir. dóud
-fɔ:d, ‘sod’, O.Ir. fót
-gə fɔ:L′, ‘still, yet’, M.Ir. co foill
-glɔ:r, ‘noise, sound of talking’, M.Ir. glór; kɔ:r′, ‘proper, meet’, O.Ir. cóir from which kɔ:r′uw, ‘to mend’; kɔ:r̥ə, ‘chest’, Di. cófra, kɔ:tə, ‘coat’, Di. cóta; krɔ: (mwik′ə), ‘sty’, O.Ir. cró; krɔ:g′αn, ‘a foot, small heap of peat set up to dry’, krɔ:g′uw, ‘to foot’, Di. gruaigeadh; ɔ:g, ‘young’, O.Ir. óc; ɔ:l, ‘drink’, O.Ir. ól; ɔ:r, ‘gold’, O.Ir. ór; ɔ:kæd′, ‘opportunity’, Di. ócáid; plɔ:d′ ɔrt, ‘confound you’ suggests pláigh, ‘plague’; pɔ:g, ‘kiss’, O.Ir. póc; pɔ:kə, ‘pocket’, Di. póca; pɔ:suw, ‘to marry’, Di. pósadh; pɔ:r, ‘seed’, pɔ:ruw, ‘to breed’, Di. pór ; rɔ:gəNtə, ‘roguish’; rɔ:pə, ‘rope’; skrɔ:bαn, ‘crop of birds’, Di. scrobán; skɔ:r̥ə in bə skɔ:r̥ə l′ïm ə və buiL′t′ə, ‘it would be beneath my dignity’; skɔ:g′, ‘neck of a bottle’, Di. scóig; smɔ:lαχ, ‘thrush’, Di. smólach; sɔ: in sɔ(:)çr′et′ə, ‘credible’; sɔ(:)hik′ʃi:, ‘intelligible’ (similarly dɔ: in dɔ:rαNə, ‘hard to deal with’); sɔ:kəl, ‘ease’, Keating sócamhal (cp. Derry People 30 v ’04, ionnus nach robh suaimhneas na sócal aici); stɔ:kαχ, ‘lad’, Di. stócach; stɔ:l, ‘stool’; strɔ:kuw, ‘to tear’, Di. strócadh; srɔ:fαχ, ‘sneezing’, O’R. srófurtach; trɔ:kir′ə, ‘mercy’, O.Ir. trócaire.
+glɔ:r, ‘noise, sound of talking’, M.Ir. glór
+kɔ:r′, ‘proper, meet’, O.Ir. cóir
+kɔ:r′uw, ‘to mend’
+!:from:
+!::old_irish: "cóir"
+kɔ:r̥ə, ‘chest’, Di. cófra
+kɔ:tə, ‘coat’, Di. cóta
+krɔ: (mwik′ə), ‘sty’, O.Ir. cró
+krɔ:g′αn, ‘a foot, small heap of peat set up to dry’
+krɔ:g′uw, ‘to foot’, Di. gruaigeadh
+ɔ:g, ‘young’, O.Ir. óc
+ɔ:l, ‘drink’, O.Ir. ól
+ɔ:r, ‘gold’, O.Ir. ór
+ɔ:kæd′, ‘opportunity’, Di. ócáid
+plɔ:d′ ɔrt, ‘confound you’ suggests pláigh, ‘plague’; pɔ:g, ‘kiss’, O.Ir. póc; pɔ:kə, ‘pocket’, Di. póca; pɔ:suw, ‘to marry’, Di. pósadh; pɔ:r, ‘seed’, pɔ:ruw, ‘to breed’, Di. pór ; rɔ:gəNtə, ‘roguish’; rɔ:pə, ‘rope’; skrɔ:bαn, ‘crop of birds’, Di. scrobán; skɔ:r̥ə in bə skɔ:r̥ə l′ïm ə və buiL′t′ə, ‘it would be beneath my dignity’; skɔ:g′, ‘neck of a bottle’, Di. scóig; smɔ:lαχ, ‘thrush’, Di. smólach; sɔ: in sɔ(:)çr′et′ə, ‘credible’; sɔ(:)hik′ʃi:, ‘intelligible’ (similarly dɔ: in dɔ:rαNə, ‘hard to deal with’); sɔ:kəl, ‘ease’, Keating sócamhal (cp. Derry People 30 v ’04, ionnus nach robh suaimhneas na sócal aici); stɔ:kαχ, ‘lad’, Di. stócach; stɔ:l, ‘stool’; strɔ:kuw, ‘to tear’, Di. strócadh; srɔ:fαχ, ‘sneezing’, O’R. srófurtach; trɔ:kir′ə, ‘mercy’, O.Ir. trócaire.
 
 k′ɔ:l′, gen. sing. of k′ɔ:l, ‘music, song’; d′ɔ:r, ‘tear, drop’, gen. sing. d′ɔ:r′ə.
 

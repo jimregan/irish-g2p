@@ -2220,3 +2220,56 @@ alternative: "sæL′er′"
   section: 29
   english: "still, yet"
   middle_irish: "co foill"
+"glɔ:r":
+  section: 29
+  english: "noise, sound of talking"
+  middle_irish: "glór"
+"kɔ:r′":
+  section: 29
+  english: "proper, meet"
+  old_irish: "cóir"
+"kɔ:r′uw":
+  section: 29
+  english: "to mend"
+  from:
+    old_irish: "cóir"
+"kɔ:r̥ə":
+  section: 29
+  english: "chest"
+  headwords:
+    dinneen: "cófra"
+"kɔ:tə":
+  section: 29
+  english: "coat"
+  headwords:
+    dinneen: "cóta"
+"krɔ: (mwik′ə)":
+  section: 29
+  english: "sty"
+  old_irish: "cró"
+"krɔ:g′αn":
+  section: 29
+  english: "a foot, small heap of peat set up to dry"
+  see_also: "krɔ:g′uw"
+"krɔ:g′uw":
+  section: 29
+  english: "to foot"
+  headwords:
+    dinneen: "gruaigeadh"
+"ɔ:g":
+  section: 29
+  english: "young"
+  old_irish: "óc"
+"ɔ:l":
+  section: 29
+  english: "drink"
+  old_irish: "ól"
+"ɔ:r":
+  section: 29
+  english: "gold"
+  old_irish: "ór"
+"ɔ:kæd′":
+  section: 29
+  english: "opportunity"
+  headwords:
+    dinneen: "ócáid"
