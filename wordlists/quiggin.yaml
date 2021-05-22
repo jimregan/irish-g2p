@@ -2174,3 +2174,27 @@ alternative: "sæL′er′"
   english: "yeast"
   headwords:
     dinneen: "gabháil"
+"gɔl′":
+  section: 27
+  english: "going"
+  irish: "ag gabháil"
+"gɔl":
+  section: 27
+  english: "going"
+  irish: "ag dul"
+"tɔrt ·dŨw̥`":
+  section: 27
+  english: "giving to me"
+  headwords:
+    dinneen: "tabhairt"
+  from: "to:rt′"
+  imperative: "tɔr ·dŨw̥`"
+    alternative: "tər ·dŨw̥`"
+    english: "give me"
+"mɔrαn":
+  section: 27
+  english: "many, a quantity of"
+  headwords:
+    dinneen: "mórán"
+  emphatic: ["mɔ:rαn", "mo:rαn"]
+  compare_section: 451
