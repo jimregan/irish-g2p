@@ -2534,17 +2534,15 @@
     english: "to feed"
     headwords:
       meyer: "cothaigim"
-# kɔ:r′ < comhair
+"kɔ:r′": 
+  from: "comhair"
   examples:
     - phonetic: "N′i: rαχət(′) ʃi: α χɔ:r′"
       english: "she would not go near him"
-  examples:
     - phonetic: "χɔ:r Nə Lu:NəsNə"
       english: "approaching August"
-  examples:
     - phonetic: "χɔ:r′ ə hi:n jɛəg"
       english: "nearly 11"
-  examples:
     - phonetic: "tα: ʃɛ χɔ:r′ mαruw"
       english: "he is almost dead"
 "χɔr′ ə və":
@@ -2560,3 +2558,8 @@
   section: 33
   english: "Tyrone"
   see_also: "ɔ:n"
+# Lɔχ ·p′i:N′ə, ‘’
+  note: "ɔ: for uə"
+  see_section: 27
+# sLɔ: ·ʃi:, ‘the fairies’, sluaghsidhe
+  plural: "sLɔ:t′ə"
