@@ -2579,3 +2579,7 @@
   english: "grandchild"
   old_irish: "haue"
   middle_irish: ["óa", "úa"]
+  examples:
+    - phonetic: "tα: ʃiəd klαN əs ɔ:"
+      english: "they are second cousins"
+  note: "In family names it is reduced to α"
