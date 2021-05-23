@@ -1,16 +1,16 @@
-# § 36.
-row̥, ‘was’
-!:from: "raba"
-!::from: "robói"
-!:note: "enclitic form"
-kõhərə, ‘sign’, Wi. comartha
-!:note: "we have transposition of the h < th and consequent shortening"
 # § 38. 
-bro:n, ‘sorrow’, O.Ir. brón
-krõ:, ‘nut’, M.Ir. cnó, O.Ir. cnú
-Lo:n, ‘store, provision’, O.Ir. loun
-lóon
-mo:, ‘more’, O.Ir. moo, mó; mo:d′ə, ‘vow’, M.Ir. móit; mo:n′, ‘peat’, M.Ir. móin; mo:rtəs, ‘boasting’, *mórdatas, cp. M.Ir. mórdatu; mo:ʃiαm, ‘irritation’, Di. móisiam < Engl. ‘commotion’ (?); Nõ:s, ‘habit’, M.Ir. nós; o:N′ʃαχ, ‘hussy’, Di. óinseach; rõ:n, ‘seal’, M.Ir. rón; sro:n, ‘nose’, O.Ir. srón; to:n′, ‘bottom’, M.Ir. tón. so:məs, ‘ease’, is peculiar, as Dinneen and O’Reilly have sámhas, Wi. sám. It should be stated that, although the distinction between ɔ: and o: seems to be pretty generally observed, there are surprising deviations, e.g. one may hear gə L′o:r, ‘sufficient’, for gə L′ɔ:r. Why to:g, imper. ‘lift’, Wi. tócbaim has o: I am quite unable to say. M.Ir. eo, eói also give o: before a nasal, e.g. L′o:nuw, ‘to sprain’, Keating leónaim; dα lo:Nti:l′ hein′, ‘of his own accord’, Di. gives leóinte as Munster and d’á leontuighil féin as the Donegal form. The forms seem to go back to M.Ir. deóin, which is preserved in N′α̃ujõ:n′, ‘in spite of’ (r̥eig′ ʃə m′ə N′. ə d′α:rN m′ə ə wα̃ihəs dɔ:, ‘he left me in spite of all the good I did for him’), here M.Ir. i n‑amdeón has been transformed into neamh-dheóin. Cp. further N′o:n′i:n′, ‘daisy’, for No:n′i:n′, Di. nóinín.
+mo:, ‘more’, O.Ir. moo
+mó
+mo:d′ə, ‘vow’, M.Ir. móit
+mo:n′, ‘peat’, M.Ir. móin
+mo:rtəs, ‘boasting’, *mórdatas, cp. M.Ir. mórdatu
+mo:ʃiαm, ‘irritation’, Di. móisiam < Engl. ‘commotion’ (?)
+Nõ:s, ‘habit’, M.Ir. nós
+o:N′ʃαχ, ‘hussy’, Di. óinseach
+rõ:n, ‘seal’, M.Ir. rón
+sro:n, ‘nose’, O.Ir. srón
+to:n′, ‘bottom’, M.Ir. tón
+so:məs, ‘ease’, is peculiar, as Dinneen and O’Reilly have sámhas, Wi. sám. It should be stated that, although the distinction between ɔ: and o: seems to be pretty generally observed, there are surprising deviations, e.g. one may hear gə L′o:r, ‘sufficient’, for gə L′ɔ:r. Why to:g, imper. ‘lift’, Wi. tócbaim has o: I am quite unable to say. M.Ir. eo, eói also give o: before a nasal, e.g. L′o:nuw, ‘to sprain’, Keating leónaim; dα lo:Nti:l′ hein′, ‘of his own accord’, Di. gives leóinte as Munster and d’á leontuighil féin as the Donegal form. The forms seem to go back to M.Ir. deóin, which is preserved in N′α̃ujõ:n′, ‘in spite of’ (r̥eig′ ʃə m′ə N′. ə d′α:rN m′ə ə wα̃ihəs dɔ:, ‘he left me in spite of all the good I did for him’), here M.Ir. i n‑amdeón has been transformed into neamh-dheóin. Cp. further N′o:n′i:n′, ‘daisy’, for No:n′i:n′, Di. nóinín.
 
 # § 39
 so:Ntαχ, ‘innocent, simple’, Di. sonntach

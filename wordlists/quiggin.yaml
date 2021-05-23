@@ -2660,3 +2660,7 @@
   section: 38
   english: "store, provision"
   old_irish: ["loun", "lóon"]
+"mo:":
+  section: 38
+  english: "more"
+  old_irish: "moo"
