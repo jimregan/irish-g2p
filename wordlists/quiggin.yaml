@@ -2735,3 +2735,18 @@
       location: "Munster"
     dinneen: "d’á leontuighil féin"
       location: "Donegal"
+"L′o:nuw":
+  section: 38
+  english: "to sprain"
+  headwords:
+    keating: "leónaim"
+"dα lo:Nti:l′ hein′":
+  section: 38
+  english: "of his own accord"
+  middle_irish: "deóin"
+"N′α̃ujõ:n′":
+  section: 38
+  english: "in spite of"
+  examples:
+    - phonetic: "r̥eig′ ʃə m′ə N′. ə d′α:rN m′ə ə wα̃ihəs dɔ:"
+      english: "he left me in spite of all the good I did for him"
