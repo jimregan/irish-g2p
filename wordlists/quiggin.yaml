@@ -2570,5 +2570,7 @@
 "rɔ: ·b′iN′":
   section: 34
   english: "brown hawk"
-  headwords:
-    dinneen: "ruadhán"
+  irish: "ruadh beinne"
+  compare:
+    dinneen: "ruadhán alla"
+      english: "sparrow-hawk"
