@@ -2621,3 +2621,4 @@
   english: "blade of grass"
   headwords:
     meyer: ["brobh", "brod"]
+  rule: "ɔ > o / [+labial] C? _"
