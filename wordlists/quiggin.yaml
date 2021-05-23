@@ -2678,3 +2678,36 @@
   irish: "*mórdatas"
   compare:
     middle_irish: "mórdatu"
+"mo:ʃiαm":
+  section: 38
+  english: "irritation"
+  headwords:
+    dinneen: "móisiam"
+  from
+    english: "commotion"
+"Nõ:s":
+  section: 38
+  english: "habit"
+  middle_irish: "nós"
+"o:N′ʃαχ":
+  section: 38
+  english: "hussy"
+  headwords:
+    dinneen: "óinseach"
+"rõ:n":
+  section: 38
+  english: "seal"
+  middle_irish: "rón"
+"sro:n":
+  section: 38
+  english: "nose"
+  old_irish: "srón"
+"to:n′":
+  section: 38
+  english: "bottom"
+  middle_irish: "tón"
+"so:məs":
+  section: 38
+  english: "ease"
+  headwords:
+    dinneen: "sámhas"
