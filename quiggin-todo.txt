@@ -1,11 +1,13 @@
-# § 30. 
-m′αl̥ɔ:, ‘interruption, delay’, Di. has meathlódh s. meathladh; L′ɛərɔ:, ‘glimmer of sight’ (?).
-
-# § 31. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
-dɔ:rN, ‘fist’, Wi. dorn, but nom. plur. dïrN′
-dɔ:rtuw, ‘spill’, M.Ir. dortad
+##. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
+# § 31
 ə Nɔ:ri:r′, ‘the day after to-morrow’, Di. oirthear, Wi. oirthir, airthir
-ɔ:rd, ‘sledge-hammer’, M.Ir. ord, but nom. plur. o̤rd′, ïrd′; ɔ:rdαg, ‘thumb’, Wi. ordu; skɔ:rNαχ, ‘throat’, Di. scórnach, Macbain sgòrnan; tɔ:ruw, ‘funeral’, Di. tórramh, Wi. torroma; tɔ:r̥i:s, ‘number at birth’, Wi. torrchius; tɔ:rN′æʃ, ‘big noise, row’, Di. tóirnéis.
+ɔ:rd, ‘sledge-hammer’, M.Ir. ord
+!:nominative_plural: ["o̤rd′", "ïrd′"]
+ɔ:rdαg, ‘thumb’, Wi. ordu
+skɔ:rNαχ, ‘throat’, Di. scórnach, Macbain sgòrnan
+tɔ:ruw, ‘funeral’, Di. tórramh, Wi. torroma
+tɔ:r̥i:s, ‘number at birth’, Wi. torrchius
+tɔ:rN′æʃ, ‘big noise, row’, Di. tóirnéis.
 
 # § 32.
 ɔ:lαχ, ‘acquainted, experienced’, cp. O.Ir. eóla
@@ -37,12 +39,23 @@ gɔ:lə, gen. sing. of gɔ:l′, ‘yeast’, Di. gabháil but go:l ‘groin’,
 brow̥, ‘blade of grass’, Meyer brobh, brod
 boh, ‘sod-house, still-house’, O.Ir. both but bɔhɔg; bomwit′ə, ‘minute’, but more commonly with o̤, Di. móimid; mõhuw, ‘to feel’, Di. mothughadh; row̥, enclitic form for ‘was’, = raba < robói. In kõhərə, ‘sign’, Wi. comartha we have transposition of the h < th and consequent shortening.
 
-6. o:.
-§ 37. This is a very close long o-sound like the German vowel in ‘Sohn’ or the Anglo-Irish o in ‘home’. When nasalised it is slightly more open as is the case in French (Vietor, Elemente der Phonetik5 p. 158). In the use of o: Monaghan seems to agree with Donegal (cp. G. J. 1896 p. 146).
+# § 38. 
+bro:n, ‘sorrow’, O.Ir. brón
+krõ:, ‘nut’, M.Ir. cnó, O.Ir. cnú
+Lo:n, ‘store, provision’, O.Ir. loun, lóon
+mo:, ‘more’, O.Ir. moo, mó; mo:d′ə, ‘vow’, M.Ir. móit; mo:n′, ‘peat’, M.Ir. móin; mo:rtəs, ‘boasting’, *mórdatas, cp. M.Ir. mórdatu; mo:ʃiαm, ‘irritation’, Di. móisiam < Engl. ‘commotion’ (?); Nõ:s, ‘habit’, M.Ir. nós; o:N′ʃαχ, ‘hussy’, Di. óinseach; rõ:n, ‘seal’, M.Ir. rón; sro:n, ‘nose’, O.Ir. srón; to:n′, ‘bottom’, M.Ir. tón. so:məs, ‘ease’, is peculiar, as Dinneen and O’Reilly have sámhas, Wi. sám. It should be stated that, although the distinction between ɔ: and o: seems to be pretty generally observed, there are surprising deviations, e.g. one may hear gə L′o:r, ‘sufficient’, for gə L′ɔ:r. Why to:g, imper. ‘lift’, Wi. tócbaim has o: I am quite unable to say. M.Ir. eo, eói also give o: before a nasal, e.g. L′o:nuw, ‘to sprain’, Keating leónaim; dα lo:Nti:l′ hein′, ‘of his own accord’, Di. gives leóinte as Munster and d’á leontuighil féin as the Donegal form. The forms seem to go back to M.Ir. deóin, which is preserved in N′α̃ujõ:n′, ‘in spite of’ (r̥eig′ ʃə m′ə N′. ə d′α:rN m′ə ə wα̃ihəs dɔ:, ‘he left me in spite of all the good I did for him’), here M.Ir. i n‑amdeón has been transformed into neamh-dheóin. Cp. further N′o:n′i:n′, ‘daisy’, for No:n′i:n′, Di. nóinín.
 
-§ 38. o: arises from O.Ir. ó chiefly in the vicinity of nasals and labials. It is interesting to note that under these circumstances the dialect described by Henebry has u:, whilst Donegal ɔ: corresponds to o: in the Decies (Henebry p. 31). Examples: bro:n, ‘sorrow’, O.Ir. brón; krõ:, ‘nut’, M.Ir. cnó, O.Ir. cnú; Lo:n, ‘store, provision’, O.Ir. loun, lóon; mo:, ‘more’, O.Ir. moo, mó; mo:d′ə, ‘vow’, M.Ir. móit; mo:n′, ‘peat’, M.Ir. móin; mo:rtəs, ‘boasting’, *mórdatas, cp. M.Ir. mórdatu; mo:ʃiαm, ‘irritation’, Di. móisiam < Engl. ‘commotion’ (?); Nõ:s, ‘habit’, M.Ir. nós; o:N′ʃαχ, ‘hussy’, Di. óinseach; rõ:n, ‘seal’, M.Ir. rón; sro:n, ‘nose’, O.Ir. srón; to:n′, ‘bottom’, M.Ir. tón. so:məs, ‘ease’, is peculiar, as Dinneen and O’Reilly have sámhas, Wi. sám. It should be stated that, although the distinction between ɔ: and o: seems to be pretty generally observed, there are surprising deviations, e.g. one may hear gə L′o:r, ‘sufficient’, for gə L′ɔ:r. Why to:g, imper. ‘lift’, Wi. tócbaim has o: I am quite unable to say. M.Ir. eo, eói also give o: before a nasal, e.g. L′o:nuw, ‘to sprain’, Keating leónaim; dα lo:Nti:l′ hein′, ‘of his own accord’, Di. gives leóinte as Munster and d’á leontuighil féin as the Donegal form. The forms seem to go back to M.Ir. deóin, which is preserved in N′α̃ujõ:n′, ‘in spite of’ (r̥eig′ ʃə m′ə N′. ə d′α:rN m′ə ə wα̃ihəs dɔ:, ‘he left me in spite of all the good I did for him’), here M.Ir. i n‑amdeón has been transformed into neamh-dheóin. Cp. further N′o:n′i:n′, ‘daisy’, for No:n′i:n′, Di. nóinín.
-
-§ 39. In a few cases o: is the result of lengthening before n + another consonant, e.g. so:Ntαχ, ‘innocent, simple’, Di. sonntach; so:nṟuw, ‘notice’, Di. sonnrughadh, so:nṟiαχ, ‘remarkable’, both from O.Ir. sainreth, sainred.
+# § 39
+so:Ntαχ, ‘innocent, simple’, Di. sonntach
+!:rule: "o > o: / _ nC"
+so:nṟuw, ‘notice’, Di. sonnrughadh
+!:from:
+!::old_irish: ["sainreth", "sainred"]
+!:rule: "o > o: / _ nC"
+so:nṟiαχ, ‘remarkable’
+!:from:
+!::old_irish: ["sainreth", "sainred"]
+!:rule: "o > o: / _ nC"
 
 # § 40 
 dα̃wuən, ‘world’

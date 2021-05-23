@@ -2412,3 +2412,24 @@
   english: "saunter"
   headwords:
     dinneen: "téaltógh"
+"m′αl̥ɔ:":
+  section: 30
+  english: "interruption, delay"
+  headwords:
+    dinneen: "meathlódh"
+  s: "meathladh"
+"L′ɛərɔ:":
+  section: 30
+  english: "glimmer of sight"
+"dɔ:rN":
+  section: 31
+  english: "fist"
+  headwords:
+    irische_text: "dorn"
+  nominatve_plural: "dïrN′"
+  rule: "ɔ > ɔ: / _ rN"
+"dɔ:rtuw":
+  section: 31
+  english: "spill"
+  middle_irish: "dortad"
+  rule: "ɔ > ɔ: / _ rt"
