@@ -2474,3 +2474,45 @@
   english: "big noise, row"
   headwords:
     dinneen: "tóirnéis"
+"ɔ:lαχ":
+  section: 32
+  english: "acquainted, experienced"
+  compare:
+    old_irish: "eóla"
+"ɔ:rNə":
+  section: 32
+  english: "barley"
+  middle_irish: "eórna"
+"gə d′ɔ:":
+  section: 32
+  english: "for ever"
+  compare:
+    irische_text: "deod"
+"d′r′ɔ:lαn":
+  section: 32
+  english: "wren"
+  headwords:
+    dinneen: "dreólán"
+"f′jɔ:l′":
+  section: 32
+  english: "flesh"
+  old_irish: "feóil"
+"k′ɔ:":
+  section: 32
+  english: "mist"
+  middle_irish: "ceó"
+"gə L′ɔ:r":
+  section: 32
+  english: "sufficient, plenty"
+  headwords:
+    irische_text: "leór"
+"L′ɔuw":
+  section: 32
+  english: "to heckle"
+  headwords:
+    dinneen: "leodhaim"
+    irische_text: "leo"
+"ʃɔ:l":
+  section: 32
+  english: "sail"
+  old_irish: "seól"
