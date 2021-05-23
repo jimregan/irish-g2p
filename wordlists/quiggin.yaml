@@ -2675,4 +2675,6 @@
 "mo:rtəs":
   section: 38
   english: "boasting"
-  middle_irish: "mórdatu"
+  irish: "*mórdatas"
+  compare:
+    middle_irish: "mórdatu"
