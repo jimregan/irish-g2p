@@ -1,5 +1,10 @@
 # § 34
-rɔ: ·b′iN′, ‘brown hawk’, ruadh beinne, cp. Di. ruadhán alla, ‘sparrow-hawk’. ɔ:, ‘grandchild’, O.Ir. haue, M.Ir. óa, úa, common in the phrase tα: ʃiəd klαN əs ɔ:, ‘they are second cousins’. In family names it is reduced to α. In this connection we may note the Anglo-Irish ‘bórach’ (bɔ:rαχ) where in Irish one hears bw⅄:rαχ, Di. buarach and cp. further § 151.
+rɔ: ·b′iN′, ‘brown hawk’, Di. ruadhán
+#rɔ: ·b′iN′, ‘brown hawk’, ruadh beinne, cp. Di. ruadhán alla, ‘sparrow-hawk’
+ɔ:, ‘grandchild’, O.Ir. haue, M.Ir. óa, úa, 
+>eg:tα: ʃiəd klαN əs ɔ:, ‘they are second cousins’
+!:note: "In family names it is reduced to α"
+‘bórach’ (bɔ:rαχ) where in Irish one hears bw⅄:rαχ, Di. buarach and cp. further § 151.
 
 # § 35.
 ɔ:rαn, ‘song’, Meyer amrán
