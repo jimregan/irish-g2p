@@ -2628,3 +2628,14 @@
   old_irish: "both"
   rule: "ɔ > o / [+labial] C? _"
     exception: "bɔhɔg"
+"bomwit′ə":
+  section: 36
+  english: "minute"
+  headwords:
+    dinneen: "móimid"
+  note: "more commonly with o̤"
+"mõhuw":
+  section: 36
+  english: "to feel"
+  headwords:
+    dinneen: "mothughadh"
