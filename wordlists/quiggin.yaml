@@ -2516,3 +2516,17 @@
   section: 32
   english: "sail"
   old_irish: "seól"
+"t′ɔ:":
+  section: 32
+  english: "hot"
+  headwords:
+    irische_text: "teou"
+  comparative_of "t′e"
+    english: "hot"
+  compare:
+    headword: "tee"
+"d′ɔ:r":
+  section: 32
+  english: "tear, drop"
+  middle_irish: "dér"
+  reference: "Strachan Bezz. Beitr. xx 6 n"
