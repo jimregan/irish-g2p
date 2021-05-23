@@ -2433,3 +2433,41 @@
   english: "spill"
   middle_irish: "dortad"
   rule: "ɔ > ɔ: / _ rt"
+"ə Nɔ:ri:r′":
+  section: 31
+  english: "the day after to-morrow"
+  headwords:
+    dinneen: "oirthear"
+    irische_text: ["oirthir, "airthir"]
+"ɔ:rd":
+  section: 31
+  english: "sledge-hammer"
+  middle_irish: "ord"
+  nominative_plural: ["o̤rd′", "ïrd′"]
+"ɔ:rdαg":
+  section: 31
+  english: "thumb"
+  headwords:
+    irische_text: "ordu"
+"skɔ:rNαχ":
+  section: 31
+  english: "throat"
+  headwords:
+    dinneen: "scórnach"
+    macbain: "sgòrnan"
+"tɔ:ruw":
+  section: 31
+  english: "funeral"
+  headwords:
+    dinneen: "tórramh"
+    irische_text: "torroma"
+"tɔ:r̥i:s":
+  section: 31
+  english: "number at birth"
+  headwords:
+    irische_text: "torrchius"
+"tɔ:rN′æʃ":
+  section: 31
+  english: "big noise, row"
+  headwords:
+    dinneen: "tóirnéis"

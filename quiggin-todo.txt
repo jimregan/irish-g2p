@@ -1,13 +1,15 @@
-##. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
 # § 31
-ə Nɔ:ri:r′, ‘the day after to-morrow’, Di. oirthear, Wi. oirthir, airthir
+ə Nɔ:ri:r′, ‘the day after to-morrow’, Di. oirthear
+!::irische_text: ["oirthir, "airthir"]
 ɔ:rd, ‘sledge-hammer’, M.Ir. ord
 !:nominative_plural: ["o̤rd′", "ïrd′"]
 ɔ:rdαg, ‘thumb’, Wi. ordu
-skɔ:rNαχ, ‘throat’, Di. scórnach, Macbain sgòrnan
+skɔ:rNαχ, ‘throat’, Di. scórnach
+!::macbain: "sgòrnan"
 tɔ:ruw, ‘funeral’, Di. tórramh, Wi. torroma
 tɔ:r̥i:s, ‘number at birth’, Wi. torrchius
 tɔ:rN′æʃ, ‘big noise, row’, Di. tóirnéis.
+##. ɔ: arises from ɔ by lengthening before R, r̥, rN, rt, rd
 
 # § 32.
 ɔ:lαχ, ‘acquainted, experienced’, cp. O.Ir. eóla
