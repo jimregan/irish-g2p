@@ -2622,3 +2622,9 @@
   headwords:
     meyer: ["brobh", "brod"]
   rule: "ɔ > o / [+labial] C? _"
+"boh":
+  section: 36
+  english: "sod-house, still-house"
+  old_irish: "both"
+  rule: "ɔ > o / [+labial] C? _"
+    exception: "bɔhɔg"
