@@ -1,7 +1,15 @@
 # § 33
-kɔ:χə m′ə, ‘to feed’, Meyer cothaigim
-!future_of: "kɔhuw"
-kɔ:r′ < comhair in N′i: rαχət(′) ʃi: α χɔ:r′, ‘she would not go near him’, χɔ:r Nə Lu:NəsNə, ‘approaching August’, χɔ:r′ ə hi:n jɛəg, ‘nearly 11’, tα: ʃɛ χɔ:r′ mαruw, ‘he is almost dead’ (χɔ:r′ is further reduced to χɔr′ in χɔr′ ə və, ‘almost’); ɔ:n, ‘Owen’, M.Ir. Eogan, t′i:r′ ·ɔ:n′, ‘Tyrone’.
+kɔ:r′ < comhair
+>eg:N′i: rαχət(′) ʃi: α χɔ:r′, ‘she would not go near him’
+>eg:χɔ:r Nə Lu:NəsNə, ‘approaching August’
+>eg:χɔ:r′ ə hi:n jɛəg, ‘nearly 11’
+>eg:tα: ʃɛ χɔ:r′ mαruw, ‘he is almost dead’
+χɔr′ ə və, ‘almost’
+!:note: "χɔ:r′ is further reduced to χɔr′"
+!:see_also: "χɔ:r′"
+ɔ:n, ‘Owen’, M.Ir. Eogan
+t′i:r′ ·ɔ:n′, ‘Tyrone’
+!:see_also: "ɔ:n"
 
 # § 34
 Lɔχ ·p′i:N′ə § 27. This occurs in

@@ -2530,7 +2530,33 @@
     reference: "Strachan Bezz. Beitr. xx 6 n"
 "kɔ:χə m′ə":
   section: 33
-  english: "to feed"
-  headwords:
-    meyer: "cothaigim"
-future_of: "kɔhuw"
+  future_of: "kɔhuw"
+    english: "to feed"
+    headwords:
+      meyer: "cothaigim"
+# kɔ:r′ < comhair
+  examples:
+    - phonetic: "N′i: rαχət(′) ʃi: α χɔ:r′"
+      english: "she would not go near him"
+  examples:
+    - phonetic: "χɔ:r Nə Lu:NəsNə"
+      english: "approaching August"
+  examples:
+    - phonetic: "χɔ:r′ ə hi:n jɛəg"
+      english: "nearly 11"
+  examples:
+    - phonetic: "tα: ʃɛ χɔ:r′ mαruw"
+      english: "he is almost dead"
+"χɔr′ ə və":
+  section: 33
+  english: "almost"
+  note: "χɔ:r′ is further reduced to χɔr′"
+  see_also: "χɔ:r′"
+"ɔ:n":
+  section: 33
+  english: "Owen"
+  middle_irish: "Eogan"
+"t′i:r′ ·ɔ:n′":
+  section: 33
+  english: "Tyrone"
+  see_also: "ɔ:n"
