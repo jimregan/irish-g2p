@@ -2438,17 +2438,19 @@
   english: "the day after to-morrow"
   headwords:
     dinneen: "oirthear"
-    irische_text: ["oirthir, "airthir"]
+    irische_text: ["oirthir", "airthir"]
 "ɔ:rd":
   section: 31
   english: "sledge-hammer"
   middle_irish: "ord"
   nominative_plural: ["o̤rd′", "ïrd′"]
+  rule: "ɔ > ɔ: / _ rd"
 "ɔ:rdαg":
   section: 31
   english: "thumb"
   headwords:
     irische_text: "ordu"
+  rule: "ɔ > ɔ: / _ rd"
 "skɔ:rNαχ":
   section: 31
   english: "throat"
@@ -2466,6 +2468,7 @@
   english: "number at birth"
   headwords:
     irische_text: "torrchius"
+  rule: "ɔ > ɔ: / _ r̥"
 "tɔ:rN′æʃ":
   section: 31
   english: "big noise, row"
