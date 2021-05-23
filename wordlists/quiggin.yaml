@@ -2558,8 +2558,12 @@
   section: 33
   english: "Tyrone"
   see_also: "ɔ:n"
-# Lɔχ ·p′i:N′ə, ‘’
+"Lɔχ ·p′i:N′ə":
+  section: 34
   note: "ɔ: for uə"
   see_section: 27
-# sLɔ: ·ʃi:, ‘the fairies’, sluaghsidhe
+"sLɔ: ·ʃi:"
+  section: 34
+  english: "the fairies"
+  irish: "sluagh sidhe"
   plural: "sLɔ:t′ə"
