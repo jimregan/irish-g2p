@@ -2639,3 +2639,24 @@
   english: "to feel"
   headwords:
     dinneen: "mothughadh"
+"row̥":
+  section: 36
+  english: "was"
+  from: "raba"
+    from: "robói"
+  note: "enclitic form"
+"kõhərə":
+  section: 36
+  english: "sign"
+  headwords:
+    irische_text: "comartha"
+  note: "we have transposition of the h < th and consequent shortening"
+"bro:n":
+  section: 38
+  english: "sorrow"
+  old_irish: "brón"
+# krõ:, ‘nut’, M.Ir. cnó, O.Ir. cnú
+"Lo:n":
+  section: 38
+  english: "store, provision"
+  old_irish: "loun"
