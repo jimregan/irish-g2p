@@ -1,7 +1,9 @@
 # § 35.
-ɔ:rαn, ‘song’, Meyer amrán
-gɔ:Ltəs, ‘farm’, Di. gabháltas
-gɔ:lə, gen. sing. of gɔ:l′, ‘yeast’, Di. gabháil but go:l ‘groin’, go:lαχəs, ‘springing’ (of horses), go:m = gabhaim, v. § 40.
+gɔ:lə, ‘yeast’, Di. gabháil
+!:genitive_singular_of: "gɔ:l′"
+go:l, ‘groin’
+go:lαχəs, ‘springing (of horses)’
+go:m = gabhaim, v. § 40.
 
 # § 36.
 brow̥, ‘blade of grass’, Meyer brobh, brod
