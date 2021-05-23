@@ -2663,4 +2663,16 @@
 "mo:":
   section: 38
   english: "more"
-  old_irish: "moo"
+  old_irish: ["moo", "mó"]
+"mo:d′ə":
+  section: 38
+  english: "vow"
+  middle_irish: "móit"
+"mo:n′":
+  section: 38
+  english: "peat"
+  middle_irish: "móin"
+"mo:rtəs":
+  section: 38
+  english: "boasting"
+  middle_irish: "mórdatu"
